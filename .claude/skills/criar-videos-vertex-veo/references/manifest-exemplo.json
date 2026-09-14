@@ -1,0 +1,7 @@
+{
+  "videos": [
+    { "id": "V01", "scene": "casa", "hook": "Trabalhou a vida toda sem carteira", "line": "Doutor, trabalhei a vida toda em casa e na roça, mas nunca assinaram minha carteira. Será que eu perdi o direito de me aposentar?" },
+    { "id": "V02", "scene": "inss", "hook": "INSS diz que falta tempo", "line": "Doutor, já tenho 60 anos e tô exausta, mas no INSS disseram que ainda falta tempo de contribuição. Eu nunca vou conseguir parar de trabalhar?" },
+    { "id": "V03", "scene": "rua", "hook": "Vizinha se aposentou", "line": "Doutor, minha vizinha trabalhou na roça igual a mim e o senhor aposentou ela. Será que faz o mesmo por mim?" }
+  ]
+}

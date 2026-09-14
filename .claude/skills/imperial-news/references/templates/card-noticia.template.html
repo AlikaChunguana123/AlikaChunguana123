@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="r3x4">
+<head>
+<meta charset="UTF-8">
+<title>Notícia · {{HANDLE}}</title>
+<link rel="stylesheet" href="styles/minimalist-bold.css">
+<link rel="stylesheet" href="styles/noticia.css">
+<style>html, body { background: #0A0A0A !important; }</style>
+</head>
+<body>
+<!--
+  PLACEHOLDERS:
+  {{TARJA}}            categoria da pauta (ex: "Previdência Social", "Saúde", "Imposto de Renda")
+  {{DATA}}             SÓ para notícia fresca e datada (DD.MM.AAAA). Pauta perene → REMOVA a div inteira.
+  {{MANCHETE_ANTES}} {{ACCENT}} {{MANCHETE_DEPOIS}}
+                       accent = número/termo de impacto, CURTO (1-3 palavras)
+  {{LINHAFINA}}        2-3 linhas com os dados verificados
+  {{FONTE}}            ex: "Fonte: Agência Gov / INSS"
+  {{MONOGRAMA}} {{MARCA}} {{HANDLE}}
+  {{SELO}}             "Imagem ilustrativa" quando foto de IA/banco. Sem foto → remova a div.
+
+  SEM FOTO: remova o style inline do <section>. Fundo escuro sólido é um card válido.
+  PALETA DA MENTORADA: substitua --carmin no :root dos dois CSS pela cor primária dela.
+  4:5 (1080×1350): remova a classe "r3x4" do <html> e renderize com --window-size=1080,1350.
+-->
+<section class="post noticia" style="background-image:url('photos/foto-capa.png');">
+
+  <header class="noticia-topo">
+    <div class="noticia-tarja">{{TARJA}}</div>
+    <div class="noticia-data">{{DATA}}</div>
+  </header>
+
+  <div class="noticia-content">
+    <div class="noticia-divider"></div>
+
+    <h1 class="noticia-manchete">{{MANCHETE_ANTES}}<span class="accent">{{ACCENT}}</span>{{MANCHETE_DEPOIS}}</h1>
+
+    <p class="noticia-linhafina">{{LINHAFINA}}</p>
+
+    <div class="noticia-fonte">{{FONTE}}</div>
+  </div>
+
+  <footer class="noticia-rodape">
+    <div class="brand">
+      <div class="brand-mark">{{MONOGRAMA}}</div>
+      <div class="brand-text">{{MARCA}}<span class="sub">{{HANDLE}}</span></div>
+    </div>
+    <div class="noticia-selo">{{SELO}}</div>
+  </footer>
+
+</section>
+</body>
+</html>

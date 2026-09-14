@@ -1,0 +1,681 @@
+/* ============================================================
+   EDITORIAL QUIET — v3 (sistema final pós-referência)
+   Tom: editorial premium feminino · Paleta: dark plum + champagne + cream
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=DM+Sans:wght@300;400;500;600;700;900&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --ink:           #1F0D23;
+  --ink-soft:      #2A1535;
+  --champagne:     #CDAC6C;
+  --champagne-pale:#E8DCC4;
+  --cream:         #F4ECD8;
+  --cream-warm:    #EDE3CC;
+  --terracota:     #B25E47;
+  --muted-dark:    rgba(244,236,216,0.55);
+  --muted-cream:   rgba(31,13,35,0.55);
+  --hl-dark:       rgba(217, 195, 154, 0.22);
+  --hl-cream:      rgba(31, 13, 35, 0.16);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body { width: 1080px; height: 1350px; background: #1F0D23; }
+body.body-cream { background: #F4ECD8; }
+body {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+.slide {
+  width: 1080px;
+  height: 1350px;
+  position: relative;
+  overflow: hidden;
+}
+
+.slide.dark  { background: var(--ink); color: var(--cream); }
+.slide.cream { background: var(--cream); color: var(--ink); }
+
+/* Foto-fundo full bleed pros slides com foto */
+.slide.has-photo {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center 22%;
+}
+
+/* Overlay editorial em foto-fundo (dark) */
+.slide.has-photo.dark::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg,
+    rgba(31,13,35,0.55) 0%,
+    rgba(31,13,35,0.30) 25%,
+    rgba(31,13,35,0.35) 50%,
+    rgba(31,13,35,0.78) 78%,
+    rgba(31,13,35,0.90) 100%
+  );
+  pointer-events: none;
+  z-index: 1;
+}
+
+.slide.has-photo.cream::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg,
+    rgba(244,236,216,0.20) 0%,
+    rgba(244,236,216,0.05) 30%,
+    rgba(244,236,216,0.20) 60%,
+    rgba(244,236,216,0.75) 85%,
+    rgba(244,236,216,0.88) 100%
+  );
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Textura noise editorial sutil */
+.slide::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+  opacity: 0.06;
+  mix-blend-mode: overlay;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* ===== TOPO: monograma + paginação ===== */
+.cover-top {
+  position: absolute;
+  top: 50px;
+  left: 60px;
+  right: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 3;
+}
+
+.logo-circle {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.logo-mark {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: 1px solid var(--champagne);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 30px;
+  color: var(--champagne);
+  background: rgba(31,13,35,0.55);
+  backdrop-filter: blur(4px);
+}
+
+.slide.cream .logo-mark {
+  background: rgba(244,236,216,0.65);
+  color: var(--terracota);
+  border-color: var(--terracota);
+}
+
+.logo-text {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+
+.slide.dark .logo-text { color: var(--cream); text-shadow: 0 2px 8px rgba(31,13,35,0.7); }
+.slide.cream .logo-text { color: var(--ink); }
+
+.logo-text .sub {
+  display: block;
+  font-weight: 400;
+  margin-top: 2px;
+}
+
+.slide.dark .logo-text .sub { color: rgba(244,236,216,0.7); }
+.slide.cream .logo-text .sub { color: rgba(31,13,35,0.6); }
+
+.page-num-top {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.22em;
+}
+
+.slide.dark .page-num-top { color: rgba(244,236,216,0.7); text-shadow: 0 2px 8px rgba(31,13,35,0.6); }
+.slide.cream .page-num-top { color: rgba(31,13,35,0.55); }
+
+/* ===== SWIPE INDICATOR ===== */
+.swipe-indicator {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: rgba(244, 236, 216, 0.95);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+  box-shadow: 0 4px 20px rgba(31,13,35,0.4);
+}
+
+.swipe-indicator svg {
+  width: 22px;
+  height: 22px;
+}
+
+/* ===== TEXTO INFERIOR (cover-text) ===== */
+.cover-text {
+  position: absolute;
+  bottom: 145px;
+  left: 0;
+  right: 0;
+  padding: 0 60px;
+  text-align: center;
+  z-index: 2;
+}
+
+/* Eyebrow com hairlines dos dois lados (sandwich) */
+.cover-eyebrow-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 26px;
+}
+
+.cover-eyebrow-wrap .rule {
+  height: 1px;
+  width: 60px;
+  background: var(--champagne);
+  opacity: 0.85;
+}
+
+.slide.cream .cover-eyebrow-wrap .rule { background: var(--terracota); opacity: 0.9; }
+
+.cover-eyebrow {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+}
+
+.slide.dark .cover-eyebrow {
+  color: var(--champagne);
+  text-shadow: 0 2px 12px rgba(31,13,35,0.7);
+}
+
+.slide.cream .cover-eyebrow { color: var(--terracota); }
+
+/* ===== HEADLINE 2 partes (line-soft + line-loud) ===== */
+.cover-title {
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+.cover-title .line-soft {
+  display: block;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 1.0;
+  letter-spacing: -0.005em;
+  margin-bottom: 8px;
+}
+
+.slide.dark .cover-title .line-soft {
+  color: var(--cream);
+  text-shadow: 0 4px 22px rgba(31,13,35,0.85);
+}
+
+.slide.cream .cover-title .line-soft { color: var(--ink-soft); }
+
+.cover-title .line-loud {
+  display: block;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 124px;
+  line-height: 0.96;
+  letter-spacing: -0.020em;
+  text-transform: uppercase;
+}
+
+.slide.dark .cover-title .line-loud {
+  color: var(--champagne);
+  text-shadow: 0 4px 32px rgba(31,13,35,0.92), 0 2px 12px rgba(31,13,35,0.7);
+}
+
+.slide.cream .cover-title .line-loud { color: var(--terracota); }
+
+/* Variantes de tamanho da headline */
+.cover-title.medium .line-loud { font-size: 96px; }
+.cover-title.small .line-loud { font-size: 76px; }
+
+/* ===== BOX BODY (highlight centralizada) ===== */
+.cover-highlight-box {
+  margin: 38px auto 0;
+  max-width: 880px;
+  border-top: 1px solid var(--champagne);
+  border-bottom: 1px solid var(--champagne);
+  padding: 28px 40px;
+  text-align: center;
+  backdrop-filter: blur(8px);
+}
+
+.slide.dark .cover-highlight-box {
+  background: rgba(31,13,35,0.72);
+}
+
+.slide.cream .cover-highlight-box {
+  background: rgba(244,236,216,0.78);
+  border-color: var(--terracota);
+}
+
+.cover-highlight-box .text {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 1.35;
+}
+
+.slide.dark .cover-highlight-box .text { color: var(--cream); }
+.slide.cream .cover-highlight-box .text { color: var(--ink); }
+
+.cover-highlight-box .text .acc { color: var(--champagne); }
+.slide.cream .cover-highlight-box .text .acc { color: var(--terracota); }
+
+/* ===== CTA CODE (palavra-código em monospace) ===== */
+.cta-code {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--champagne);
+  padding: 0 3px;
+}
+
+.slide.cream .cta-code { color: var(--terracota); }
+
+/* ===== RODAPÉ: meta única ===== */
+.cover-bottom {
+  position: absolute;
+  bottom: 40px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 3;
+}
+
+.cover-bottom .meta {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+}
+
+.slide.dark .cover-bottom .meta {
+  color: rgba(244, 236, 216, 0.5);
+  text-shadow: 0 2px 8px rgba(31,13,35,0.5);
+}
+
+.slide.cream .cover-bottom .meta { color: rgba(31, 13, 35, 0.45); }
+
+/* ===== 3 SINAIS (slide 5 — layout especial) ===== */
+.sinais-container {
+  position: absolute;
+  bottom: 145px;
+  left: 0;
+  right: 0;
+  padding: 0 80px;
+  z-index: 2;
+}
+
+.sinais-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  background: rgba(31,13,35,0.72);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid var(--champagne);
+  border-bottom: 1px solid var(--champagne);
+  padding: 14px 36px;
+}
+
+.sinal {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  align-items: center;
+  gap: 28px;
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(205, 172, 108, 0.22);
+}
+
+.sinal:last-child { border-bottom: none; }
+
+.sinal-num {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 1;
+  color: var(--champagne);
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+
+.sinal-text {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 1.32;
+  color: var(--cream);
+}
+
+.sinal-text .acc { color: var(--champagne); font-weight: 500; }
+
+/* ============================================================
+   COMPONENTES SLIDES 2-8 (layouts variados v2 — restaurados)
+   ============================================================ */
+
+/* Top frame compacto (variante usada nos slides 2-8) */
+.top-frame {
+  position: absolute;
+  top: 60px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  z-index: 4;
+}
+
+.top-frame .logo-circle { gap: 14px; display: flex; align-items: center; }
+
+.top-frame .meta-right {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+.slide.dark .top-frame .meta-right { color: rgba(244, 236, 216, 0.6); }
+.slide.cream .top-frame .meta-right { color: rgba(31, 13, 35, 0.55); }
+
+/* Layout split (texto + foto) */
+.layout-split {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  z-index: 2;
+}
+
+.layout-split.split-55-45 { grid-template-columns: 55% 45%; }
+.layout-split.split-60-40 { grid-template-columns: 60% 40%; }
+.layout-split.split-45-55 { grid-template-columns: 45% 55%; }
+
+.split-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 160px 70px 130px;
+  position: relative;
+}
+
+.photo-block {
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+/* Layout só-texto (slides 2, 4, 6) */
+.layout-text {
+  position: absolute;
+  inset: 0;
+  padding: 160px 80px 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 2;
+}
+
+/* Eyebrow (variante slides 2-8 — só hairline embaixo, alinhado à esquerda) */
+.eyebrow {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+}
+
+.slide.dark .eyebrow  { color: var(--champagne); }
+.slide.cream .eyebrow { color: var(--terracota); }
+
+.hairline {
+  height: 1px;
+  width: 56px;
+  margin: 16px 0 0;
+}
+
+.slide.dark .hairline  { background: var(--champagne); }
+.slide.cream .hairline { background: var(--terracota); }
+
+/* Headline DM Sans Bold (sem italic) — variantes de tamanho */
+.headline {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  line-height: 1.02;
+  letter-spacing: -0.030em;
+  margin-top: 24px;
+}
+
+.headline.giant   { font-size: 96px; font-weight: 800; }
+.headline.big     { font-size: 78px; font-weight: 700; }
+.headline.medium  { font-size: 62px; font-weight: 700; }
+.headline.small   { font-size: 48px; font-weight: 700; }
+
+.slide.dark .headline  { color: var(--cream); }
+.slide.cream .headline { color: var(--ink); }
+
+.headline .accent { color: var(--champagne); }
+.slide.cream .headline .accent { color: var(--terracota); }
+
+/* Quote em italic (citação literal de cliente, entre aspas) */
+.headline .quote {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  color: var(--champagne);
+}
+
+.slide.cream .headline .quote { color: var(--terracota); }
+
+/* Body */
+.body-text {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.55;
+  max-width: 760px;
+  margin-top: 28px;
+}
+
+.slide.dark .body-text  { color: rgba(244, 236, 216, 0.86); }
+.slide.cream .body-text { color: rgba(31, 13, 35, 0.82); }
+
+/* Palavras-chave em negrito + accent */
+.body-text strong {
+  font-weight: 700;
+}
+
+.slide.dark .body-text strong  { color: var(--champagne-pale); }
+.slide.cream .body-text strong { color: var(--terracota); }
+
+/* Comparativo 2 colunas (slide 4) */
+.compare {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  margin-top: 44px;
+  border-top: 1px solid var(--hl-dark);
+}
+
+.compare-col {
+  padding: 30px 32px 12px;
+  position: relative;
+}
+
+.compare-col:first-child {
+  border-right: 1px solid var(--hl-dark);
+  padding-left: 0;
+}
+
+.compare-col:last-child {
+  padding-right: 0;
+}
+
+.compare-label {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+.compare-col:first-child .compare-label { color: var(--terracota); }
+.compare-col:last-child  .compare-label { color: var(--champagne); }
+
+.compare-quote {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--cream);
+}
+
+/* 3 sinais (slide 5 — layout split com lista à esquerda) */
+.sinais-grid-v2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 32px;
+}
+
+.sinal-row {
+  display: grid;
+  grid-template-columns: 78px 1fr;
+  align-items: center;
+  gap: 28px;
+  padding: 22px 0;
+  border-bottom: 1px solid var(--hl-dark);
+}
+
+.sinal-row:last-child { border-bottom: none; }
+
+.sinal-row .num {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 1;
+  color: var(--champagne);
+}
+
+.sinal-row .text {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.45;
+  color: var(--cream);
+}
+
+.sinal-row .text strong { color: var(--champagne-pale); font-weight: 600; }
+
+/* Manifest center (slide 6) */
+.manifesto-center {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 100px;
+  z-index: 2;
+}
+
+/* CTA block (slide 8) */
+.cta-block-v2 {
+  margin-top: 40px;
+  padding-top: 30px;
+  border-top: 1px solid var(--hl-dark);
+  max-width: 640px;
+}
+
+.cta-block-v2 .text {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.5;
+  color: var(--cream);
+}
+
+.cta-block-v2 .code {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 0.04em;
+  color: var(--champagne);
+  padding: 0 4px;
+}
+
+/* Rodapé compacto (slides 2-8) */
+.bottom-frame-v2 {
+  position: absolute;
+  bottom: 50px;
+  left: 80px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 3;
+}
+
+.bottom-frame-v2 .meta {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+}
+
+.slide.dark .bottom-frame-v2 .meta  { color: rgba(244, 236, 216, 0.5); }
+.slide.cream .bottom-frame-v2 .meta { color: rgba(31, 13, 35, 0.5); }

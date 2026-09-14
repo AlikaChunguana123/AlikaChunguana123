@@ -1,0 +1,62 @@
+/* ============================================================
+   NATIVE / RAW (Nativo / Cru) — foto cheia + caixa branca de texto
+   Estética: photo dump nativo do Instagram, fonte sans limpa.
+   Proposital pra NÃO parecer "designed" — parece post orgânico,
+   tirado na hora, sem marca d'água editorial.
+   ============================================================ */
+
+:root {
+  /* Caixa de legenda — defaults nativos (substituíveis pela aluna) */
+  --caption-bg:    rgba(255, 255, 255, 0.95);  /* branco quase sólido */
+  --caption-text:  #1b1b1b;                     /* quase-preto legível */
+  --caption-radius: 6px;                        /* canto sutil, app-like */
+  /* Posição fixa da caixa (ponto aprovado — igual em todos os slides) */
+  --caption-bottom: 300px;
+  --caption-inset:  40px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body { width: 1080px; height: 1350px; background: #000; }
+
+.slide {
+  width: 1080px;
+  height: 1350px;
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  image-orientation: from-image;
+}
+
+/* Caixa de legenda (estilo nativo) — FIXA no mesmo lugar em todos os slides */
+.caption {
+  position: absolute;
+  left: var(--caption-inset);
+  right: var(--caption-inset);
+  bottom: var(--caption-bottom);
+  background: var(--caption-bg);
+  border-radius: var(--caption-radius);
+  padding: 34px 40px;
+}
+
+.caption p {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 46px;
+  line-height: 1.32;
+  letter-spacing: -0.01em;
+  color: var(--caption-text);
+  text-align: center;
+  font-weight: 400;
+}
+
+.caption strong { font-weight: 700; }
+
+/* ------------------------------------------------------------
+   Variante opcional CRU-DARK: caixa escura translúcida + texto
+   claro. Use só se as fotos da aluna forem muito claras/lavadas
+   e a caixa branca sumir. Trocar no :root:
+     --caption-bg: rgba(0,0,0,0.55);
+     --caption-text: #ffffff;
+   ------------------------------------------------------------ */

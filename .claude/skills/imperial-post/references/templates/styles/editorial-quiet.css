@@ -1,0 +1,489 @@
+/* ============================================================
+   EDITORIAL QUIET — imperial-post (5 tipos de post-frase)
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=DM+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --ink:           #1F0D23;
+  --ink-soft:      #2A1535;
+  --champagne:     #CDAC6C;
+  --champagne-pale:#E8DCC4;
+  --cream:         #F4ECD8;
+  --terracota:     #B25E47;
+  --muted-dark:    rgba(244,236,216,0.55);
+  --hl-dark:       rgba(217, 195, 154, 0.22);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body {
+  width: 1080px;
+  height: 1350px;
+  background: var(--ink);
+}
+
+body {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+}
+
+.post {
+  width: 1080px;
+  height: 1350px;
+  position: relative;
+  overflow: hidden;
+  background: var(--ink);
+  color: var(--cream);
+}
+
+/* Textura sutil universal */
+.post::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+  opacity: 0.06;
+  mix-blend-mode: overlay;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* ===== Brand (canto inferior) ===== */
+.brand {
+  position: absolute;
+  bottom: 60px;
+  left: 80px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  z-index: 5;
+}
+
+.brand-mark {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: 1px solid var(--champagne);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 26px;
+  color: var(--champagne);
+  background: rgba(31,13,35,0.6);
+}
+
+.brand-text {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  line-height: 1.2;
+  color: var(--cream);
+}
+
+.brand-text .sub {
+  display: block;
+  font-weight: 400;
+  color: var(--muted-dark);
+  margin-top: 2px;
+}
+
+/* ===== Eyebrow universal ===== */
+.eyebrow {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: var(--champagne);
+}
+
+.eyebrow-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin-bottom: 26px;
+}
+
+.eyebrow-wrap .rule {
+  height: 1px;
+  width: 50px;
+  background: var(--champagne);
+  opacity: 0.85;
+}
+
+/* ============================================================
+   TIPO 1 — TWEET-POST (cartão estilo tweet)
+   ============================================================ */
+.post.tweet-post {
+  padding: 110px 80px 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.tweet-card {
+  background: rgba(244, 236, 216, 0.04);
+  border: 1px solid var(--hl-dark);
+  border-radius: 16px;
+  padding: 50px 56px;
+  max-width: 860px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+.tweet-header {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 36px;
+}
+
+.tweet-avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 1px solid var(--champagne);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 32px;
+  color: var(--champagne);
+  background: var(--ink);
+  flex-shrink: 0;
+}
+
+.tweet-author {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  font-size: 21px;
+  color: var(--cream);
+  letter-spacing: -0.01em;
+}
+
+.tweet-handle {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  color: var(--muted-dark);
+  margin-top: 2px;
+}
+
+.tweet-text {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 38px;
+  line-height: 1.32;
+  color: var(--cream);
+  letter-spacing: -0.018em;
+}
+
+.tweet-text .accent {
+  color: var(--champagne);
+  font-weight: 700;
+}
+
+.tweet-footer {
+  margin-top: 36px;
+  padding-top: 24px;
+  border-top: 1px solid var(--hl-dark);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: var(--muted-dark);
+}
+
+/* ============================================================
+   TIPO 2 — FRASE-QUOTE (manifesto editorial centralizado)
+   ============================================================ */
+.post.frase-quote {
+  padding: 120px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.quote-mark {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 200px;
+  line-height: 0.4;
+  color: var(--champagne);
+  opacity: 0.32;
+  margin-bottom: 20px;
+  z-index: 2;
+}
+
+.quote-text {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 62px;
+  line-height: 1.18;
+  letter-spacing: -0.018em;
+  color: var(--champagne-pale);
+  max-width: 880px;
+  z-index: 2;
+}
+
+.quote-text .accent {
+  color: var(--champagne);
+}
+
+.quote-attribution {
+  margin-top: 50px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: var(--muted-dark);
+  z-index: 2;
+}
+
+.quote-attribution::before {
+  content: '— ';
+  color: var(--champagne);
+}
+
+/* ============================================================
+   TIPO 3 — FRASE-DO-REEL (foto/cena ao fundo + frase)
+   ============================================================ */
+.post.frase-do-reel {
+  background-size: cover;
+  background-position: center 22%;
+  background-repeat: no-repeat;
+  padding: 110px 80px 130px;
+  position: relative;
+}
+
+.post.frase-do-reel::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(31,13,35,0.55) 0%, rgba(31,13,35,0.40) 40%, rgba(31,13,35,0.85) 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.reel-content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 100px;
+  z-index: 3;
+}
+
+.reel-play {
+  width: 78px;
+  height: 78px;
+  border-radius: 50%;
+  border: 2px solid var(--cream);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  background: rgba(31,13,35,0.5);
+  backdrop-filter: blur(4px);
+}
+
+.reel-play::before {
+  content: '';
+  width: 0;
+  height: 0;
+  border-left: 22px solid var(--cream);
+  border-top: 14px solid transparent;
+  border-bottom: 14px solid transparent;
+  margin-left: 6px;
+}
+
+.reel-text {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 1.05;
+  letter-spacing: -0.020em;
+  color: var(--champagne-pale);
+  text-shadow: 0 4px 30px rgba(31,13,35,0.9);
+  max-width: 880px;
+}
+
+.reel-text .accent { color: var(--champagne); }
+
+.reel-cta {
+  margin-top: 40px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.36em;
+  text-transform: uppercase;
+  color: var(--champagne);
+  text-shadow: 0 2px 12px rgba(31,13,35,0.7);
+}
+
+/* ============================================================
+   TIPO 4 — PRINT-DM (mockup de DM)
+   ============================================================ */
+.post.print-dm {
+  padding: 130px 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dm-tag {
+  background: var(--champagne);
+  color: var(--ink);
+  padding: 8px 18px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+  z-index: 2;
+}
+
+.dm-frame {
+  background: rgba(244, 236, 216, 0.06);
+  border: 1px solid var(--hl-dark);
+  border-radius: 16px;
+  padding: 36px 40px;
+  max-width: 820px;
+  width: 100%;
+  z-index: 2;
+}
+
+.dm-from {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 24px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--hl-dark);
+}
+
+.dm-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--champagne) 0%, var(--terracota) 100%);
+  opacity: 0.5;
+}
+
+.dm-from-text {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--muted-dark);
+}
+
+.dm-bubble {
+  background: rgba(217, 195, 154, 0.10);
+  border-left: 2px solid var(--champagne);
+  padding: 24px 30px;
+  border-radius: 4px;
+}
+
+.dm-text {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 1.45;
+  color: var(--cream);
+}
+
+.dm-highlight {
+  margin-top: 30px;
+  padding-top: 24px;
+  border-top: 1px solid var(--hl-dark);
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 1.32;
+  color: var(--champagne);
+  text-align: center;
+}
+
+/* ============================================================
+   TIPO 5 — POST-ÂNCORA (foto editorial + statement)
+   ============================================================ */
+.post.post-ancora {
+  background-size: cover;
+  background-position: center 18%;
+  background-repeat: no-repeat;
+  padding: 0;
+  position: relative;
+}
+
+.post.post-ancora::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(31,13,35,0.45) 0%, rgba(31,13,35,0.25) 35%, rgba(31,13,35,0.45) 55%, rgba(31,13,35,0.88) 85%, rgba(31,13,35,0.95) 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.ancora-content {
+  position: absolute;
+  bottom: 160px;
+  left: 0;
+  right: 0;
+  padding: 0 80px;
+  text-align: center;
+  z-index: 3;
+}
+
+.ancora-text {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 1.04;
+  letter-spacing: -0.020em;
+  color: var(--cream);
+  text-shadow: 0 4px 30px rgba(31,13,35,0.92);
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+.ancora-text .accent { color: var(--champagne); }
+
+.ancora-divider {
+  height: 1px;
+  width: 70px;
+  background: var(--champagne);
+  margin: 36px auto;
+  opacity: 0.85;
+}
+
+.ancora-attribution {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.36em;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-shadow: 0 2px 12px rgba(31,13,35,0.8);
+}

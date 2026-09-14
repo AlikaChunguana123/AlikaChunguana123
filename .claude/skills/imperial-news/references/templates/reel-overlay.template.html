@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Overlay reel · {{HANDLE}}</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800;900&family=JetBrains+Mono:wght@500&display=swap');
+
+/*
+  PLACEHOLDERS: {{TARJA}} {{DATA}} {{MANCHETE_ANTES}} {{ACCENT}} {{MANCHETE_DEPOIS}}
+                {{SUB}} {{MONOGRAMA}} {{MARCA}} {{HANDLE}} {{SELO}}
+  - Manchete total: 3-6 palavras. É reel — quem lê está passando o dedo.
+  - {{ACCENT}}: use &nbsp; entre número e palavra ("12&nbsp;meses") — com quebra,
+    viram DUAS caixas de cor e parece bug.
+  - {{DATA}}: só notícia fresca. Pauta perene → remova a div.
+  - PALETA DA MENTORADA: troque --carmin abaixo pela cor primária dela.
+
+  RENDER (PNG transparente — o fundo cinza no preview É a transparência):
+  chrome --headless --disable-gpu --hide-scrollbars --default-background-color=00000000
+    "--screenshot=<CAMINHO ABSOLUTO>\texto.png" --window-size=1080,1920
+    --virtual-time-budget=10000 --force-device-scale-factor=1 "file:///<url com %20>"
+*/
+
+:root {
+  --cream:       #F5F1EA;
+  --cream-100:   #FFFFFF;
+  --carmin:      #B83A2E;
+  --muted-cream: rgba(245, 241, 234, 0.62);
+  --rule-cream:  rgba(245, 241, 234, 0.18);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body {
+  width: 1080px;
+  height: 1920px;
+  background: transparent;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.overlay { width: 1080px; height: 1920px; position: relative; overflow: hidden; }
+
+/* Scrim embutido no PNG: o texto precisa ler sobre QUALQUER footage. */
+.overlay::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(10,10,10,0.78) 0%,
+    rgba(10,10,10,0.30) 20%,
+    rgba(10,10,10,0.10) 42%,
+    rgba(10,10,10,0.62) 66%,
+    rgba(10,10,10,0.94) 86%,
+    rgba(10,10,10,0.97) 100%
+  );
+}
+
+.topo { position: absolute; top: 90px; left: 70px; right: 70px; display: flex; align-items: center; gap: 22px; }
+
+.tarja {
+  background: var(--carmin);
+  color: var(--cream-100);
+  padding: 12px 24px;
+  font-size: 17px;
+  font-weight: 800;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+}
+
+.data {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  color: var(--cream);
+  opacity: 0.9;
+}
+
+.corpo { position: absolute; bottom: 330px; left: 70px; right: 70px; }
+
+.divider { height: 6px; width: 90px; background: var(--carmin); margin-bottom: 40px; }
+
+.manchete {
+  font-size: 88px;
+  font-weight: 900;
+  line-height: 1.04;
+  letter-spacing: -0.045em;
+  color: var(--cream);
+  text-shadow: 0 6px 40px rgba(10,10,10,0.95);
+}
+
+/* nowrap: sem isso o destaque quebra no meio e vira DUAS caixas de cor. */
+.manchete .accent {
+  background: var(--carmin);
+  color: var(--cream-100);
+  padding: 2px 16px;
+  text-shadow: none;
+  white-space: nowrap;
+}
+
+.sub {
+  margin-top: 44px;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 1.28;
+  color: var(--cream);
+  opacity: 0.94;
+  text-shadow: 0 3px 24px rgba(10,10,10,0.95);
+  max-width: 880px;
+}
+
+.rodape { position: absolute; bottom: 110px; left: 70px; right: 70px; display: flex; align-items: center; justify-content: space-between; }
+
+.brand { display: flex; align-items: center; gap: 18px; }
+
+.brand-mark {
+  width: 62px;
+  height: 62px;
+  background: var(--carmin);
+  color: var(--cream-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  font-size: 28px;
+}
+
+.brand-text {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.20em;
+  text-transform: uppercase;
+  line-height: 1.25;
+  color: var(--cream);
+}
+
+.brand-text .sub-marca { display: block; font-weight: 500; margin-top: 3px; color: var(--muted-cream); }
+
+.selo {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  letter-spacing: 0.14em;
+  color: var(--muted-cream);
+  text-transform: uppercase;
+}
+</style>
+</head>
+<body>
+<section class="overlay">
+
+  <header class="topo">
+    <div class="tarja">{{TARJA}}</div>
+    <div class="data">{{DATA}}</div>
+  </header>
+
+  <div class="corpo">
+    <div class="divider"></div>
+    <h1 class="manchete">{{MANCHETE_ANTES}}<span class="accent">{{ACCENT}}</span>{{MANCHETE_DEPOIS}}</h1>
+    <p class="sub">{{SUB}}</p>
+  </div>
+
+  <footer class="rodape">
+    <div class="brand">
+      <div class="brand-mark">{{MONOGRAMA}}</div>
+      <div class="brand-text">{{MARCA}}<span class="sub-marca">{{HANDLE}}</span></div>
+    </div>
+    <div class="selo">{{SELO}}</div>
+  </footer>
+
+</section>
+</body>
+</html>
