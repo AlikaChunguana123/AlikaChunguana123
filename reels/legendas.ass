@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat ExtraBold,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,2,2,60,60,330,1
+Style: Title,Montserrat Black,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,60,60,250,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:01:01.00,Title,,0,0,0,,ÉRAMOS NOVOS DEMAIS\N{\c&H00D7FF&}PARA ENTENDER
+Dialogue: 0,0:00:00.80,0:00:02.40,Sub,,0,0,0,,{\fad(60,40)}Vou te contar...
+Dialogue: 0,0:00:02.40,0:00:04.40,Sub,,0,0,0,,{\fad(60,40)}Preciso arrumar emprego logo.
+Dialogue: 0,0:00:04.40,0:00:06.80,Sub,,0,0,0,,{\fad(60,40)}Minhas contas viraram um morro!
+Dialogue: 0,0:00:07.00,0:00:08.60,Sub,,0,0,0,,{\fad(60,40)}Não se preocupe, Roy.
+Dialogue: 0,0:00:09.00,0:00:11.20,Sub,,0,0,0,,{\fad(60,40)}Esse é o lado bom
+Dialogue: 0,0:00:11.20,0:00:13.00,Sub,,0,0,0,,{\fad(60,40)}dos tempos difíceis:
+Dialogue: 0,0:00:13.00,0:00:14.50,Sub,,0,0,0,,{\fad(60,40)}todos se ajudam.
+Dialogue: 0,0:00:14.50,0:00:16.40,Sub,,0,0,0,,{\fad(60,40)}Até os cobradores estão compreensivos.
+Dialogue: 0,0:00:17.00,0:00:18.90,Sub,,0,0,0,,{\fad(60,40)}Estão retomando seu carro.
+Dialogue: 0,0:00:19.10,0:00:21.30,Sub,,0,0,0,,{\fad(60,40)}É isso aí, caloteiro!
+Dialogue: 0,0:00:21.30,0:00:23.30,Sub,,0,0,0,,{\fad(60,40)}Da próxima vez, pague as contas.
+Dialogue: 0,0:00:23.60,0:00:25.40,Sub,,0,0,0,,{\fad(60,40)}Essa tal de recessão…
+Dialogue: 0,0:00:25.40,0:00:27.70,Sub,,0,0,0,,{\fad(60,40)}Logo levam minha televisão.
+Dialogue: 0,0:00:28.40,0:00:30.00,Sub,,0,0,0,,{\fad(60,40)}Não esquenta, amigo.
+Dialogue: 0,0:00:30.00,0:00:31.90,Sub,,0,0,0,,{\fad(60,40)}O governo nunca deixaria.
+Dialogue: 0,0:00:31.90,0:00:33.80,Sub,,0,0,0,,{\fad(60,40)}A TV é ferramenta essencial
+Dialogue: 0,0:00:33.80,0:00:35.40,Sub,,0,0,0,,{\fad(60,40)}pras massas empobrecidas
+Dialogue: 0,0:00:35.40,0:00:37.40,Sub,,0,0,0,,{\fad(60,40)}{\c&H00D7FF&}se sentirem distraídas e confiantes.
+Dialogue: 0,0:00:37.90,0:00:40.00,Sub,,0,0,0,,{\fad(60,40)}Esquece a recessão!
+Dialogue: 0,0:00:40.00,0:00:42.20,Sub,,0,0,0,,{\fad(60,40)}Vem ver os programas novos.
+Dialogue: 0,0:00:42.70,0:00:43.50,Sub,,0,0,0,,{\fad(60,40)}Tchau!
+Dialogue: 0,0:00:43.90,0:00:46.00,Sub,,0,0,0,,{\fad(60,40)}Uma família com 19 filhos,
+Dialogue: 0,0:00:46.00,0:00:47.60,Sub,,0,0,0,,{\fad(60,40)}sem pai, sem emprego
+Dialogue: 0,0:00:47.60,0:00:49.70,Sub,,0,0,0,,{\fad(60,40)}e sem dinheiro? É fácil!
+Dialogue: 0,0:00:49.90,0:00:52.00,Sub,,0,0,0,,{\fad(60,40)}Eles vivem de amor!
+Dialogue: 0,0:00:52.20,0:00:53.60,Sub,,0,0,0,,{\fad(60,40)}“Vivendo de Amor” às oito,
+Dialogue: 0,0:00:53.60,0:00:55.20,Sub,,0,0,0,,{\fad(60,40)}depois “Família Unida”
+Dialogue: 0,0:00:55.20,0:00:57.00,Sub,,0,0,0,,{\fad(60,40)}e “A Vida é Cor-de-Rosa”.
+Dialogue: 0,0:00:57.50,0:01:00.10,Sub,,0,0,0,,{\fad(60,40)}É... a vida não é tão ruim.
