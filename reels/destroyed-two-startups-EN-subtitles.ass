@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,2,2,60,60,790,1
+Style: Title,Montserrat ExtraBold,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,95,60,400,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:01:30.00,Title,,0,0,0,,He {\c&H3B30FF&}destroyed{\c&HFFFFFF&} two startups\Nin under two minutes
+Dialogue: 0,0:00:00.10,0:00:01.20,Sub,,0,0,0,,{\fad(50,30)}Some good news.
+Dialogue: 0,0:00:01.30,0:00:03.30,Sub,,0,0,0,,{\fad(50,30)}I've had your drink mixed.
+Dialogue: 0,0:00:03.30,0:00:05.50,Sub,,0,0,0,,{\fad(50,30)}Here it is in a bottle.
+Dialogue: 0,0:00:14.40,0:00:15.30,Sub,,0,0,0,,{\fad(50,30)}Cheers then.
+Dialogue: 0,0:00:16.10,0:00:17.40,Sub,,0,0,0,,{\fad(50,30)}You go first.
+Dialogue: 0,0:00:21.60,0:00:23.00,Sub,,0,0,0,,{\fad(50,30)}Does it taste good?
+Dialogue: 0,0:00:23.00,0:00:24.40,Sub,,0,0,0,,{\fad(50,30)}I like the taste.
+Dialogue: 0,0:00:31.70,0:00:33.00,Sub,,0,0,0,,{\fad(50,30)}That's...
+Dialogue: 0,0:00:34.20,0:00:35.80,Sub,,0,0,0,,{\fad(50,30)}chalky…
+Dialogue: 0,0:00:37.90,0:00:40.30,Sub,,0,0,0,,{\fad(50,30)}and quite bitter.
+Dialogue: 0,0:00:40.80,0:00:42.60,Sub,,0,0,0,,{\fad(50,30)}This is one of your products?
+Dialogue: 0,0:00:42.60,0:00:44.50,Sub,,0,0,0,,{\fad(50,30)}Describe what's on the table.
+Dialogue: 0,0:00:44.50,0:00:46.60,Sub,,0,0,0,,{\fad(50,30)}I think it's fantastic.
+Dialogue: 0,0:00:46.60,0:00:49.20,Sub,,0,0,0,,{\fad(50,30)}Fun, unique, beautiful.
+Dialogue: 0,0:00:49.20,0:00:50.70,Sub,,0,0,0,,{\fad(50,30)}So it's a unique product.
+Dialogue: 0,0:00:50.70,0:00:52.00,Sub,,0,0,0,,{\fad(50,30)}That's correct.
+Dialogue: 0,0:00:54.10,0:00:56.30,Sub,,0,0,0,,{\fad(50,30)}Here's one of your competitors.
+Dialogue: 0,0:00:58.90,0:01:01.20,Sub,,0,0,0,,{\fad(50,30)}Here's another one.
+Dialogue: 0,0:01:02.20,0:01:04.00,Sub,,0,0,0,,{\fad(50,30)}Now to me,
+Dialogue: 0,0:01:04.00,0:01:05.80,Sub,,0,0,0,,{\fad(50,30)}that looks exactly the same.
+Dialogue: 0,0:01:06.80,0:01:08.80,Sub,,0,0,0,,{\fad(50,30)}To me, they don't look the same.
+Dialogue: 0,0:01:08.80,0:01:10.60,Sub,,0,0,0,,{\fad(50,30)}They're identical.
+Dialogue: 0,0:01:10.90,0:01:12.40,Sub,,0,0,0,,{\fad(50,30)}It's hand-packed.
+Dialogue: 0,0:01:12.40,0:01:14.60,Sub,,0,0,0,,{\fad(50,30)}That won't matter to the consumer.
+Dialogue: 0,0:01:14.90,0:01:16.90,Sub,,0,0,0,,{\fad(50,30)}I think the bow on top
+Dialogue: 0,0:01:16.90,0:01:18.60,Sub,,0,0,0,,{\fad(50,30)}adds to the value.
+Dialogue: 0,0:01:18.60,0:01:20.40,Sub,,0,0,0,,{\fad(50,30)}So it's the bow?
