@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,2,2,60,60,790,1
+Style: Title,Montserrat ExtraBold,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,95,60,400,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:01:30.00,Title,,0,0,0,,Ele {\c&H3B30FF&}destruiu{\c&HFFFFFF&} duas startups\Nem menos de dois minutos
+Dialogue: 0,0:00:00.10,0:00:01.20,Sub,,0,0,0,,{\fad(50,30)}Uma boa notícia.
+Dialogue: 0,0:00:01.30,0:00:03.30,Sub,,0,0,0,,{\fad(50,30)}Mandei produzir sua bebida.
+Dialogue: 0,0:00:03.30,0:00:05.50,Sub,,0,0,0,,{\fad(50,30)}Aqui está, já engarrafada.
+Dialogue: 0,0:00:14.40,0:00:15.30,Sub,,0,0,0,,{\fad(50,30)}Saúde, então.
+Dialogue: 0,0:00:16.10,0:00:17.40,Sub,,0,0,0,,{\fad(50,30)}Você primeiro.
+Dialogue: 0,0:00:21.60,0:00:23.00,Sub,,0,0,0,,{\fad(50,30)}O gosto é bom?
+Dialogue: 0,0:00:23.00,0:00:24.40,Sub,,0,0,0,,{\fad(50,30)}Eu gosto do sabor.
+Dialogue: 0,0:00:31.70,0:00:33.00,Sub,,0,0,0,,{\fad(50,30)}É...
+Dialogue: 0,0:00:34.20,0:00:35.80,Sub,,0,0,0,,{\fad(50,30)}Tem gosto de giz…
+Dialogue: 0,0:00:37.90,0:00:40.30,Sub,,0,0,0,,{\fad(50,30)}e é bem amargo.
+Dialogue: 0,0:00:40.80,0:00:42.60,Sub,,0,0,0,,{\fad(50,30)}Esse é um dos seus produtos?
+Dialogue: 0,0:00:42.60,0:00:44.50,Sub,,0,0,0,,{\fad(50,30)}Descreva o que está na mesa.
+Dialogue: 0,0:00:44.50,0:00:46.60,Sub,,0,0,0,,{\fad(50,30)}Acho fantástico.
+Dialogue: 0,0:00:46.60,0:00:49.20,Sub,,0,0,0,,{\fad(50,30)}Divertido, único, lindo.
+Dialogue: 0,0:00:49.20,0:00:50.70,Sub,,0,0,0,,{\fad(50,30)}Então é um produto único.
+Dialogue: 0,0:00:50.70,0:00:52.00,Sub,,0,0,0,,{\fad(50,30)}Exatamente.
+Dialogue: 0,0:00:54.10,0:00:56.30,Sub,,0,0,0,,{\fad(50,30)}Aqui está um concorrente seu.
+Dialogue: 0,0:00:58.90,0:01:01.20,Sub,,0,0,0,,{\fad(50,30)}E aqui, outro concorrente.
+Dialogue: 0,0:01:02.20,0:01:04.00,Sub,,0,0,0,,{\fad(50,30)}Pra mim,
+Dialogue: 0,0:01:04.00,0:01:05.80,Sub,,0,0,0,,{\fad(50,30)}parece exatamente igual.
+Dialogue: 0,0:01:06.80,0:01:08.80,Sub,,0,0,0,,{\fad(50,30)}Pra mim, não parecem iguais.
+Dialogue: 0,0:01:08.80,0:01:10.60,Sub,,0,0,0,,{\fad(50,30)}São idênticos.
+Dialogue: 0,0:01:10.90,0:01:12.40,Sub,,0,0,0,,{\fad(50,30)}É embalado à mão.
+Dialogue: 0,0:01:12.40,0:01:14.60,Sub,,0,0,0,,{\fad(50,30)}Isso não muda nada pro cliente.
+Dialogue: 0,0:01:14.90,0:01:16.90,Sub,,0,0,0,,{\fad(50,30)}Acho que o laço em cima
+Dialogue: 0,0:01:16.90,0:01:18.60,Sub,,0,0,0,,{\fad(50,30)}agrega valor.
+Dialogue: 0,0:01:18.60,0:01:20.40,Sub,,0,0,0,,{\fad(50,30)}Então é o laço?
