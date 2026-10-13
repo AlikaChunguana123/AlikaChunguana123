@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat Black,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,6,3,8,60,60,430,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.20,Sub,,0,0,0,,{\fad(60,60)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}MULHERES DE IMPACTO GLOBAL
+Dialogue: 0,0:00:02.20,0:00:04.50,Sub,,0,0,0,,{\fad(60,60)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}GERADAS PARA FRUTIFICAR
+Dialogue: 0,0:00:04.50,0:00:07.00,Sub,,0,0,0,,{\fad(60,60)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}E {\c&H00D7FF&}MULTIPLICAR!
+Dialogue: 0,0:00:10.30,0:00:13.20,Sub,,0,0,0,,{\fad(60,60)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}…PARA AS {\c&H00D7FF&}NAÇÕES!
