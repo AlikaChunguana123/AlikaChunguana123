@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat ExtraBold,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,2,2,50,50,335,1
+Style: Title,Montserrat ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,40,40,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:01:30.00,Title,,0,0,0,,His Voice When He Said\N{\c&H00F0FF&}“But You’re Selling To Farmers.”
+Dialogue: 0,0:00:00.10,0:00:01.90,Sub,,0,0,0,,This man was about to lose
+Dialogue: 0,0:00:01.90,0:00:03.40,Sub,,0,0,0,,on Shark Tank for his morals…
+Dialogue: 0,0:00:03.40,0:00:04.70,Sub,,0,0,0,,until this happened.
+Dialogue: 0,0:00:04.70,0:00:05.60,Sub,,0,0,0,,Why not $7?
+Dialogue: 0,0:00:05.60,0:00:06.80,Sub,,0,0,0,,I've never done that.
+Dialogue: 0,0:00:06.80,0:00:08.30,Sub,,0,0,0,,I've always tried to be right.
+Dialogue: 0,0:00:08.30,0:00:09.30,Sub,,0,0,0,,I make a dollar off each one.
+Dialogue: 0,0:00:09.30,0:00:11.00,Sub,,0,0,0,,I can't get involved with you,
+Dialogue: 0,0:00:11.00,0:00:12.70,Sub,,0,0,0,,there's not enough margin for me
+Dialogue: 0,0:00:12.70,0:00:14.00,Sub,,0,0,0,,as a distributor.
+Dialogue: 0,0:00:14.00,0:00:16.00,Sub,,0,0,0,,I need to sell it for $12
+Dialogue: 0,0:00:16.00,0:00:18.40,Sub,,0,0,0,,so I can make some profit
+Dialogue: 0,0:00:18.40,0:00:19.60,Sub,,0,0,0,,and you can too.
+Dialogue: 0,0:00:19.60,0:00:21.30,Sub,,0,0,0,,{\c&H00F0FF&}But you're selling to farmers.
+Dialogue: 0,0:00:21.40,0:00:23.60,Sub,,0,0,0,,I get it, I'm just exploring
+Dialogue: 0,0:00:23.60,0:00:24.60,Sub,,0,0,0,,where your head's at.
+Dialogue: 0,0:00:24.60,0:00:26.00,Sub,,0,0,0,,Who's gonna pay that, Johnny?
+Dialogue: 0,0:00:26.00,0:00:27.20,Sub,,0,0,0,,Who's gonna pay?
+Dialogue: 0,0:00:27.60,0:00:29.00,Sub,,0,0,0,,I'm out.
+Dialogue: 0,0:00:31.60,0:00:32.40,Sub,,0,0,0,,Johnny?
+Dialogue: 0,0:00:32.60,0:00:33.70,Sub,,0,0,0,,Yes sir.
+Dialogue: 0,0:00:34.40,0:00:36.80,Sub,,0,0,0,,Farmers are the cornerstone of America.
+Dialogue: 0,0:00:37.40,0:00:39.30,Sub,,0,0,0,,A lot of farmers out there
+Dialogue: 0,0:00:39.30,0:00:41.10,Sub,,0,0,0,,can't afford $12 per tree.
+Dialogue: 0,0:00:41.30,0:00:43.80,Sub,,0,0,0,,Maybe they could afford $6 or $7.
+Dialogue: 0,0:00:44.50,0:00:46.50,Sub,,0,0,0,,I'll give you everything you asked for.
+Dialogue: 0,0:00:46.50,0:00:48.50,Sub,,0,0,0,,$150,000 for 20%.
+Dialogue: 0,0:00:48.60,0:00:50.50,Sub,,0,0,0,,What you're doing is right
+Dialogue: 0,0:00:50.50,0:00:52.30,Sub,,0,0,0,,and you deserve the chance to make it big
+Dialogue: 0,0:00:52.30,0:00:53.60,Sub,,0,0,0,,and do a lot of good.
+Dialogue: 0,0:00:53.60,0:00:55.30,Sub,,0,0,0,,I'd like to be your partner, Johnny.
+Dialogue: 0,0:00:55.30,0:00:57.00,Sub,,0,0,0,,I like everything you stand for.
+Dialogue: 0,0:00:57.00,0:00:58.10,Sub,,0,0,0,,Thank you, partner.
