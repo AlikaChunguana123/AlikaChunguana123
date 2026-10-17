@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat Black,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,5,70,70,0,1
+Style: Title,Montserrat Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,18,0,8,50,50,110,1
+Style: Credit,Montserrat ExtraBold,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,3,8,0,2,50,50,250,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:01:00.00,Title,,0,0,0,,ELA ACHOU QUE ESTAVA EM APUROS…\N{\c&H00D7FF&}MAS GANHOU US$ 20 MIL DO CHEFE
+Dialogue: 2,0:00:00.00,0:01:00.00,Credit,,0,0,0,,Créditos: vídeo original no YouTube
+Dialogue: 1,0:00:00.10,0:00:02.00,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}ESSA ASSISTENTE DENTÁRIA ESTAVA
+Dialogue: 1,0:00:02.00,0:00:03.70,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}A POUCOS DIAS DE COMPLETAR
+Dialogue: 1,0:00:03.70,0:00:05.00,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}20 ANOS NO CONSULTÓRIO,
+Dialogue: 1,0:00:05.00,0:00:06.40,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}QUANDO OS DOIS CHEFES A CHAMARAM.
+Dialogue: 1,0:00:06.40,0:00:08.00,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}ELA FICOU NERVOSA,
+Dialogue: 1,0:00:08.00,0:00:09.20,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}ACHANDO QUE ESTAVA EM APUROS.
+Dialogue: 1,0:00:09.20,0:00:10.80,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}ATÉ OUVIR QUE GANHARIA DINHEIRO
+Dialogue: 1,0:00:10.80,0:00:12.60,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}PELOS SEUS ANOS DE DEDICAÇÃO.
+Dialogue: 1,0:00:12.60,0:00:13.60,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}E FOI ISSO QUE FIZERAM:
+Dialogue: 1,0:00:27.50,0:00:28.50,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}ISSO NÃO É SUFICIENTE,
+Dialogue: 1,0:00:28.50,0:00:29.00,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}CERTO?
+Dialogue: 1,0:00:29.00,0:00:30.00,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}SÃO 20 ANOS, CERTO?
+Dialogue: 1,0:00:30.00,0:00:31.20,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}ENTÃO AQUI VAI…
+Dialogue: 1,0:00:49.00,0:00:49.60,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}OBRIGADA!
+Dialogue: 1,0:00:49.60,0:00:51.70,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}EU NÃO ESPERAVA POR ISSO!
+Dialogue: 1,0:00:53.00,0:00:54.80,Sub,,0,0,0,,{\pos(540,1365)\fad(60,40)}ESTOU TODA DESARRUMADA!
