@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: PT,Montserrat ExtraBold,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,5,2,5,60,60,0,1
+Style: Big,Montserrat Black,86,&H0000D7FF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Title,Montserrat Black,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,2,8,60,60,190,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:01:00.00,Title,,0,0,0,,{\fad(400,0)}A ADAPTABILIDADE É UMA\NDAS MAIORES FORÇAS\N{\c&H00D7FF&}DA HUMANIDADE
+Dialogue: 1,0:00:00.20,0:00:02.30,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}Esvazia a tua mente.
+Dialogue: 1,0:00:02.40,0:00:04.40,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}Sê informe,
+Dialogue: 1,0:00:04.40,0:00:06.20,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}sem forma,
+Dialogue: 1,0:00:06.20,0:00:08.30,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}como a água.
+Dialogue: 1,0:00:08.30,0:00:10.40,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}Se puseres água num copo,
+Dialogue: 1,0:00:10.50,0:00:12.40,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}ela torna-se o copo.
+Dialogue: 1,0:00:12.50,0:00:13.60,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}Se a puseres numa garrafa,
+Dialogue: 1,0:00:13.60,0:00:14.60,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}torna-se a garrafa.
+Dialogue: 1,0:00:14.60,0:00:16.00,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}Se a puseres num bule,
+Dialogue: 1,0:00:16.00,0:00:17.40,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}torna-se o bule.
+Dialogue: 1,0:00:17.50,0:00:19.60,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}A água pode fluir
+Dialogue: 1,0:00:19.60,0:00:21.00,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}ou infiltrar-se, gotejar
+Dialogue: 1,0:00:21.00,0:00:22.80,PT,,0,0,0,,{\pos(540,1440)\fad(80,60)}ou embater com força.
+Dialogue: 1,0:00:23.30,0:00:26.40,Big,,0,0,0,,{\pos(540,1430)\fad(200,300)\fscx70\fscy70\t(0,300,\fscx100\fscy100)}Sê água, meu amigo.
