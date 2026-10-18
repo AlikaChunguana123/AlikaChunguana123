@@ -80,7 +80,7 @@ Para todo lado.
 
 18
 00:00:55,000 --> 00:00:55,950
-Obrigada.
+Obrigado.
 
 19
 00:00:56,000 --> 00:00:56,950
@@ -89,7 +89,7 @@ De nada.
 20
 00:00:57,000 --> 00:00:58,950
 Preciso dizer de novo.
-Obrigada.
+Obrigado.
 
 21
 00:00:59,000 --> 00:00:59,950
