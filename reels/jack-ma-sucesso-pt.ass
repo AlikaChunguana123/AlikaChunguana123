@@ -6,29 +6,29 @@ WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: PT,Montserrat ExtraBold,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,4,2,8,70,70,1525,1
+Style: PT,Montserrat Black,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,2,60,60,0,1
 Style: Title,Montserrat ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,87,60,430,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 2,0:00:00.00,0:02:00.00,Title,,0,0,0,,{\c&H8FCC2E&}Jack Ma:{\c&HFFFFFF&} Não precisas de ser\Ninteligente para ter sucesso
-Dialogue: 1,0:00:03.50,0:00:05.30,PT,,0,0,0,,{\fad(80,60)}Não sei nada de tecnologia.
-Dialogue: 1,0:00:05.30,0:00:07.20,PT,,0,0,0,,{\fad(80,60)}Não sei nada de gestão.
-Dialogue: 1,0:00:07.20,0:00:09.60,PT,,0,0,0,,{\fad(80,60)}Não sei nada de… mas a única coisa é
-Dialogue: 1,0:00:09.60,0:00:11.40,PT,,0,0,0,,{\fad(80,60)}que não precisas de saber muitas coisas.
-Dialogue: 1,0:00:11.40,0:00:13.60,PT,,0,0,0,,{\fad(80,60)}Tens de encontrar pessoas mais inteligentes do que tu.
-Dialogue: 1,0:00:14.60,0:00:17.20,PT,,0,0,0,,{\fad(80,60)}A minha primeira aposta foi sempre
-Dialogue: 1,0:00:17.20,0:00:20.30,PT,,0,0,0,,{\fad(80,60)}encontrar quem perceba mais de computadores do que eu.
-Dialogue: 1,0:00:20.90,0:00:22.50,PT,,0,0,0,,{\fad(80,60)}Contabilistas mais inteligentes.
-Dialogue: 1,0:00:22.70,0:00:24.90,PT,,0,0,0,,{\fad(80,60)}Durante tantos anos, tentei sempre
-Dialogue: 1,0:00:24.90,0:00:27.10,PT,,0,0,0,,{\fad(80,60)}encontrar pessoas mais inteligentes do que eu.
-Dialogue: 1,0:00:29.10,0:00:32.30,PT,,0,0,0,,{\fad(80,60)}E quando encontras tantas pessoas inteligentes,
-Dialogue: 1,0:00:32.40,0:00:36.00,PT,,0,0,0,,{\fad(80,60)}o meu trabalho é garantir que trabalham juntas.
-Dialogue: 1,0:00:38.80,0:00:41.30,PT,,0,0,0,,{\fad(80,60)}E se as pessoas inteligentes trabalharem juntas,
-Dialogue: 1,0:00:41.30,0:00:44.90,PT,,0,0,0,,{\fad(80,60)}tudo fica mais fácil. A visão fica mais fácil.
-Dialogue: 1,0:00:45.00,0:00:47.60,PT,,0,0,0,,{\fad(80,60)}Pessoas tolas trabalham juntas com facilidade.
-Dialogue: 1,0:00:47.60,0:00:51.20,PT,,0,0,0,,{\fad(80,60)}Pessoas inteligentes nunca trabalham juntas.
-Dialogue: 1,0:00:51.50,0:00:55.30,PT,,0,0,0,,{\fad(80,60)}Os tolos trabalham juntos, mas não acreditam na visão.
-Dialogue: 1,0:00:56.10,0:00:58.80,PT,,0,0,0,,{\fad(80,60)}Os que acreditam na visão não trabalham juntos.
-Dialogue: 1,0:00:59.10,0:01:02.10,PT,,0,0,0,,{\fad(80,60)}Por isso, o mais importante é encontrar pessoas inteligentes.
-Dialogue: 1,0:01:02.70,0:01:06.60,PT,,0,0,0,,{\fad(80,60)}E o meu trabalho é fazê-las trabalhar juntas.
+Dialogue: 1,0:00:03.50,0:00:05.30,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Não sei nada de tecnologia.
+Dialogue: 1,0:00:05.30,0:00:07.20,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Não sei nada de gestão.
+Dialogue: 1,0:00:07.20,0:00:09.60,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Não sei nada de… mas a única coisa é
+Dialogue: 1,0:00:09.60,0:00:11.40,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}que não precisas de saber muitas coisas.
+Dialogue: 1,0:00:11.40,0:00:13.60,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Tens de encontrar pessoas mais inteligentes do que tu.
+Dialogue: 1,0:00:14.60,0:00:17.20,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}A minha primeira aposta foi sempre
+Dialogue: 1,0:00:17.20,0:00:20.30,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}encontrar quem perceba mais de computadores do que eu.
+Dialogue: 1,0:00:20.90,0:00:22.50,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Contabilistas mais inteligentes.
+Dialogue: 1,0:00:22.70,0:00:24.90,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Durante tantos anos, tentei sempre
+Dialogue: 1,0:00:24.90,0:00:27.10,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}encontrar pessoas mais inteligentes do que eu.
+Dialogue: 1,0:00:29.10,0:00:32.30,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}E quando encontras tantas pessoas inteligentes,
+Dialogue: 1,0:00:32.40,0:00:36.00,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}o meu trabalho é garantir que trabalham juntas.
+Dialogue: 1,0:00:38.80,0:00:41.30,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}E se as pessoas inteligentes trabalharem juntas,
+Dialogue: 1,0:00:41.30,0:00:44.90,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}tudo fica mais fácil. A visão fica mais fácil.
+Dialogue: 1,0:00:45.00,0:00:47.60,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Pessoas tolas trabalham juntas com facilidade.
+Dialogue: 1,0:00:47.60,0:00:51.20,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Pessoas inteligentes nunca trabalham juntas.
+Dialogue: 1,0:00:51.50,0:00:55.30,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Os tolos trabalham juntos, mas não acreditam na visão.
+Dialogue: 1,0:00:56.10,0:00:58.80,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Os que acreditam na visão não trabalham juntos.
+Dialogue: 1,0:00:59.10,0:01:02.10,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}Por isso, o mais importante é encontrar pessoas inteligentes.
+Dialogue: 1,0:01:02.70,0:01:06.60,PT,,0,0,0,,{\pos(540,1215)\fad(80,60)}E o meu trabalho é fazê-las trabalhar juntas.
