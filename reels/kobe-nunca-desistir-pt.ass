@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: PT,Montserrat Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,4,8,60,60,0,1
+Style: Title,Montserrat Black,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,4,8,60,60,230,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:30.00,Title,,0,0,0,,{\fad(300,0)}KOBE BRYANT SOBRE\N{\c&H00D7FF&}NUNCA DESISTIR
+Dialogue: 1,0:00:00.00,0:00:01.50,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)\c&H00D7FF&}Continua sempre em frente
+Dialogue: 1,0:00:01.50,0:00:02.25,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}Houve alturas
+Dialogue: 1,0:00:02.25,0:00:03.25,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}sobretudo no início da minha carreira
+Dialogue: 1,0:00:03.25,0:00:04.00,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}em que parece mesmo
+Dialogue: 1,0:00:04.00,0:00:05.00,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}que é o fim
+Dialogue: 1,0:00:05.00,0:00:06.25,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}mas o que acabei por descobrir
+Dialogue: 1,0:00:06.25,0:00:06.75,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}é que
+Dialogue: 1,0:00:06.75,0:00:07.75,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}aconteça o que acontecer
+Dialogue: 1,0:00:07.75,0:00:08.25,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}a tempestade
+Dialogue: 1,0:00:08.25,0:00:09.00,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)\c&H00D7FF&}acaba sempre por passar
+Dialogue: 1,0:00:09.00,0:00:09.50,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}e quando a tempestade
+Dialogue: 1,0:00:09.50,0:00:10.00,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}acabar
+Dialogue: 1,0:00:10.00,0:00:10.50,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)}queres ter a certeza
+Dialogue: 1,0:00:10.50,0:00:12.40,PT,,0,0,0,,{\pos(540,1050)\fad(50,40)\c&H00D7FF&}de que estás preparado
