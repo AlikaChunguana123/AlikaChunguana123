@@ -1,0 +1,51 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Montserrat Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,4,2,50,50,0,1
+Style: Sub,Montserrat ExtraBold,50,&H0000D7FF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,3,8,60,60,0,1
+Style: T1,Montserrat Black,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,16,0,8,50,50,150,1
+Style: T2,Montserrat Black,56,&H0000D7FF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,14,0,8,50,50,262,1
+Style: T3,Montserrat ExtraBold,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64E6A01E,0,0,0,0,100,100,0,0,3,12,0,8,50,50,365,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:01:00.00,T1,,0,0,0,,{\fad(250,0)}APRENDE INGLÊS COMIGO
+Dialogue: 3,0:00:00.00,0:01:00.00,T2,,0,0,0,,{\fad(250,0)}LEARN ENGLISH WITH ME
+Dialogue: 3,0:00:00.00,0:01:00.00,T3,,0,0,0,,{\fad(250,0)}SALMO 23 · PSALM 23
+Dialogue: 1,0:00:00.20,0:00:02.30,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}É UM MINUTO.
+Dialogue: 1,0:00:00.20,0:00:02.30,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}IT'S ONE MINUTE.
+Dialogue: 1,0:00:02.60,0:00:05.75,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}EM UM MINUTO VAIS SABER\NO SALMO 23 EM INGLÊS
+Dialogue: 1,0:00:02.60,0:00:05.75,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}IN ONE MINUTE YOU'LL KNOW PSALM 23 IN ENGLISH
+Dialogue: 1,0:00:06.20,0:00:08.25,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}The Lord is my shepherd,\NI lack nothing.
+Dialogue: 1,0:00:06.20,0:00:08.25,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}O Senhor é o meu pastor, nada me falta.
+Dialogue: 1,0:00:08.40,0:00:10.30,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}He makes me lie down\Nin green pastures,
+Dialogue: 1,0:00:08.40,0:00:10.30,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}Faz-me repousar em pastos verdejantes,
+Dialogue: 1,0:00:10.50,0:00:12.30,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}he leads me beside\Nquiet waters,
+Dialogue: 1,0:00:10.50,0:00:12.30,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}leva-me para junto de águas tranquilas,
+Dialogue: 1,0:00:12.40,0:00:13.95,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}he refreshes my soul.
+Dialogue: 1,0:00:12.40,0:00:13.95,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}refresca a minha alma.
+Dialogue: 1,0:00:14.00,0:00:16.20,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}He guides me along\Nthe right paths.
+Dialogue: 1,0:00:14.00,0:00:16.20,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}Guia-me pelos caminhos certos.
+Dialogue: 1,0:00:16.50,0:00:18.95,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}Even though I walk through\Nthe darkest valley,
+Dialogue: 1,0:00:16.50,0:00:18.95,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}Ainda que eu ande pelo vale mais escuro,
+Dialogue: 1,0:00:19.00,0:00:21.16,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}I will fear no evil,\Nfor you are with me;
+Dialogue: 1,0:00:19.00,0:00:21.16,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}não temerei mal algum, pois tu estás comigo;
+Dialogue: 1,0:00:21.20,0:00:23.90,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}your rod and your staff,\Nthey comfort me.
+Dialogue: 1,0:00:21.20,0:00:23.90,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}a tua vara e o teu cajado consolam-me.
+Dialogue: 1,0:00:24.20,0:00:28.00,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}You prepare a table before me\Nin the presence of my enemies.
+Dialogue: 1,0:00:24.20,0:00:28.00,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}Preparas-me uma mesa\Nna presença dos meus inimigos.
+Dialogue: 1,0:00:28.40,0:00:30.50,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}You anoint my head with oil;
+Dialogue: 1,0:00:28.40,0:00:30.50,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}Unges a minha cabeça com óleo;
+Dialogue: 1,0:00:30.60,0:00:32.40,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}my cup overflows.
+Dialogue: 1,0:00:30.60,0:00:32.40,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}o meu cálice transborda.
+Dialogue: 1,0:00:32.50,0:00:34.80,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}Surely your goodness\Nand love
+Dialogue: 1,0:00:32.50,0:00:34.80,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}Certamente a tua bondade e o teu amor
+Dialogue: 1,0:00:34.90,0:00:36.95,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}will follow me all\Nthe days of my life,
+Dialogue: 1,0:00:34.90,0:00:36.95,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}me seguirão todos os dias da minha vida,
+Dialogue: 1,0:00:37.00,0:00:40.96,Main,,0,0,0,,{\an2\pos(540,1110)\fad(60,40)}and I will dwell in the house\Nof the Lord forever.
+Dialogue: 1,0:00:37.00,0:00:40.96,Sub,,0,0,0,,{\an8\pos(540,1135)\fad(60,40)}e habitarei na casa do Senhor para sempre.
