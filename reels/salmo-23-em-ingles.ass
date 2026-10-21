@@ -48,11 +48,9 @@ Dialogue: 1,0:00:34.90,0:00:36.95,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}wi
 Dialogue: 1,0:00:34.90,0:00:36.95,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}me seguirão todos os dias da minha vida,
 Dialogue: 1,0:00:37.00,0:00:40.96,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}and I will dwell in the house\Nof the Lord forever.
 Dialogue: 1,0:00:37.00,0:00:40.96,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}e habitarei na casa do Senhor para sempre.
-Dialogue: 1,0:00:42.61,0:00:43.61,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}E SEGUE-ME
-Dialogue: 1,0:00:42.61,0:00:43.61,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}FOLLOW ME
-Dialogue: 1,0:00:43.61,0:00:44.76,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}SE QUISERES APRENDER
-Dialogue: 1,0:00:43.61,0:00:44.76,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}IF YOU WANT TO LEARN
-Dialogue: 1,0:00:44.76,0:00:46.76,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}MAIS PALAVRAS EM INGLÊS
-Dialogue: 1,0:00:44.76,0:00:46.76,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}MORE ENGLISH WORDS
-Dialogue: 1,0:00:46.81,0:00:48.66,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}SEGUE PARA MAIS
-Dialogue: 1,0:00:46.81,0:00:48.66,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}FOLLOW FOR MORE
+Dialogue: 1,0:00:41.96,0:00:43.01,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}E SEGUE-ME
+Dialogue: 1,0:00:41.96,0:00:43.01,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}FOLLOW ME
+Dialogue: 1,0:00:43.01,0:00:44.16,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}SE QUISERES APRENDER
+Dialogue: 1,0:00:43.01,0:00:44.16,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}IF YOU WANT TO LEARN
+Dialogue: 1,0:00:44.16,0:00:46.56,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}MAIS PALAVRAS EM INGLÊS
+Dialogue: 1,0:00:44.16,0:00:46.56,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}MORE ENGLISH WORDS
