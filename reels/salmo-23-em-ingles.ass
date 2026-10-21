@@ -9,14 +9,13 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Main,Montserrat Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,4,2,50,50,0,1
 Style: Sub,Montserrat ExtraBold,50,&H0000D7FF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,3,8,60,60,0,1
 Style: T1,Montserrat Black,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,16,0,8,50,50,150,1
-Style: T2,Montserrat Black,56,&H0000D7FF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,14,0,8,50,50,262,1
+Style: T2,Montserrat Black,58,&H0000D7FF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,14,0,8,50,50,262,1
 Style: T3,Montserrat ExtraBold,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64E6A01E,0,0,0,0,100,100,0,0,3,12,0,8,50,50,365,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 3,0:00:00.00,0:01:00.00,T1,,0,0,0,,{\fad(250,0)}APRENDE INGLÊS COMIGO
-Dialogue: 3,0:00:00.00,0:01:00.00,T2,,0,0,0,,{\fad(250,0)}LEARN ENGLISH WITH ME
-Dialogue: 3,0:00:00.00,0:01:00.00,T3,,0,0,0,,{\fad(250,0)}SALMO 23 · PSALM 23
+Dialogue: 3,0:00:00.00,0:01:00.00,T1,,0,0,0,,{\fad(250,0)}O SALMO 23 EM INGLÊS
+Dialogue: 3,0:00:00.00,0:01:00.00,T2,,0,0,0,,{\fad(250,0)}Comigo, em 1 minuto.
 Dialogue: 1,0:00:00.20,0:00:02.30,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}É UM MINUTO.
 Dialogue: 1,0:00:00.20,0:00:02.30,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}IT'S ONE MINUTE.
 Dialogue: 1,0:00:02.60,0:00:05.75,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}EM UM MINUTO VAIS SABER\NO SALMO 23 EM INGLÊS
@@ -49,3 +48,11 @@ Dialogue: 1,0:00:34.90,0:00:36.95,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}wi
 Dialogue: 1,0:00:34.90,0:00:36.95,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}me seguirão todos os dias da minha vida,
 Dialogue: 1,0:00:37.00,0:00:40.96,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}and I will dwell in the house\Nof the Lord forever.
 Dialogue: 1,0:00:37.00,0:00:40.96,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}e habitarei na casa do Senhor para sempre.
+Dialogue: 1,0:00:42.61,0:00:43.61,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}E SEGUE-ME
+Dialogue: 1,0:00:42.61,0:00:43.61,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}FOLLOW ME
+Dialogue: 1,0:00:43.61,0:00:44.76,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}SE QUISERES APRENDER
+Dialogue: 1,0:00:43.61,0:00:44.76,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}IF YOU WANT TO LEARN
+Dialogue: 1,0:00:44.76,0:00:46.76,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}MAIS PALAVRAS EM INGLÊS
+Dialogue: 1,0:00:44.76,0:00:46.76,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}MORE ENGLISH WORDS
+Dialogue: 1,0:00:46.81,0:00:48.66,Main,,0,0,0,,{\an2\pos(540,1430)\fad(60,40)}SEGUE PARA MAIS
+Dialogue: 1,0:00:46.81,0:00:48.66,Sub,,0,0,0,,{\an8\pos(540,1455)\fad(60,40)}FOLLOW FOR MORE
