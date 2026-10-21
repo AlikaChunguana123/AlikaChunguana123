@@ -15,77 +15,77 @@ Style: T2,Montserrat ExtraBold,40,&H0060C8F0,&H00FFFFFF,&H00000000,&H00000000,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 2,0:00:00.00,0:03:00.00,T1,,0,0,0,,{\fad(800,0)}SE NÃO PUDER VOAR,\N{\c&H60C8F0&}CORRA.
 Dialogue: 2,0:00:00.00,0:03:00.00,T2,,0,0,0,,{\fad(1200,0)}MARTIN LUTHER KING JR.
-Dialogue: 1,0:00:00.30,0:00:03.90,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Este é o período mais importante
-Dialogue: 1,0:00:00.30,0:00:03.90,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}This is the most important
-Dialogue: 1,0:00:04.20,0:00:07.20,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}e decisivo da vida de vocês,
-Dialogue: 1,0:00:04.20,0:00:07.20,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}and crucial period of your lives,
-Dialogue: 1,0:00:07.20,0:00:10.00,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}porque o que vocês fazem e decidem agora,
-Dialogue: 1,0:00:07.20,0:00:10.00,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}for what you do now and what you decide now
-Dialogue: 1,0:00:10.00,0:00:12.90,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}nessa idade, pode muito bem determinar
-Dialogue: 1,0:00:10.00,0:00:12.90,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}at this age may well determine
-Dialogue: 1,0:00:13.10,0:00:15.50,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}o rumo que a sua vida vai tomar.
-Dialogue: 1,0:00:13.10,0:00:15.50,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}which way your life shall go.
-Dialogue: 1,0:00:15.50,0:00:18.60,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}E a questão é se vocês têm
-Dialogue: 1,0:00:15.50,0:00:18.60,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}And the question is whether you have
-Dialogue: 1,0:00:18.60,0:00:22.50,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}um plano de vida sólido e bem feito.
-Dialogue: 1,0:00:18.60,0:00:22.50,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}a proper, a solid and a sound blueprint.
-Dialogue: 1,0:00:22.60,0:00:27.00,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Quero sugerir algumas coisas que devem estar
-Dialogue: 1,0:00:22.60,0:00:27.00,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}I want to suggest some of the things that should be
-Dialogue: 1,0:00:27.00,0:00:29.00,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}no plano da sua vida.
-Dialogue: 1,0:00:27.00,0:00:29.00,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}in your life's blueprint.
-Dialogue: 1,0:00:29.00,0:00:33.40,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Número um: no plano da sua vida deve haver
-Dialogue: 1,0:00:29.00,0:00:33.40,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Number one in your life's blueprint should be
-Dialogue: 1,0:00:33.80,0:00:36.50,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}uma profunda convicção
-Dialogue: 1,0:00:33.80,0:00:36.50,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}a deep belief
-Dialogue: 1,0:00:36.80,0:00:41.90,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}na sua própria dignidade, no seu valor\Ne em ser alguém.
-Dialogue: 1,0:00:36.80,0:00:41.90,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}in your own dignity, your own worth\Nand your own somebodyness.
-Dialogue: 1,0:00:42.10,0:00:47.40,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)\c&H60C8F0&}Não deixe ninguém fazer você sentir\Nque não é ninguém.
-Dialogue: 1,0:00:42.10,0:00:47.40,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Don't allow anybody to make you feel\Nthat you are nobody.
-Dialogue: 1,0:00:47.60,0:00:50.60,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Sinta sempre que você importa.
-Dialogue: 1,0:00:47.60,0:00:50.60,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Always feel that you count.
-Dialogue: 1,0:00:50.60,0:00:52.60,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Sinta sempre que você tem valor.
-Dialogue: 1,0:00:50.60,0:00:52.60,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Always feel that you have worth.
-Dialogue: 1,0:00:52.60,0:00:58.10,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}E sinta sempre que a sua vida\Ntem um significado imenso.
-Dialogue: 1,0:00:52.60,0:00:58.10,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}And always feel that your life\Nhas ultimate significance.
-Dialogue: 1,0:00:58.30,0:01:02.90,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Segundo: no plano da sua vida,
-Dialogue: 1,0:00:58.30,0:01:02.90,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Secondly, in your life's blueprint,
-Dialogue: 1,0:01:03.00,0:01:08.80,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}você precisa ter, como princípio,\Na determinação de buscar a excelência
-Dialogue: 1,0:01:03.00,0:01:08.80,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}you must have, as a basic principle,\Nthe determination to achieve excellence
-Dialogue: 1,0:01:09.00,0:01:13.40,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}na sua área de atuação.
-Dialogue: 1,0:01:09.00,0:01:13.40,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}in your various fields of endeavor.
-Dialogue: 1,0:01:13.70,0:01:17.00,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Com o passar dos dias e dos anos,\Nvocê vai decidir
-Dialogue: 1,0:01:13.70,0:01:17.00,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}As the days and the years unfold\Nyou'll be deciding
-Dialogue: 1,0:01:17.00,0:01:20.30,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}o que fará na vida,\Nqual será a sua obra.
-Dialogue: 1,0:01:17.00,0:01:20.30,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}what you will do in life,\Nwhat your life's work will be.
-Dialogue: 1,0:01:20.80,0:01:23.50,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Quando descobrir o que será,
-Dialogue: 1,0:01:20.80,0:01:23.50,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Once you discover what it will be,
-Dialogue: 1,0:01:23.50,0:01:26.00,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}dedique-se a fazer, e a fazer bem.
-Dialogue: 1,0:01:23.50,0:01:26.00,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}set out to do it, and to do it well.
-Dialogue: 1,0:01:26.00,0:01:28.00,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Seja um arbusto,\Nse não puder ser uma árvore.
-Dialogue: 1,0:01:26.00,0:01:28.00,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Be a bush if you can't be a tree.
-Dialogue: 1,0:01:28.00,0:01:30.20,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Se não puder ser uma estrada,\Nseja uma trilha.
-Dialogue: 1,0:01:28.00,0:01:30.20,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}If you can't be a highway, just be a trail.
-Dialogue: 1,0:01:30.20,0:01:32.30,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Se não puder ser o sol,\Nseja uma estrela.
-Dialogue: 1,0:01:30.20,0:01:32.30,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}If you can't be the sun, be a star.
-Dialogue: 1,0:01:32.30,0:01:34.50,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Não é pelo tamanho\Nque você vence ou perde.
-Dialogue: 1,0:01:32.30,0:01:34.50,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}For it isn't by size that you win or you fail.
-Dialogue: 1,0:01:34.50,0:01:38.20,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)\c&H60C8F0&}Seja o melhor\Nno que você for!
-Dialogue: 1,0:01:34.50,0:01:38.20,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Be the best of whatever you are!
-Dialogue: 1,0:01:38.40,0:01:42.00,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}Por fim, no plano da sua vida,
-Dialogue: 1,0:01:38.40,0:01:42.00,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Finally, in your life's blueprint,
-Dialogue: 1,0:01:42.10,0:01:47.80,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}deve haver um compromisso\Ncom os princípios eternos
-Dialogue: 1,0:01:42.10,0:01:47.80,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}there must be a commitment\Nto the eternal principles
-Dialogue: 1,0:01:48.00,0:01:53.50,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}da beleza, do amor e da justiça.
-Dialogue: 1,0:01:48.00,0:01:53.50,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}of beauty, love and justice.
-Dialogue: 1,0:01:53.60,0:01:57.10,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}A vida não tem sido fácil\Npara nenhum de nós,
-Dialogue: 1,0:01:53.60,0:01:57.10,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}Well, life for none of us\Nhas been a crystal stair,
-Dialogue: 1,0:01:57.20,0:02:00.40,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)}mas precisamos seguir em frente.\NPrecisamos continuar.
-Dialogue: 1,0:01:57.20,0:02:00.40,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}but we must keep moving.\NWe must keep going.
-Dialogue: 1,0:02:00.40,0:02:02.60,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)\c&H60C8F0&}Se não puder voar, corra.
-Dialogue: 1,0:02:00.40,0:02:02.60,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}If you can't fly, run.
-Dialogue: 1,0:02:02.60,0:02:04.60,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)\c&H60C8F0&}Se não puder correr, ande.
-Dialogue: 1,0:02:02.60,0:02:04.60,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}If you can't run, walk.
-Dialogue: 1,0:02:04.60,0:02:07.60,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)\c&H60C8F0&}Se não puder andar, rasteje,
-Dialogue: 1,0:02:04.60,0:02:07.60,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}If you can't walk, crawl,
-Dialogue: 1,0:02:07.60,0:02:12.50,PT,,0,0,0,,{\an2\pos(540,1040)\fad(120,100)\c&H60C8F0&}mas, de qualquer forma,\NCONTINUE EM FRENTE.
-Dialogue: 1,0:02:07.60,0:02:12.50,EN,,0,0,0,,{\an8\pos(540,1075)\fad(120,100)}but by all means, keep moving.
+Dialogue: 1,0:00:00.30,0:00:03.90,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Este é o período mais importante
+Dialogue: 1,0:00:00.30,0:00:03.90,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}This is the most important
+Dialogue: 1,0:00:04.20,0:00:07.20,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}e decisivo da vida de vocês,
+Dialogue: 1,0:00:04.20,0:00:07.20,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}and crucial period of your lives,
+Dialogue: 1,0:00:07.20,0:00:10.00,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}porque o que vocês fazem e decidem agora,
+Dialogue: 1,0:00:07.20,0:00:10.00,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}for what you do now and what you decide now
+Dialogue: 1,0:00:10.00,0:00:12.90,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}nessa idade, pode muito bem determinar
+Dialogue: 1,0:00:10.00,0:00:12.90,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}at this age may well determine
+Dialogue: 1,0:00:13.10,0:00:15.50,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}o rumo que a sua vida vai tomar.
+Dialogue: 1,0:00:13.10,0:00:15.50,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}which way your life shall go.
+Dialogue: 1,0:00:15.50,0:00:18.60,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}E a questão é se vocês têm
+Dialogue: 1,0:00:15.50,0:00:18.60,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}And the question is whether you have
+Dialogue: 1,0:00:18.60,0:00:22.50,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}um plano de vida sólido e bem feito.
+Dialogue: 1,0:00:18.60,0:00:22.50,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}a proper, a solid and a sound blueprint.
+Dialogue: 1,0:00:22.60,0:00:27.00,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Quero sugerir algumas coisas que devem estar
+Dialogue: 1,0:00:22.60,0:00:27.00,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}I want to suggest some of the things that should be
+Dialogue: 1,0:00:27.00,0:00:29.00,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}no plano da sua vida.
+Dialogue: 1,0:00:27.00,0:00:29.00,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}in your life's blueprint.
+Dialogue: 1,0:00:29.00,0:00:33.40,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Número um: no plano da sua vida deve haver
+Dialogue: 1,0:00:29.00,0:00:33.40,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Number one in your life's blueprint should be
+Dialogue: 1,0:00:33.80,0:00:36.50,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}uma profunda convicção
+Dialogue: 1,0:00:33.80,0:00:36.50,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}a deep belief
+Dialogue: 1,0:00:36.80,0:00:41.90,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}na sua própria dignidade, no seu valor\Ne em ser alguém.
+Dialogue: 1,0:00:36.80,0:00:41.90,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}in your own dignity, your own worth\Nand your own somebodyness.
+Dialogue: 1,0:00:42.10,0:00:47.40,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)\c&H60C8F0&}Não deixe ninguém fazer você sentir\Nque não é ninguém.
+Dialogue: 1,0:00:42.10,0:00:47.40,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Don't allow anybody to make you feel\Nthat you are nobody.
+Dialogue: 1,0:00:47.60,0:00:50.60,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Sinta sempre que você importa.
+Dialogue: 1,0:00:47.60,0:00:50.60,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Always feel that you count.
+Dialogue: 1,0:00:50.60,0:00:52.60,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Sinta sempre que você tem valor.
+Dialogue: 1,0:00:50.60,0:00:52.60,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Always feel that you have worth.
+Dialogue: 1,0:00:52.60,0:00:58.10,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}E sinta sempre que a sua vida\Ntem um significado imenso.
+Dialogue: 1,0:00:52.60,0:00:58.10,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}And always feel that your life\Nhas ultimate significance.
+Dialogue: 1,0:00:58.30,0:01:02.90,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Segundo: no plano da sua vida,
+Dialogue: 1,0:00:58.30,0:01:02.90,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Secondly, in your life's blueprint,
+Dialogue: 1,0:01:03.00,0:01:08.80,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}você precisa ter, como princípio,\Na determinação de buscar a excelência
+Dialogue: 1,0:01:03.00,0:01:08.80,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}you must have, as a basic principle,\Nthe determination to achieve excellence
+Dialogue: 1,0:01:09.00,0:01:13.40,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}na sua área de atuação.
+Dialogue: 1,0:01:09.00,0:01:13.40,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}in your various fields of endeavor.
+Dialogue: 1,0:01:13.70,0:01:17.00,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Com o passar dos dias e dos anos,\Nvocê vai decidir
+Dialogue: 1,0:01:13.70,0:01:17.00,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}As the days and the years unfold\Nyou'll be deciding
+Dialogue: 1,0:01:17.00,0:01:20.30,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}o que fará na vida,\Nqual será a sua obra.
+Dialogue: 1,0:01:17.00,0:01:20.30,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}what you will do in life,\Nwhat your life's work will be.
+Dialogue: 1,0:01:20.80,0:01:23.50,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Quando descobrir o que será,
+Dialogue: 1,0:01:20.80,0:01:23.50,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Once you discover what it will be,
+Dialogue: 1,0:01:23.50,0:01:26.00,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}dedique-se a fazer, e a fazer bem.
+Dialogue: 1,0:01:23.50,0:01:26.00,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}set out to do it, and to do it well.
+Dialogue: 1,0:01:26.00,0:01:28.00,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Seja um arbusto,\Nse não puder ser uma árvore.
+Dialogue: 1,0:01:26.00,0:01:28.00,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Be a bush if you can't be a tree.
+Dialogue: 1,0:01:28.00,0:01:30.20,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Se não puder ser uma estrada,\Nseja uma trilha.
+Dialogue: 1,0:01:28.00,0:01:30.20,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}If you can't be a highway, just be a trail.
+Dialogue: 1,0:01:30.20,0:01:32.30,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Se não puder ser o sol,\Nseja uma estrela.
+Dialogue: 1,0:01:30.20,0:01:32.30,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}If you can't be the sun, be a star.
+Dialogue: 1,0:01:32.30,0:01:34.50,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Não é pelo tamanho\Nque você vence ou perde.
+Dialogue: 1,0:01:32.30,0:01:34.50,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}For it isn't by size that you win or you fail.
+Dialogue: 1,0:01:34.50,0:01:38.20,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)\c&H60C8F0&}Seja o melhor\Nno que você for!
+Dialogue: 1,0:01:34.50,0:01:38.20,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Be the best of whatever you are!
+Dialogue: 1,0:01:38.40,0:01:42.00,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}Por fim, no plano da sua vida,
+Dialogue: 1,0:01:38.40,0:01:42.00,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Finally, in your life's blueprint,
+Dialogue: 1,0:01:42.10,0:01:47.80,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}deve haver um compromisso\Ncom os princípios eternos
+Dialogue: 1,0:01:42.10,0:01:47.80,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}there must be a commitment\Nto the eternal principles
+Dialogue: 1,0:01:48.00,0:01:53.50,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}da beleza, do amor e da justiça.
+Dialogue: 1,0:01:48.00,0:01:53.50,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}of beauty, love and justice.
+Dialogue: 1,0:01:53.60,0:01:57.10,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}A vida não tem sido fácil\Npara nenhum de nós,
+Dialogue: 1,0:01:53.60,0:01:57.10,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}Well, life for none of us\Nhas been a crystal stair,
+Dialogue: 1,0:01:57.20,0:02:00.40,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)}mas precisamos seguir em frente.\NPrecisamos continuar.
+Dialogue: 1,0:01:57.20,0:02:00.40,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}but we must keep moving.\NWe must keep going.
+Dialogue: 1,0:02:00.40,0:02:02.60,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)\c&H60C8F0&}Se não puder voar, corra.
+Dialogue: 1,0:02:00.40,0:02:02.60,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}If you can't fly, run.
+Dialogue: 1,0:02:02.60,0:02:04.60,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)\c&H60C8F0&}Se não puder correr, ande.
+Dialogue: 1,0:02:02.60,0:02:04.60,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}If you can't run, walk.
+Dialogue: 1,0:02:04.60,0:02:07.60,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)\c&H60C8F0&}Se não puder andar, rasteje,
+Dialogue: 1,0:02:04.60,0:02:07.60,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}If you can't walk, crawl,
+Dialogue: 1,0:02:07.60,0:02:12.50,PT,,0,0,0,,{\an2\pos(540,1330)\fad(120,100)\c&H60C8F0&}mas, de qualquer forma,\NCONTINUE EM FRENTE.
+Dialogue: 1,0:02:07.60,0:02:12.50,EN,,0,0,0,,{\an8\pos(540,1360)\fad(120,100)}but by all means, keep moving.
