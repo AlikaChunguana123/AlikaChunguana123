@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: PT,Montserrat Black,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,3,2,50,50,0,1
+Style: EN,Montserrat ExtraBold,34,&H00D0D0D0,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,4,2,8,70,70,0,1
+Style: T1,Montserrat Black,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,50,50,170,1
+Style: T3,Montserrat ExtraBold,32,&H00B0B0B0,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,8,50,50,370,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:02:00.00,T1,,0,0,0,,{\fad(400,0)}EU SEMPRE SOUBE QUE\N{\c&H00D7FF&}SERIA BEM-SUCEDIDA
+Dialogue: 2,0:00:00.00,0:02:00.00,T3,,0,0,0,,{\fad(900,0)}— DONNA SUMMER
+Dialogue: 1,0:00:00.00,0:00:03.00,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Eu achava que, se você\Nfosse mesmo uma estrela,
+Dialogue: 1,0:00:00.00,0:00:03.00,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}I thought that if you really were a star,
+Dialogue: 1,0:00:03.00,0:00:04.60,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}tinha que estar no programa\Ndo Johnny Carson.
+Dialogue: 1,0:00:03.00,0:00:04.60,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}you had to be on the Johnny Carson show.
+Dialogue: 1,0:00:04.60,0:00:06.00,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Sempre foi o meu maior sonho.
+Dialogue: 1,0:00:04.60,0:00:06.00,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}It was always my biggest dream.
+Dialogue: 1,0:00:06.00,0:00:09.40,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Eu dizia: vou saber que sou uma estrela\Nquando fizer o Johnny Carson.
+Dialogue: 1,0:00:06.00,0:00:09.40,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}I said, I know I'm a star when I've done the Johnny Carson show.
+Dialogue: 1,0:00:09.40,0:00:11.80,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Então hoje, quando eu chegar em casa,\Nvou me olhar e dizer: “sabe de uma coisa?”
+Dialogue: 1,0:00:09.40,0:00:11.80,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}So today when I go home, I'll look at myself and say: “you know something?”
+Dialogue: 1,0:00:11.80,0:00:15.20,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Você definiu uma meta? Há cinco,\Nseis anos, você imaginava
+Dialogue: 1,0:00:11.80,0:00:15.20,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}Did you set a goal? Did you have any idea five, six years ago
+Dialogue: 1,0:00:15.20,0:00:20.60,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}que teria tudo isso?\NAtenção, notoriedade e fama?
+Dialogue: 1,0:00:15.20,0:00:20.60,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}that you would have all of this? Attention, notoriety and fame?
+Dialogue: 1,0:00:20.60,0:00:21.40,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Não.
+Dialogue: 1,0:00:20.60,0:00:21.40,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}No.
+Dialogue: 1,0:00:21.40,0:00:24.20,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Eu sempre soube\Nque seria bem-sucedida.
+Dialogue: 1,0:00:21.40,0:00:24.20,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}Well, I always knew that I would be successful.
+Dialogue: 1,0:00:24.20,0:00:27.40,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Nunca foi uma questão de “se”\Neu seria bem-sucedida.
+Dialogue: 1,0:00:24.20,0:00:27.40,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}It was never a question of whether or not I would be successful.
+Dialogue: 1,0:00:27.40,0:00:29.60,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Era só uma questão de tempo.
+Dialogue: 1,0:00:27.40,0:00:29.60,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}It was just a matter of time.
+Dialogue: 1,0:00:29.60,0:00:33.80,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Muita gente acharia\Nessa atitude arrogante,
+Dialogue: 1,0:00:29.60,0:00:33.80,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}A lot of people would think that attitude would be brash,
+Dialogue: 1,0:00:33.80,0:00:38.80,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}mas neste ramo você não pode\Nse dar ao luxo de esconder a sua luz.
+Dialogue: 1,0:00:33.80,0:00:38.80,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}but this is one business where you can't afford to hide your light under a bushel.
+Dialogue: 1,0:00:38.80,0:00:41.60,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Se você acha que tem talento,\Ndiga: “É para lá que eu vou.”
+Dialogue: 1,0:00:38.80,0:00:41.60,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}If you think you've got some talent, you say: “This is where I'm going to go.”
+Dialogue: 1,0:00:41.60,0:00:43.60,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Um dia eu vou chegar lá.
+Dialogue: 1,0:00:41.60,0:00:43.60,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}Someday I'm going to get there.
+Dialogue: 1,0:00:43.60,0:00:45.40,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}É questão de timing, talento\Ne tudo o que vem com isso.
+Dialogue: 1,0:00:43.60,0:00:45.40,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}It's a matter of timing, talent and all the things that go with it.
+Dialogue: 1,0:00:45.40,0:00:47.60,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Acho que, se você nasce com\Na sensação de que é especial…
+Dialogue: 1,0:00:45.40,0:00:47.60,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}I think if you're born with the feeling that you're special…
+Dialogue: 1,0:00:47.60,0:00:51.20,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Sei que isso soa… e não é arrogância.
+Dialogue: 1,0:00:47.60,0:00:51.20,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}I know that sounds… and this isn't bold or anything.
+Dialogue: 1,0:00:51.20,0:00:53.80,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Você realmente sente\Nque está aqui por um motivo.
+Dialogue: 1,0:00:51.20,0:00:53.80,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}You really have a feeling that you are here for something.
+Dialogue: 1,0:00:53.80,0:00:57.00,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}Algumas pessoas não têm essa sensação.\NQuando você tem, você sabe.
+Dialogue: 1,0:00:53.80,0:00:57.00,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}Some people don't have that feeling. And when you have that feeling, you know.
+Dialogue: 1,0:00:57.00,0:01:01.40,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)}E é só ir no seu ritmo e aprender\No máximo que puder
+Dialogue: 1,0:00:57.00,0:01:01.40,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}And it's a matter of pacing yourself and learning as much as you can
+Dialogue: 1,0:01:01.40,0:01:03.60,PT,,0,0,0,,{\an2\pos(540,1415)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}até chegar a sua hora.
+Dialogue: 1,0:01:01.40,0:01:03.60,EN,,0,0,0,,{\an8\pos(540,1432)\fad(80,60)}until the time comes when you're out there.
