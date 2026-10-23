@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: PT,Montserrat Black,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,3,2,50,50,0,1
+Style: EN,Montserrat ExtraBold,36,&H00D0D0D0,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,4,2,8,70,70,0,1
+Style: T1,Montserrat Black,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,50,50,150,1
+Style: T2,Montserrat ExtraBold,36,&H0000D7FF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,50,50,300,1
+Style: T3,Montserrat ExtraBold,30,&H00B0B0B0,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,0,0,8,50,50,420,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:02:00.00,T1,,0,0,0,,{\fad(400,0)}“I love your show, and I admire your style,\Nbut your pay is so cheap, I won't be back for a while.”
+Dialogue: 2,0:00:00.00,0:02:00.00,T2,,0,0,0,,{\fad(700,0)}“Adoro o seu programa e admiro o seu estilo, mas o seu\Ncachê é tão baixo que não volto tão cedo.”
+Dialogue: 2,0:00:00.00,0:02:00.00,T3,,0,0,0,,{\fad(1000,0)}— MUHAMMAD ALI
+Dialogue: 1,0:00:00.20,0:00:02.00,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Quero dizer que não somos\N“muçulmanos negros”.
+Dialogue: 1,0:00:00.20,0:00:02.00,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}I want to say that we're not black Muslims.
+Dialogue: 1,0:00:02.00,0:00:04.20,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Todos os muçulmanos, aqui\Ne em outros países,
+Dialogue: 1,0:00:02.00,0:00:04.20,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}All the Muslims, here and in other countries,
+Dialogue: 1,0:00:04.20,0:00:05.60,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}somos muçulmanos.
+Dialogue: 1,0:00:04.20,0:00:05.60,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}we are Muslims.
+Dialogue: 1,0:00:05.60,0:00:08.00,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Não há distinção\Nde cor no Islã.
+Dialogue: 1,0:00:05.60,0:00:08.00,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}There's no color distinction in Islam.
+Dialogue: 1,0:00:08.00,0:00:11.70,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Temos muçulmanos brancos como você,\Ningleses, aqui em Londres.
+Dialogue: 1,0:00:08.00,0:00:11.70,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}We have white Muslims just like you, English, right here in London.
+Dialogue: 1,0:00:11.70,0:00:15.40,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Temos muçulmanos pardos,\Namarelos, vermelhos.
+Dialogue: 1,0:00:11.70,0:00:15.40,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}We have brown Muslims, yellow Muslims, red Muslims.
+Dialogue: 1,0:00:15.40,0:00:17.30,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Mentes e corações\Nnão têm cor.
+Dialogue: 1,0:00:15.40,0:00:17.30,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}Brains and minds and hearts have no colors.
+Dialogue: 1,0:00:17.30,0:00:20.60,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Deus não olha para a nossa cor,\Nmas para as nossas ações.
+Dialogue: 1,0:00:17.30,0:00:20.60,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}God don't look at us because of our colors — our actions and our deeds.
+Dialogue: 1,0:00:20.60,0:00:22.40,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Quero deixar isso claro.\NSomos só muçulmanos.
+Dialogue: 1,0:00:20.60,0:00:22.40,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}So I want to get that straight. We're just Muslims.
+Dialogue: 1,0:00:22.40,0:00:25.00,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Quando eu parar, quero ser\Nministro da fé islâmica,
+Dialogue: 1,0:00:22.40,0:00:25.00,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}When I'm finished, I want to be a minister in the Islamic faith,
+Dialogue: 1,0:00:25.00,0:00:28.00,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}pregando nos Estados Unidos\Ne no mundo.
+Dialogue: 1,0:00:25.00,0:00:28.00,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}preaching it throughout America and the world.
+Dialogue: 1,0:00:28.00,0:00:30.60,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Quando eu morrer,\Nquero ir para o lugar certo.
+Dialogue: 1,0:00:28.00,0:00:30.60,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}When I die, I want to go to the right place.
+Dialogue: 1,0:00:30.60,0:00:32.60,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}A vida está só começando.
+Dialogue: 1,0:00:30.60,0:00:32.60,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}Life is just starting.
+Dialogue: 1,0:00:32.60,0:00:34.80,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}Este corpo é só a casa\Nque guarda o nosso espírito.
+Dialogue: 1,0:00:32.60,0:00:34.80,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}This is just the house which holds our spirit.
+Dialogue: 1,0:00:34.80,0:00:38.20,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Eu não vejo o seu verdadeiro eu,\Nvocê não vê o meu. É o espírito.
+Dialogue: 1,0:00:34.80,0:00:38.20,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}I can't see the real you, you can't see me. It's the spirit.
+Dialogue: 1,0:00:38.20,0:00:40.80,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}E quando eu morrer,\Nquero ir para o lugar certo,
+Dialogue: 1,0:00:38.20,0:00:40.80,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}And when I die, I want to go to the right place,
+Dialogue: 1,0:00:40.80,0:00:44.60,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}então faço tudo o que posso, não para\Nter as riquezas do mundo,
+Dialogue: 1,0:00:40.80,0:00:44.60,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}so I'm doing all I can, not to get the wealth in the world,
+Dialogue: 1,0:00:44.60,0:00:47.80,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}mas para me preparar\Npara a vida eterna.
+Dialogue: 1,0:00:44.60,0:00:47.80,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}but to prepare myself for the hereafter.
+Dialogue: 1,0:00:47.90,0:00:49.90,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Só mais uma coisa.
+Dialogue: 1,0:00:47.90,0:00:49.90,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}One more thing.
+Dialogue: 1,0:00:49.90,0:00:52.20,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Perguntei quanto vocês pagam.
+Dialogue: 1,0:00:49.90,0:00:52.20,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}I asked how much money you pay.
+Dialogue: 1,0:00:52.20,0:00:53.80,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)}Disseram que não há orçamento,\Nentão fiz um poema:
+Dialogue: 1,0:00:52.20,0:00:53.80,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}They said you have no budget, so I wrote a quick poem:
+Dialogue: 1,0:00:53.80,0:00:56.00,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}“Adoro o seu programa\Ne admiro o seu estilo,
+Dialogue: 1,0:00:53.80,0:00:56.00,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}“I love your show and I admire your style,
+Dialogue: 1,0:00:56.00,0:01:00.20,PT,,0,0,0,,{\an2\pos(540,1395)\fad(80,60)\c&H00D7FF&\fscx88\fscy88\t(0,120,\fscx100\fscy100)}mas o seu cachê é tão baixo\Nque não volto tão cedo!”
+Dialogue: 1,0:00:56.00,0:01:00.20,EN,,0,0,0,,{\an8\pos(540,1415)\fad(80,60)}but your pay is so cheap, I won't be back for a while!”
