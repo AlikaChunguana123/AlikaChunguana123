@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,2,50,50,0,1
+Style: T1,Montserrat Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,18,0,8,50,50,150,1
+Style: End,Montserrat Black,90,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+Style: CTA,Montserrat Black,104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,8,4,5,60,60,0,1
+Style: End2,Montserrat ExtraBold,52,&H0000D7FF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,3,5,60,60,0,1
+Style: Arrow,Montserrat Black,60,&H00000000,&H00FFFFFF,&H0000D7FF,&H0000D7FF,0,0,0,0,100,100,2,0,3,22,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:23.50,T1,,0,0,0,,{\fad(200,200)}SHE WAS BORN RICH…\N{\c&H00D7FF&}AND ALMOST LOST IT ALL
+Dialogue: 1,0:00:00.10,0:00:02.20,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Everybody asks\Nif I married rich.
+Dialogue: 1,0:00:02.90,0:00:03.70,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Honey…
+Dialogue: 1,0:00:04.30,0:00:05.80,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}I was BORN rich.
+Dialogue: 1,0:00:06.30,0:00:08.25,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}And I nearly lost\Nevery penny.
+Dialogue: 1,0:00:08.40,0:00:09.80,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}25 years old.
+Dialogue: 1,0:00:10.10,0:00:11.30,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}18 months.
+Dialogue: 1,0:00:11.70,0:00:13.30,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}I spent like\Nnew money.
+Dialogue: 1,0:00:14.30,0:00:16.15,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}And new money\Nalways runs out.
+Dialogue: 1,0:00:16.30,0:00:17.70,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}My grandmother\Ndidn't yell.
+Dialogue: 1,0:00:18.10,0:00:20.50,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}She slid ONE envelope\Nacross this very desk.
+Dialogue: 1,0:00:20.90,0:00:21.85,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}What was inside?
+Dialogue: 1,0:00:22.20,0:00:23.45,Cap,,0,0,0,,{\an2\pos(540,1430)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}Tomorrow, darling.
+Dialogue: 3,0:00:23.50,0:00:26.20,End,,0,0,0,,{\pos(540,820)\fscx60\fscy60\t(0,200,\fscx100\fscy100)}WHAT WAS IN\NTHE ENVELOPE?
+Dialogue: 3,0:00:24.00,0:00:26.20,End2,,0,0,0,,{\pos(540,1080)\fad(200,150)}PART 2 TOMORROW
+Dialogue: 3,0:00:26.30,0:00:29.50,CTA,,0,0,0,,{\pos(540,780)\fscx60\fscy60\t(0,180,\fscx100\fscy100)}COMMENT\N{\c&H00D7FF&}“ENVELOPE”
+Dialogue: 3,0:00:27.10,0:00:29.50,End2,,0,0,0,,{\pos(540,1060)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}& FOLLOW for Part 2
+Dialogue: 3,0:00:27.60,0:00:29.50,Arrow,,0,0,0,,{\pos(540,1300)\t(0,400,\fscx115\fscy115)\t(400,800,\fscx100\fscy100)\t(800,1200,\fscx115\fscy115)\t(1200,1600,\fscx100\fscy100)}▼  FOLLOW  ▼
