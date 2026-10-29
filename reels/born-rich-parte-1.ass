@@ -11,6 +11,8 @@ Style: EN,Montserrat ExtraBold,40,&H00E0E0E0,&H00FFFFFF,&H00000000,&H96000000,0,
 Style: T1,Montserrat Black,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,18,0,8,50,50,140,1
 Style: T2,Montserrat ExtraBold,36,&H0000D7FF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,12,0,8,50,50,330,1
 Style: End,Montserrat Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+Style: CTA,Montserrat Black,104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,8,4,5,60,60,0,1
+Style: Arrow,Montserrat Black,60,&H00000000,&H00FFFFFF,&H0000D7FF,&H0000D7FF,0,0,0,0,100,100,2,0,3,22,0,5,60,60,0,1
 Style: End2,Montserrat ExtraBold,48,&H0000D7FF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,3,5,60,60,0,1
 
 [Events]
@@ -41,6 +43,10 @@ Dialogue: 1,0:00:20.90,0:00:21.85,PT,,0,0,0,,{\an2\pos(540,1390)\fscx80\fscy80\t
 Dialogue: 1,0:00:20.90,0:00:21.85,EN,,0,0,0,,{\an8\pos(540,1410)}What was inside?
 Dialogue: 1,0:00:22.20,0:00:23.45,PT,,0,0,0,,{\an2\pos(540,1390)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}Amanhã, querida.
 Dialogue: 1,0:00:22.20,0:00:23.45,EN,,0,0,0,,{\an8\pos(540,1410)}Tomorrow, darling.
-Dialogue: 3,0:00:23.50,0:00:26.50,End,,0,0,0,,{\pos(540,820)\fscx60\fscy60\t(0,200,\fscx100\fscy100)}O QUE TINHA\NNO ENVELOPE?
-Dialogue: 3,0:00:24.00,0:00:26.50,End2,,0,0,0,,{\pos(540,1080)\fad(200,0)}PARTE 2 AMANHÃ\NSegue para não perder
-Dialogue: 3,0:00:24.00,0:00:26.50,EN,,0,0,0,,{\an8\pos(540,1200)\fad(200,0)}What was in the envelope? Part 2 tomorrow.
+Dialogue: 3,0:00:23.50,0:00:26.20,End,,0,0,0,,{\pos(540,820)\fscx60\fscy60\t(0,200,\fscx100\fscy100)}O QUE TINHA\NNO ENVELOPE?
+Dialogue: 3,0:00:24.00,0:00:26.20,End2,,0,0,0,,{\pos(540,1080)\fad(200,150)}PARTE 2 AMANHÃ
+Dialogue: 3,0:00:24.00,0:00:26.20,EN,,0,0,0,,{\an8\pos(540,1150)\fad(200,150)}What was in the envelope? Part 2 tomorrow.
+Dialogue: 3,0:00:26.30,0:00:29.50,CTA,,0,0,0,,{\pos(540,780)\fscx60\fscy60\t(0,180,\fscx100\fscy100)}COMENTA\N{\c&H00D7FF&}“ENVELOPE”
+Dialogue: 3,0:00:27.10,0:00:29.50,End2,,0,0,0,,{\pos(540,1060)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}e SEGUE para ver a Parte 2
+Dialogue: 3,0:00:27.10,0:00:29.50,EN,,0,0,0,,{\an8\pos(540,1130)\fad(150,0)}Comment “ENVELOPE” & follow for Part 2
+Dialogue: 3,0:00:27.60,0:00:29.50,Arrow,,0,0,0,,{\pos(540,1330)\t(0,400,\fscx115\fscy115)\t(400,800,\fscx100\fscy100)\t(800,1200,\fscx115\fscy115)\t(1200,1600,\fscx100\fscy100)}▼  SEGUIR  ▼
