@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat Black,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,2,50,50,0,1
+Style: T1,Montserrat Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,18,0,8,50,50,140,1
+Style: Ch,Montserrat ExtraBold,40,&H00000000,&H00FFFFFF,&H0000D7FF,&H0000D7FF,0,0,0,0,100,100,3,0,3,14,0,8,50,50,330,1
+Style: End,Montserrat Black,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+Style: CTA,Montserrat Black,104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,8,4,5,60,60,0,1
+Style: End2,Montserrat ExtraBold,52,&H0000D7FF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,3,5,60,60,0,1
+Style: Arrow,Montserrat Black,60,&H00000000,&H00FFFFFF,&H0000D7FF,&H0000D7FF,0,0,0,0,100,100,2,0,3,22,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:25.03,T1,,0,0,0,,{\fad(200,200)}ELA OROU TODOS OS DIAS…\N{\c&H00D7FF&}MAS NÃO FOI SUFICIENTE
+Dialogue: 3,0:00:00.00,0:00:05.20,Ch,,0,0,0,,{\fscx70\fscy70\t(0,150,\fscx100\fscy100)}DIA 1
+Dialogue: 3,0:00:05.20,0:00:10.45,Ch,,0,0,0,,{\fscx70\fscy70\t(0,150,\fscx100\fscy100)}DIAS DEPOIS…
+Dialogue: 3,0:00:10.45,0:00:14.95,Ch,,0,0,0,,{\fscx70\fscy70\t(0,150,\fscx100\fscy100)}NA SEMANA SEGUINTE
+Dialogue: 3,0:00:14.95,0:00:19.99,Ch,,0,0,0,,{\fscx70\fscy70\t(0,150,\fscx100\fscy100)}3 MESES DEPOIS
+Dialogue: 3,0:00:19.99,0:00:25.03,Ch,,0,0,0,,{\fscx70\fscy70\t(0,150,\fscx100\fscy100)}NAQUELA MESMA NOITE
+Dialogue: 1,0:00:00.10,0:00:02.10,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Ela orava pelo negócio dela\Ntodos os dias.
+Dialogue: 1,0:00:03.10,0:00:05.15,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}Mas nunca abriu\No caderno de contas.
+Dialogue: 1,0:00:05.25,0:00:06.15,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}“Grace, está lindo!
+Dialogue: 1,0:00:06.20,0:00:08.30,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Te pago no fim do mês, tá?”
+Dialogue: 1,0:00:08.70,0:00:10.40,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}“Tudo bem, irmã.\NDeus vai prover.”
+Dialogue: 1,0:00:10.55,0:00:12.15,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}“Faz pela metade,\Nminha irmã?
+Dialogue: 1,0:00:12.30,0:00:13.40,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Pra mim?”
+Dialogue: 1,0:00:13.55,0:00:14.90,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}“Pra você… tá bom.”
+Dialogue: 1,0:00:16.85,0:00:18.05,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}“Três meses de\Naluguel atrasado?
+Dialogue: 1,0:00:18.05,0:00:19.95,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Mas eu trabalho todo dia…\Ntodo santo dia.”
+Dialogue: 1,0:00:20.15,0:00:21.10,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}“Senhor, eu orei.
+Dialogue: 1,0:00:21.45,0:00:22.74,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Orei todos os dias.
+Dialogue: 1,0:00:22.74,0:00:23.90,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}Por que não é suficiente?”
+Dialogue: 1,0:00:24.00,0:00:25.00,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H3C3CFF&\fs88}*TOC  TOC  TOC*
+Dialogue: 3,0:00:25.05,0:00:27.80,End,,0,0,0,,{\pos(540,800)\fscx60\fscy60\t(0,200,\fscx100\fscy100)}QUEM ESTÁ\NBATENDO\N{\c&H00D7FF&}À PORTA?
+Dialogue: 3,0:00:25.55,0:00:27.80,End2,,0,0,0,,{\pos(540,1140)\fad(200,150)}PARTE 2 AMANHÃ
+Dialogue: 3,0:00:27.90,0:00:31.00,CTA,,0,0,0,,{\pos(540,780)\fscx60\fscy60\t(0,180,\fscx100\fscy100)}COMENTA\N{\c&H00D7FF&}“AMÉM”
+Dialogue: 3,0:00:28.70,0:00:31.00,End2,,0,0,0,,{\pos(540,1060)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}e SEGUE para ver a Parte 2
+Dialogue: 3,0:00:29.20,0:00:31.00,Arrow,,0,0,0,,{\pos(540,1300)\t(0,400,\fscx115\fscy115)\t(400,800,\fscx100\fscy100)\t(800,1200,\fscx115\fscy115)\t(1200,1600,\fscx100\fscy100)}▼  SEGUIR  ▼
