@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat Black,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,2,50,50,0,1
+Style: T1,Montserrat Black,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,18,0,8,50,50,150,1
+Style: End,Montserrat Black,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+Style: CTA,Montserrat Black,104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,8,4,5,60,60,0,1
+Style: End2,Montserrat ExtraBold,52,&H0000D7FF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,3,5,60,60,0,1
+Style: Arrow,Montserrat Black,60,&H00000000,&H00FFFFFF,&H0000D7FF,&H0000D7FF,0,0,0,0,100,100,2,0,3,22,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:21.30,T1,,0,0,0,,{\fad(200,200)}SHE ALMOST SOLD\N{\c&H00D7FF&}HER DADDY'S FIELD
+Dialogue: 1,0:00:00.10,0:00:01.90,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Eleven years ago, baby,
+Dialogue: 1,0:00:01.90,0:00:03.30,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}I had $42…
+Dialogue: 1,0:00:03.70,0:00:06.00,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}…and a house full of\Nhungry grandbabies.
+Dialogue: 1,0:00:06.10,0:00:07.70,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}And a field\Nmy daddy left me
+Dialogue: 1,0:00:07.70,0:00:10.10,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}that I swore\NI'd SELL.
+Dialogue: 1,0:00:10.70,0:00:13.20,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}Had the pen\Nin my hand, child.
+Dialogue: 1,0:00:13.40,0:00:15.50,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)}Then my granddaughter\Nasked me ONE question…
+Dialogue: 1,0:00:16.10,0:00:17.50,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}…and I put\Nthat pen down.
+Dialogue: 1,0:00:18.30,0:00:19.70,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}What she asked?
+Dialogue: 1,0:00:19.90,0:00:21.25,Cap,,0,0,0,,{\an2\pos(540,1440)\fscx80\fscy80\t(0,130,\fscx100\fscy100)\c&H00D7FF&}Come back\Ntomorrow, baby.
+Dialogue: 3,0:00:21.30,0:00:24.00,End,,0,0,0,,{\pos(540,800)\fscx60\fscy60\t(0,200,\fscx100\fscy100)}WHAT DID HER\NGRANDDAUGHTER\N{\c&H00D7FF&}ASK?
+Dialogue: 3,0:00:21.80,0:00:24.00,End2,,0,0,0,,{\pos(540,1120)\fad(200,150)}PART 2 TOMORROW
+Dialogue: 3,0:00:24.10,0:00:27.30,CTA,,0,0,0,,{\pos(540,780)\fscx60\fscy60\t(0,180,\fscx100\fscy100)}COMMENT\N{\c&H00D7FF&}“FIELD”
+Dialogue: 3,0:00:24.90,0:00:27.30,End2,,0,0,0,,{\pos(540,1060)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}& FOLLOW for Part 2
+Dialogue: 3,0:00:25.40,0:00:27.30,Arrow,,0,0,0,,{\pos(540,1300)\t(0,400,\fscx115\fscy115)\t(400,800,\fscx100\fscy100)\t(800,1200,\fscx115\fscy115)\t(1200,1600,\fscx100\fscy100)}▼  FOLLOW  ▼
