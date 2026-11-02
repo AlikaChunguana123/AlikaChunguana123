@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat Black,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,4,2,60,60,0,1
+Style: T1,Montserrat Black,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&HB4000000,0,0,0,0,100,100,0,0,3,18,0,8,50,50,140,1
+Style: CTA,Montserrat Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,8,4,5,60,60,0,1
+Style: End2,Montserrat ExtraBold,50,&H0000D7FF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,3,5,60,60,0,1
+Style: Arrow,Montserrat Black,60,&H00000000,&H00FFFFFF,&H0000D7FF,&H0000D7FF,0,0,0,0,100,100,2,0,3,22,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:51.70,T1,,0,0,0,,{\fad(200,300)}SHE NEVER SAW THE BATTLE…\N{\c&H00D7FF&}BUT HEAVEN WAS FIGHTING FOR HER
+Dialogue: 1,0:00:00.10,0:00:02.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}They were waiting for her.
+Dialogue: 1,0:00:02.60,0:00:03.95,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}Every single day.
+Dialogue: 1,0:00:04.10,0:00:06.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}She had no idea.
+Dialogue: 1,0:00:06.60,0:00:08.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}Just another drive home.
+Dialogue: 1,0:00:08.60,0:00:10.95,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)\c&H00D7FF&}But she was never alone.
+Dialogue: 1,0:00:11.10,0:00:13.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}Heaven had\Nsent a guardian.
+Dialogue: 1,0:00:13.60,0:00:15.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}They chose their target.
+Dialogue: 1,0:00:15.60,0:00:17.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}She just kept driving…
+Dialogue: 1,0:00:17.60,0:00:19.95,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}Unaware of the\Nwar around her.
+Dialogue: 1,0:00:20.10,0:00:22.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}Her guardian\Nwas already there.
+Dialogue: 1,0:00:22.60,0:00:25.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}Then they made their move…
+Dialogue: 1,0:00:25.60,0:00:27.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}They came for her.
+Dialogue: 1,0:00:27.60,0:00:29.95,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)\c&H00D7FF&}AND HEAVEN ANSWERED.
+Dialogue: 1,0:00:30.10,0:00:32.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}Angels surrounded\Nthe bridge.
+Dialogue: 1,0:00:32.60,0:00:34.95,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}“No weapon\Nformed against you
+Dialogue: 1,0:00:35.10,0:00:37.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)\c&H00D7FF&}shall prosper.”
+Dialogue: 1,0:00:37.60,0:00:40.45,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}— Isaiah 54:17
+Dialogue: 1,0:00:40.60,0:00:43.65,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}She never saw the battle…
+Dialogue: 1,0:00:43.80,0:00:46.65,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)\c&H00D7FF&}…but she felt the peace.
+Dialogue: 1,0:00:46.80,0:00:49.15,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)}Some battles\Nyou'll never see…
+Dialogue: 1,0:00:49.30,0:00:51.65,Cap,,0,0,0,,{\an2\pos(540,1450)\fscx80\fscy80\t(0,140,\fscx100\fscy100)\c&H00D7FF&}…because God\Nalready won them.
+Dialogue: 3,0:00:51.75,0:00:55.75,CTA,,0,0,0,,{\pos(540,760)\fscx60\fscy60\t(0,200,\fscx100\fscy100)}YOU ARE\N{\c&H00D7FF&}PROTECTED.
+Dialogue: 3,0:00:52.50,0:00:55.75,End2,,0,0,0,,{\pos(540,1040)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}Comment “PROTECTED” to claim it
+Dialogue: 3,0:00:53.20,0:00:55.75,Arrow,,0,0,0,,{\pos(540,1260)\t(0,400,\fscx115\fscy115)\t(400,800,\fscx100\fscy100)\t(800,1200,\fscx115\fscy115)\t(1200,1600,\fscx100\fscy100)}▼  FOLLOW  ▼
