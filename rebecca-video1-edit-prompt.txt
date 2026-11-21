@@ -1,0 +1,54 @@
+You are my video editor. I'm uploading the clips for an animated Instagram/TikTok Reel by Rebecca, a 64-year-old AI grandma (health and strength for women over 60, filmed on her farm in Brazil). The video is "Hábito nº1: Força é liberdade". Use code (Python / ffmpeg) to edit everything into ONE finished MP4 I can download.
+
+MY FILES AND WHAT IS IN THEM (use this order):
+1. image_scene1 (Rebecca walking with two kettlebells): use as the opening shot, 3 seconds, slow zoom-in. No voice here, just music + the hook text.
+2. video_5: starts with an older woman struggling to get up from a sofa while her daughter helps (about 0-4.5s), then Rebecca on her veranda doing chair squats and talking to the camera (about 4.5-15s). Use all of it, trim silent bits.
+3. video_6: Rebecca doing chair squats again (8s). This repeats video_5, so only use 2-3 seconds of it as a quick extra cut if it helps the pace, otherwise skip it.
+4. video_7: Rebecca loading crates of mangoes into her pickup and talking (about 0-6s), then sitting on her veranda with a coffee cup (about 6-15s). Use all of it.
+5. video_9: this is an exact duplicate of video_7. Do NOT use it.
+6. video_8: Rebecca sitting on her veranda with coffee and green hills behind her, saying the final lesson (9s). Use it as the ending.
+7. image_scene3 (the sofa scene): only use it if you need a still for the "problem" part; video_5 already shows it.
+If any file is missing, edit with what you have and tell me what is missing.
+
+FORMAT
+- Vertical 9:16, 1080x1920, 30 fps, MP4 (H.264 + AAC). Final length about 35-45 seconds.
+- All clips are horizontal: crop each one to vertical and keep Rebecca's face (or the speaking character's face) inside the frame. Move the crop if she moves.
+- Cut silences and dead frames at the start/end of each clip. Keep the pace fast: no shot longer than about 5 seconds without a cut or zoom.
+- Hide the small AI sparkle watermark in the bottom-right corner (crop it out).
+
+SUBTITLES (Portuguese)
+- Big, bold, ALL CAPS, 2-3 words at a time, white with a thick black outline and a soft shadow, in the lower-middle of the screen (about 30% from the bottom, above the Instagram/TikTok buttons). Each group pops in with a quick scale-up.
+- Keywords in RED (#E5202B): 64 ANOS, NINGUÉM, INDEPENDÊNCIA, IDADE, FORÇA, LEVANTAR, CADEIRA, ESCADAS, TODOS OS DIAS, DEZ VEZES, GINÁSIO, VAIDADE, LIBERDADE, HÁBITO.
+- The subtitles must match exactly what Rebecca says in each clip. The script she was given is below; if what you hear is different, follow the audio. If you cannot hear the audio, use the script lines in order, place each one over the parts of the clip where there is voice (use silence detection), and tell me so I can check.
+  "Tenho 64 anos... e ninguém carrega isto por mim."
+  "Sabes o que mais tira a independência a uma mulher depois dos 60? Não é a idade."
+  "É perder força. Levantar de uma cadeira fica difícil. Subir escadas também."
+  "Por isso, todos os dias: sento e levanto da cadeira. Dez vezes."
+  "Levanto caixas da minha colheita, trato da horta, subo a colina. O meu ginásio é a quinta."
+  "Força não é vaidade, minha querida. É liberdade. Segue para o hábito número dois."
+
+TEXT CARDS (bold, pop-in animation)
+- First 3 seconds, at the top in a black box: "64 ANOS. NINGUÉM CARREGA ISTO POR MIM" ("64 ANOS" in red).
+- On the sofa scene, centered: "O MÚSCULO VAI-SE SE NÃO O USARES" ("MÚSCULO" in red).
+- On the squats: "10x POR DIA" (big, "10x" in red), with a small counter 1...10 if it fits the timing.
+- On the mango crates: "O MEU GINÁSIO = A QUINTA".
+- Last 3 seconds, at the top in a black box: "HÁBITO Nº1 · FORÇA" and smaller "Segue para o nº2".
+
+MUSIC AND SOUND
+- Background music: warm, upbeat Brazilian acoustic (light bossa nova / acoustic guitar + soft percussion). Make it softer and more emotional (just guitar/piano) during the sofa "problem" scene, then bring the beat back when the squats start. If you can't use a music file, generate a simple acoustic-style track with code.
+- Duck the music under the voice (voice always clear, music about 10-15% under speech, louder when nobody speaks).
+- Light nature ambience: birds, a rooster at the start.
+- Sound effects: whoosh on every transition, a soft "pop" when each text card appears, a light "boom" on the hook text, a heartbeat-like thump on the sofa struggle, a small "ding" when "10x POR DIA" appears.
+
+EFFECTS
+- Slow zoom-in (Ken Burns) on every shot; a quick punch-in zoom on the first word of the hook.
+- White flash at the very start; slide/whip transitions (0.3s) between scenes.
+- Sofa scene slightly desaturated and darker (the "problem"); everything after it warm, bright and saturated.
+- Warm, sunny colour grade overall. Fade out at the end.
+
+Before rendering, list the clips you received, their lengths and how you will use each one. After rendering, show me 4-6 still frames (hook, sofa, squats, crates, ending) so I can check subtitles and cards, then give me the download link.
+
+Post caption to give me at the end:
+64 anos. Ninguém carrega isto por mim 💪
+Conteúdo educativo. Fala com o teu médico antes de mudar a tua rotina.
+#saude60mais #mulheres60mais #envelhecerbem #forca #vidanaquinta
