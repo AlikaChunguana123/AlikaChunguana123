@@ -1,0 +1,169 @@
+# Story 1: Whitmore. DETAILED image prompts (9:16)
+
+Copy each prompt as it is. Attach the **Simone** and/or **Charles** character sheet as a reference image wherever it says so.
+
+**Negative prompt (use on every image, if your tool has the field):**
+```
+text, letters, words, watermark, logo, signature, blurry, photorealistic, 3D render, extra fingers, deformed hands, distorted face, extra limbs, cropped head, low quality, messy lines, children
+```
+
+---
+
+## CHARACTER SHEETS (make these first)
+
+### SIMONE: character sheet
+```
+Professional character turnaround sheet, flat 2D cartoon illustration in modern explainer-animation style, clean bold dark-brown outlines, soft two-tone cel shading, warm muted palette.
+Character: SIMONE, an elegant Black woman, age 58, warm deep-brown skin with a soft golden undertone, oval face, high cheekbones, full lips with a muted rose-brown lipstick, warm dark-brown almond eyes with a knowing, slightly amused look, neatly shaped eyebrows, shoulder-length soft dark curls with a few silver strands at the temples, curls swept slightly to one side.
+Outfit: ivory silk blouse with a soft draped neckline and long sleeves, three-strand pearl necklace resting on the collarbone, small round gold stud earrings, slim gold wristwatch on the left wrist, thin gold ring on the right hand, cream tailored trousers, nude low-heel pumps.
+Prop: white porcelain teacup and saucer with a thin gold rim.
+Layout: full body front view, 3/4 view, side view, and back view in a row; underneath, four head-and-shoulders expressions: amused smirk, one eyebrow raised, gentle disappointed head shake with closed eyes, proud warm smile.
+Plain warm cream background (#F4EBDD), even soft lighting, no text.
+```
+
+### CHARLES WHITMORE: character sheet
+```
+Professional character turnaround sheet, flat 2D cartoon illustration in modern explainer-animation style, clean bold dark-brown outlines, soft two-tone cel shading, warm muted palette.
+Character: CHARLES WHITMORE, a white man, age 32, tall and slim, light peachy skin, sharp jaw, clean-shaven, light-blue eyes, slicked-back golden-blond hair with a slight wave, cocky wide grin showing teeth.
+Outfit: pale pink double-breasted suit with wide lapels and gold buttons, crisp white shirt open at the collar with no tie, pink pocket square, gold signet ring on the right pinky, thin gold chain bracelet, brown suede loafers with no socks.
+Layout: full body front view, 3/4 view, side view, back view in a row; underneath, four head-and-shoulders expressions: party grin with champagne glass, confused squint, stressed with a sweat drop, defeated and teary.
+Plain warm cream background (#F4EBDD), even soft lighting, no text.
+```
+
+---
+
+## SCENE 1: Hook (Simone in her library)
+**Reference:** Simone sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold dark-brown outlines, soft two-tone cel shading, vertical 9:16.
+SUBJECT: Simone (elegant Black woman, 58, soft dark curls with silver at the temples, three-strand pearl necklace, ivory silk blouse, gold watch) sits upright in a tufted burgundy leather wingback chair with brass nail-head trim, legs crossed at the ankle. Her left hand holds a white gold-rimmed porcelain teacup on its saucer at chest height; her right index finger is raised as if about to tell a secret. Expression: amused knowing smirk, one eyebrow slightly raised, looking straight at the viewer.
+SETTING: private wood-panelled library. Behind her, floor-to-ceiling dark walnut bookshelves with leather-bound books in burgundy, green and brown; a rolling brass library ladder on the left; a brass banker's desk lamp with green glass shade glowing on a small side table; a framed oil landscape painting in a gilded frame; a stone fireplace on the right edge with a warm orange fire; a Persian rug in deep red and navy on the floor; a small round side table with a silver teapot.
+LIGHTING: warm golden lamp and fire light from the right, soft shadows, cozy evening mood.
+CAMERA: medium shot, eye level, Simone centered in the lower two-thirds, empty space in the top third for hook text.
+COLORS: burgundy, walnut brown, antique gold, cream, touches of emerald.
+No text.
+```
+
+## SCENE 2: The mansion on the hill
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: a grand three-storey Georgian-style stone mansion in pale honey-coloured stone, symmetrical facade, tall white-framed windows glowing warm yellow, a central portico with four white columns, slate-grey roof with four chimneys, ivy climbing one corner.
+SETTING: the mansion sits on a gentle hill at the end of a long curved gravel driveway lined with trimmed boxwood hedges and tall oak trees with orange and red autumn leaves. In the foreground, tall black wrought-iron gates with gold spear tips and a gold "W" crest shape (no letters, just an ornamental crest). Two classic 1980s cars, a dark green luxury sedan and a cream convertible, parked by the front steps.
+LIGHTING: golden hour, sun low on the left, long soft shadows, sky gradient from peach to soft lavender, a few wispy clouds.
+CAMERA: wide establishing shot from low behind the gates, mansion in the upper half, gates framing the lower third.
+MOOD: wealthy, timeless, peaceful.
+No text.
+```
+
+## SCENE 3: Charles takes over
+**Reference:** Charles sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: Charles Whitmore (32, slicked-back blond hair, pale pink double-breasted suit, white open-collar shirt, gold signet ring) leans far back in an oversized tufted oxblood leather desk chair, both loafers crossed on top of an antique carved mahogany desk, hands clasped behind his head, huge cocky grin, eyes half-closed with satisfaction.
+SETTING: the mansion's study. On the desk: a green-shaded banker's lamp, a crystal whiskey decanter with two glasses, a leather-bound ledger closed and pushed aside, a gold fountain pen. Behind him, centered on the dark green damask wallpaper, a large gilded-frame oil portrait of a stern old grandfather: grey hair, white walrus moustache, dark three-piece suit, pocket watch chain, disapproving eyes looking down at Charles. Heavy emerald velvet curtains with gold tassels on one side, tall window showing evening sky.
+LIGHTING: warm lamp light from the desk, soft shadows, portrait slightly lit from above.
+CAMERA: medium-wide shot, slightly low angle so the portrait looms above Charles.
+MOOD: funny contrast between the relaxed heir and the strict ancestor.
+No text.
+```
+
+## SCENE 4: The party
+**Reference:** Charles sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: Charles Whitmore in his pale pink double-breasted suit stands on a chair in the center, laughing with his head tilted back, pouring a large bottle of champagne onto a tall seven-level champagne glass tower that overflows with golden bubbly liquid.
+SETTING: a lavish mansion ballroom. A giant crystal chandelier sparkling above; white-and-gold walls with tall mirrors; a black-and-white checkered marble floor; adult guests in 1990s evening wear (sequin dresses, tuxedos) dancing and cheering with raised glasses; a four-piece jazz band on a small stage (saxophone, double bass, piano, trumpet); gold and silver confetti and streamers falling; a waiter balancing a tray of glasses; balloons in gold and cream.
+LIGHTING: warm golden party light, sparkles and lens-glints from the chandelier, slight warm haze.
+CAMERA: medium-wide shot, slightly low angle looking up at Charles and the tower.
+MOOD: excessive, joyful, over-the-top.
+No text.
+```
+
+## SCENE 5: Cars, yacht, villa
+**Reference:** Charles sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: Charles Whitmore in his pale pink suit, jacket open, gold aviator sunglasses, stands on the bow of a sleek white three-deck luxury yacht, arms spread wide like he owns the world, wind blowing his hair back.
+SETTING: a sunny Mediterranean marina. Foreground: a wooden dock with three shiny sports cars parked in a row (cherry red, silver, and canary yellow), their paint reflecting the sun. Midground: the yacht with tinted windows and a small helicopter pad. Background: a white cliffside villa with terracotta roof tiles, bougainvillea in pink, cypress trees, and an infinity pool, on a rocky hill above turquoise water; a few sailboats far out.
+LIGHTING: bright midday sun, crisp shadows, sparkling highlights on the water.
+COLORS: turquoise, white, terracotta, pink, with the red car as an accent.
+CAMERA: wide shot, low angle from the dock, cars in the bottom third, yacht in the middle, villa at the top.
+No text.
+```
+
+## SCENE 6: The accountant (+$2M a year)
+**Reference:** Charles sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: on the left, an older accountant, around 65, thin, grey hair neatly combed, round wire-rim glasses perched on his nose, tweed waistcoat over a white shirt with rolled sleeves and a navy bow tie, holding up one neat sheet of paper (blank, no text) and tapping it with a pencil, serious patient expression, looking over his glasses. On the right, Charles Whitmore in his pale pink suit slouches sideways in a leather armchair, legs over the armrest, scrolling a smartphone, completely bored, a small yawn.
+SETTING: a quiet wood-panelled office. A mahogany desk between them with one small, neat, tidy stack of green banknotes tied with a paper band, a brass desk lamp, an old adding machine, and filing cabinets in the background.
+LIGHTING: soft daylight from a tall window behind the accountant, calm and neutral.
+CAMERA: medium shot, both characters fully visible, the money stack centered.
+No text.
+```
+
+## SCENE 7: Buried in bills (−$5M a year)
+**Reference:** Charles sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: Charles Whitmore in his pale pink suit sits at an antique mahogany desk, cheerfully signing papers with a gold fountain pen, whistling, totally unaware. In front of him, an absurdly tall, leaning, wobbling tower of bills, invoices and receipts (blank paper, no readable text), stacked twice as tall as him and almost touching the ceiling. Papers are sliding off the top and scattered all over the floor; a few envelopes float mid-air.
+SETTING: the same study with the green damask wallpaper and the grandfather portrait, whose painted eyes now look shocked.
+LIGHTING: warm lamp light, slightly comedic dramatic shadow cast by the paper tower.
+CAMERA: medium-wide, low angle to exaggerate the height of the tower.
+MOOD: comedic, exaggerated, warning.
+No text.
+```
+
+## SCENE 8: "You see the problem, darling"
+**Reference:** Simone sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: close-up of Simone (58, soft dark curls with silver temples, three-strand pearl necklace, ivory silk blouse, small gold earrings) taking a slow sip from her white gold-rimmed porcelain teacup, the cup just below her nose, her eyes looking directly at the viewer over the rim with one eyebrow raised high, a subtle "I told you so" look.
+SETTING: blurred background of the wood-panelled library: warm bookshelves and soft fireplace glow on the right.
+LIGHTING: warm golden key light from the right, soft rim light on her curls.
+CAMERA: close-up, chest up, eye level, slight shallow depth of field.
+No text.
+```
+
+## SCENE 9: 12 years later (−$40M → $0)
+**Reference:** Charles sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16, desaturated muted palette of grey-blue, faded beige and dull brown.
+SUBJECT: the same honey-stone Georgian mansion from scene 2, now neglected: several windows dark, one cracked, ivy overgrown and brown, hedges wild and unkept, the gravel driveway covered in dead brown leaves and puddles. Two movers in grey overalls carry a large gilded-frame oil painting and a crystal chandelier towards a plain white moving truck with its back doors open. A blank wooden auction notice board stands by the gate. The black iron gates are closed with a heavy chain and padlock.
+In the foreground at the gate: Charles Whitmore, now looking older and tired, stubble, messy hair, wearing the same pink suit but faded, wrinkled and stained, tie-less, shoulders slumped, holding one small suitcase, head lowered, defeated.
+LIGHTING: overcast grey sky, light drizzle, no strong shadows, cold mood.
+CAMERA: wide shot from behind and to the side of Charles, the mansion in the background.
+No text.
+```
+
+## SCENE 10: "They bleed from a lifestyle"
+**Reference:** Simone sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: Simone (58, soft dark curls with silver temples, three-strand pearl necklace, ivory silk blouse, gold wristwatch) leans slightly forward in her tufted burgundy wingback chair, gently placing her gold-rimmed porcelain teacup onto its saucer on a small round marble side table. Calm, serious, wise expression, looking straight at the viewer, lips closed.
+SETTING: the wood-panelled library, bookshelves behind, brass lamp glowing, fireplace on the right.
+LIGHTING: warm, slightly dimmer than scene 1, with stronger contrast to feel more serious.
+CAMERA: medium close-up, waist up, eye level.
+No text.
+```
+
+## SCENE 11: Lesson + CTA
+**Reference:** Simone sheet
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading, vertical 9:16.
+SUBJECT: Simone (58, soft dark curls with silver temples, three-strand pearl necklace, ivory silk blouse, small gold earrings, gold wristwatch) sits tall and elegant in her tufted burgundy leather wingback chair, raising her white gold-rimmed porcelain teacup toward the viewer in a graceful toast, warm proud confident smile, eyes slightly crinkled.
+SETTING: the wood-panelled library at its coziest: fireplace glowing brightly, brass lamp on, bookshelves, a vase of white roses on the side table.
+LIGHTING: warm golden light, soft glow around her like a spotlight.
+CAMERA: medium shot, eye level, Simone centered, empty space in the top third for "MISTAKE #1 of 5" text.
+MOOD: confident, warm, wise, satisfying ending.
+No text.
+```
+
+---
+
+## Tips for consistent images
+- **Always attach the character sheet** as a reference image. That matters more than the words in the prompt.
+- Generate the **mansion in scene 2 first**, then use it as a reference for scene 9 so it's clearly the same house.
+- Re-use the **study from scene 3** as a reference for scene 7, and **Simone's library from scene 1** for scenes 8, 10 and 11.
+- If a tool keeps adding text or letters, add "no text" twice and use the negative prompt.
+- Generate 3–4 versions of each scene and pick the one where the face best matches the character sheet.
