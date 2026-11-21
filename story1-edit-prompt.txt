@@ -1,0 +1,59 @@
+You are my video editor. I am uploading the clips for an animated Instagram Reel called "The Whitmores inherited $40M... and still went broke" (Mistake #1 of 5 that kill fortunes). The narrator is Simone, an elegant old-money "rich auntie". Use code (ffmpeg / Python) to edit the clips into ONE finished video file I can download. If I could not upload every clip, edit the ones I did upload and tell me which scenes are missing.
+
+CLIP ORDER (file names roughly match the scene numbers):
+1. Simone in her library (hook)
+2. The mansion on the hill
+3. Charles with his feet on the desk
+4. The champagne party
+5. Charles on the yacht
+6. The accountant
+7. Charles buried in bills
+8. Simone sipping tea
+9. The ruined mansion, 12 years later
+10. Simone setting her teacup down
+11. Simone raising her teacup in a toast (ending)
+
+FORMAT
+- Vertical 9:16, 1080x1920, 30 fps, MP4 (H.264 + AAC), total length about 35-50 seconds.
+- If a clip is horizontal, crop it to vertical and keep the speaking character's face inside the frame (do not cut off the face).
+- Trim silence and dead frames at the start and end of every clip. Keep the pace fast; no shot longer than about 5 seconds without a zoom or cut.
+- Cover or crop out any AI watermark (for example the small sparkle logo in the bottom-right corner).
+
+SUBTITLES
+- Burn in big, bold subtitles, 2-3 words at a time, ALL CAPS, white text with a thick black outline, placed in the lower-middle of the screen (above the Instagram buttons, about 30% from the bottom).
+- Each word group pops in with a quick scale-up animation.
+- Keywords in RED (#E5202B): WHITMORES, FORTY MILLION, DOLLARS, BROKE, OLD MONEY, MANSION, PARTY, YACHT, TWO MILLION, FIVE, PROBLEM, TWELVE YEARS, BLEED, LIFESTYLE, MISTAKE, EARNS, NEVER.
+- Match the subtitles to what is actually said in each clip. The script is:
+  Simone: "The Whitmores inherited forty million dollars... and still went broke."
+  Simone: "Old family. Old money. A mansion on the hill."
+  Simone: "When the old man died, his grandson Charles took over." Charles: "Grandpa's gone. Now the fun begins!"
+  Simone: "Charles loved a party. Every weekend." Charles: "Champagne for everyone! It's on the Whitmores!"
+  Simone: "New cars. A yacht. A villa in Monaco." Charles: "Life is too short for small boats!"
+  Accountant: "Mr. Whitmore, your money earns two million a year." Charles: "Wonderful. Then I'll spend five."
+  Charles: "Sign here, sign there... money is for spending!"
+  Simone: "You see the problem, darling."
+  Simone: "Every year, three million came out of the principal. Twelve years later..." Charles: "Where did it all go?"
+  Simone: "Fortunes rarely die from one big mistake. They bleed... from a lifestyle."
+  Simone: "Old money lives on what the money earns. Never on the money itself. That's mistake number one. Follow for number two."
+
+TEXT CARDS (big, bold, centered, pop-in animation)
+- 0-6s, at the top in a black box: "MISTAKE #1 THAT KILLS FORTUNES" (the "#1" in red).
+- On the mansion: "$40,000,000".
+- On the accountant scene: "+$2M A YEAR" ($2M in green).
+- On the bills scene: "-$5M A YEAR" ($5M in red).
+- On the ruined mansion: "12 YEARS LATER..." then "$40,000,000" with a strikethrough and a big red "$0" under it.
+- Last 3 seconds, at the top in a black box: "MISTAKE #1 OF 5" and smaller "FOLLOW FOR #2".
+
+MUSIC AND SOUND
+- Background music: soft, elegant piano (classy, old-money feel) for the opening and mansion, upbeat light jazz for the party / yacht / spending scenes, a tense ticking-clock feel for the money cards, then slow sad piano from the ruined mansion to the end. If you cannot use a music file, generate a simple piano track with code.
+- Duck the music under every voice (voice always clear, music about 10-15% volume).
+- Sound effects: whoosh on every transition, champagne pop on the party, cash-register "ding" on +$2M, low boom on -$5M and on $0, soft teacup clink when Simone sets the cup down.
+
+EFFECTS
+- Slow zoom-in (Ken Burns) on every shot.
+- Quick white flash at the very start and on the cut to the ending.
+- Slide or whip transitions between scenes (0.3s).
+- Ruined-mansion scene: darker and less colorful (desaturated) to feel sad.
+- Fade out at the very end.
+
+Before rendering, list the clips you received with their length and what you will put on each. After rendering, show me 4-6 still frames so I can check the subtitles and cards, then give me the download link.
