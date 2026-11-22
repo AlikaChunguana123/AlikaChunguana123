@@ -70,7 +70,7 @@ soft(mus, SOFA0 + 0.2, 45, 4.0, 0.12)
 bossa(SOFA1, TOTAL - 1.0)
 for m in [48, 60, 64, 67, 71]: pluck(mus, TOTAL - 1.0, m, 2.0, 0.12)
 # birds
-for tb in [0.4, 1.3, 2.6, 16.5, 30.0]:
+for tb in []:
     for j in range(3):
         i = int((tb + j*0.13)*SR); L = int(0.09*SR); tt = np.arange(L)/SR
         sfx[i:i+L] += 0.05*np.sin(2*np.pi*(3200 + 2500*tt/0.09)*tt)*np.sin(np.pi*tt/0.09)
@@ -131,8 +131,8 @@ lines("É perder força. Levantar de uma cadeira fica difícil. Subir escadas ta
 lines("Por isso, todos os dias: sento e levanto da cadeira. Dez vezes.", [(10.63, 11.12), (11.53, 14.6)], starts[1])
 lines("Levanto caixas da minha colheita, trato da horta, subo a colina. O meu ginásio é a quinta.", [(0.33, 1.51), (2.25, 5.4)], starts[2])
 lines("Força não é vaidade, minha querida. É liberdade. Segue para o hábito número dois.", [(1.16-0.8, 3.54-0.8), (4.15-0.8, 5.14-0.8), (5.46-0.8, 7.16-0.8)], starts[3])
-pp = r"{\fscx60\fscy60\t(0,120,\fscx110\fscy110)\t(120,200,\fscx100\fscy100)}"
-add(0.0, 4.4, pp + RED + "64 ANOS." + WHITE + r"\NNINGUÉM CARREGA\NISTO POR MIM", "Title")
+pp = r"{\an5\pos(540,1080)\fscx60\fscy60\t(0,120,\fscx110\fscy110)\t(120,200,\fscx100\fscy100)}"
+add(0.0, 4.4, pp + RED + "64 ANOS. " + WHITE + r"NINGUÉM\NCARREGA ISTO POR MIM", "Title")
 add(SOFA0 + 0.3, SOFA1, pp + "O " + RED + "MÚSCULO" + WHITE + r" VAI-SE\NSE NÃO O USARES", "Card")
 add(CARD_SQ, CARD_SQ + 3.2, pp + RED + "10x" + WHITE + " POR DIA", "Card")
 add(CARD_CR, starts[3] - 0.1, pp + r"O MEU GINÁSIO\N= A QUINTA", "Card")
@@ -155,7 +155,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 open(f"{S}/Rsubs.ass", "w").write(ass)
 
 run(f"ffmpeg -v error -y -i {S}/Rjoined.mov -i {S}/Rmusic.wav -i {S}/Rsfx.wav -filter_complex "
-    f"\"[0:a]volume=1.6,asplit=2[vo][key];[1:a]volume=0.9[m];[m][key]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=400[md];"
+    f"\"[0:a]volume=1.6,asplit=2[vo][key];[1:a]volume=0[m];[m][key]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=400[md];"
     f"[vo][md][2:a]amix=inputs=3:normalize=0,alimiter=limit=0.95,afade=t=out:st={TOTAL-0.6}:d=0.6[a];"
     f"[0:v]ass={S}/Rsubs.ass,fade=t=out:st={TOTAL-0.4}:d=0.4[v]\" -map [v] -map [a] -t {TOTAL} "
     f"-c:v libx264 -crf 19 -preset medium -pix_fmt yuv420p -c:a aac -b:a 192k -movflags +faststart {OUT}")
