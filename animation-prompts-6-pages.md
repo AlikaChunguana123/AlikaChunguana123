@@ -3,6 +3,232 @@
 
 ---
 
+## @simone_dynasty: Simone | Money Mindset (nova fórmula) (English + Português (PT))
+> Nova fórmula, igual à da Rebecca: a Simone fala ela própria para a câmara, na primeira pessoa, sobre a vida DELA, e cada vídeo termina com UMA ação concreta que a pessoa pode fazer hoje. Testa as versões em português: a Rebecca em português teve muito mais alcance.
+
+Character sheet:
+```
+Character turnaround sheet, flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft cel shading. SIMONE, an elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver strands at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch, nude low heels, holding a white gold-rimmed porcelain teacup. Front, 3/4, side and back view; underneath 5 expressions: amused smirk, raised eyebrow, laughing, serious, proud smile. Plain cream background, no text.
+```
+
+### Video 1: A regra do envelope / The envelope rule
+**Hook:** A minha avó deu-me uma regra sobre dinheiro. / My grandmother gave me one rule about money.
+
+**Scene 1 · Hook** — PT: A minha avó deu-me um envelope e uma regra. Três gerações depois, ainda a seguimos. / EN: My grandmother gave me one envelope and one rule. Three generations later, we still follow it.  [card: 1 ENVELOPE · 1 REGRA]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in a burgundy wingback chair in her wood-panelled library, holding up an old cream envelope with a red wax seal, looking at the viewer with a knowing smile. Medium shot, fireplace glow.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in a burgundy wingback chair in her wood-panelled library, holding up an old cream envelope with a red wax seal, looking at the viewer with a knowing smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "My grandmother gave me one envelope and one rule. Three generations later, we still follow it." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 2 · A avó** — PT: Sempre que entra dinheiro, antes de gastares um cêntimo, uma parte vai para o envelope. / EN: Every time money comes in, before you spend a single cent, one part goes in the envelope.
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Warm 1980s flashback: an elegant grandmother in pearls and a green dress at an antique writing desk hands a sealed cream envelope to a 20-year-old Simone with the same curls, both smiling. Medium shot, golden light.
+```
+```
+Warm 1980s flashback: an elegant grandmother in pearls and a green dress at an antique writing desk hands a sealed cream envelope to a 20-year-old Simone with the same curls, both smiling. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
+```
+
+**Scene 3 · Os 10%** — PT: Dez por cento. Não o que sobra no fim do mês. Primeiro. / EN: Ten percent. Not what's left at the end of the month. First.  [card: 10% PRIMEIRO]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Close-up top view of elegant hands with a gold watch dividing banknotes into a small neat pile and a bigger pile on a mahogany desk, the small pile going into the cream envelope.
+```
+```
+Close-up top view of elegant hands with a gold watch dividing banknotes into a small neat pile and a bigger pile on a mahogany desk, the small pile going into the cream envelope.. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
+```
+
+**Scene 4 · A diferença** — PT: A maioria poupa o que sobra. O dinheiro antigo gasta o que sobra. / EN: Most people save what's left. Old money spends what's left.
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans forward in her chair, one eyebrow raised, teacup in hand. Medium close-up.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans forward in her chair, one eyebrow raised, teacup in hand. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Most people save what's left. Old money spends what's left." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 5 · Ação** — PT: Faz isto com o teu próximo salário. Comenta 'ENVELOPE' se começas este mês. / EN: Do it with your next paycheck. Comment 'ENVELOPE' if you're starting this month.  [card: COMENTA: ENVELOPE]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) points gently at the viewer with a warm smile, the envelope on the side table. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) points gently at the viewer with a warm smile, the envelope on the side table. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Do it with your next paycheck. Comment 'ENVELOPE' if you're starting this month." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+### Video 2: A regra das 72 horas / The 72-hour rule
+**Hook:** Nunca compro nada caro no mesmo dia. / I never buy anything expensive on the same day.
+
+**Scene 1 · Hook** — PT: Nunca compro nada acima de quinhentos euros no mesmo dia em que o vejo. / EN: I never buy anything over five hundred on the same day I see it.  [card: +500 = ESPERA]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in an elegant boutique with marble floors, holding a beautiful burgundy designer handbag, admiring it, then smiling knowingly at the viewer. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in an elegant boutique with marble floors, holding a beautiful burgundy designer handbag, admiring it, then smiling knowingly at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I never buy anything over five hundred on the same day I see it." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 2 · Sair** — PT: Saio da loja. E dou-lhe setenta e duas horas. / EN: I walk out. And I give it seventy-two hours.  [card: 72 HORAS]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) hands the handbag back to a smiling saleswoman and walks toward the glass door of the boutique, looking back at the viewer. Medium-wide shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) hands the handbag back to a smiling saleswoman and walks toward the glass door of the boutique, looking back at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I walk out. And I give it seventy-two hours." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 3 · Três dias** — PT: Se depois de três dias ainda o quero, e cabe no plano, compro. A pronto. / EN: If after three days I still want it, and it fits the plan, I buy it. In cash.
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) reads a book in her library armchair while a wall calendar beside her flips pages, the light changing from morning to night three times. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) reads a book in her library armchair while a wall calendar beside her flips pages, the light changing from morning to night three times. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
+```
+
+**Scene 4 · A verdade** — PT: Na maioria das vezes? Já nem me lembro que existia. / EN: Most of the time? I've forgotten it even existed.
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) laughs warmly, head tilted back slightly, teacup in hand. Medium close-up.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) laughs warmly, head tilted back slightly, teacup in hand. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Most of the time? I've forgotten it even existed." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 5 · Ação** — PT: O impulso sai caro, querida. A paciência é grátis. Experimenta esta semana. / EN: Impulse is expensive, darling. Patience is free. Try it this week.  [card: EXPERIMENTA 7 DIAS]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sets her teacup down and looks straight at the viewer, calm and wise. Medium close-up.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sets her teacup down and looks straight at the viewer, calm and wise. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Impulse is expensive, darling. Patience is free. Try it this week." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+### Video 3: O meu carro tem 12 anos / My car is 12 years old
+**Hook:** Podia comprar qualquer carro. Conduzo este. / I could buy any car. I drive this one.
+
+**Scene 1 · Hook** — PT: Podia comprar o carro que quisesse. Conduzo este há doze anos. / EN: I could buy any car I want. I've driven this one for twelve years.  [card: 12 ANOS]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans against a spotless 12-year-old dark-green classic sedan parked in front of a grand stone mansion, keys in hand, amused smile at the viewer. Medium-wide shot, golden hour.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans against a spotless 12-year-old dark-green classic sedan parked in front of a grand stone mansion, keys in hand, amused smile at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I could buy any car I want. I've driven this one for twelve years." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 2 · Dinheiro novo** — PT: O dinheiro novo compra o carro para ser visto. / EN: New money buys the car to be seen.
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. A young man in a flashy outfit and sunglasses at a car dealership full of balloons, signing a thick stack of loan papers next to a shiny red sports car. Medium shot.
+```
+```
+A young man in a flashy outfit and sunglasses at a car dealership full of balloons, signing a thick stack of loan papers next to a shiny red sports car. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
+```
+
+**Scene 3 · O valor cai** — PT: E esse carro perde valor no momento em que sai do stand. / EN: And that car loses value the moment it leaves the lot.  [card: VALOR ↓]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. The shiny red sports car drives off the dealership lot while a big cartoon arrow above it drops sharply downward. Wide shot, comedic.
+```
+```
+The shiny red sports car drives off the dealership lot while a big cartoon arrow above it drops sharply downward. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
+```
+
+**Scene 4 · O meu carro** — PT: O meu carro leva-me onde preciso. O meu dinheiro fica onde pode crescer. / EN: My car takes me where I need to go. My money stays where it can grow.
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) polishes the hood of her old green sedan with a soft cloth, content and proud. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) polishes the hood of her old green sedan with a soft cloth, content and proud. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "My car takes me where I need to go. My money stays where it can grow." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 5 · Pergunta** — PT: Rico não é o que conduzes. É o que guardas. Quantos anos tem o teu carro? / EN: Rich isn't what you drive. It's what you keep. How old is your car? Tell me.  [card: QUANTOS ANOS TEM O TEU?]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in the driver's seat with the door open, raised eyebrow at the viewer. Medium close-up.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in the driver's seat with the door open, raised eyebrow at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Rich isn't what you drive. It's what you keep. How old is your car? Tell me." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+### Video 4: 3 coisas que o dinheiro antigo nunca diz / 3 things old money never says
+**Hook:** 3 coisas que o dinheiro antigo nunca diz. / 3 things old money never says out loud.
+
+**Scene 1 · Hook** — PT: Três coisas que o dinheiro antigo nunca diz em voz alta. / EN: Three things old money never says out loud.  [card: 3 COISAS]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at an elegant garden tea party with white roses and a silver tea set, holding up three fingers, mischievous smile. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at an elegant garden tea party with white roses and a silver tea set, holding up three fingers, mischievous smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Three things old money never says out loud." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 2 · 1. O preço** — PT: Um: o preço. Nunca dizemos quanto custou. / EN: One: the price. We never say what something cost.  [card: 1. O PREÇO]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits with a friend who is proudly showing off a shopping bag; Simone smiles politely and sips her tea. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits with a friend who is proudly showing off a shopping bag; Simone smiles politely and sips her tea. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "One: the price. We never say what something cost." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 3 · 2. Não posso** — PT: Dois: 'não tenho dinheiro'. Dizemos: 'não é prioridade'. / EN: Two: 'I can't afford it.' We say: 'It's not a priority.'  [card: 2. NÃO É PRIORIDADE]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) gently hands back an elegant invitation card to a friend with a calm, kind smile. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) gently hands back an elegant invitation card to a friend with a calm, kind smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Two: 'I can't afford it.' We say: 'It's not a priority.'" Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 4 · 3. Quanto temos** — PT: Três: quanto temos. A riqueza sussurra. / EN: Three: how much we have. Wealth whispers.  [card: 3. A RIQUEZA SUSSURRA]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at her desk closes a leather portfolio and places her hand on top of it, finger to her lips. Medium close-up.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at her desk closes a leather portfolio and places her hand on top of it, finger to her lips. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Three: how much we have. Wealth whispers." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 5 · Lição** — PT: Dinheiro barulhento vai-se depressa. Dinheiro discreto fica. Qual é o teu? / EN: Loud money leaves fast. Quiet money stays. Which one is yours?
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) raises her teacup like a toast, warm confident smile. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) raises her teacup like a toast, warm confident smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Loud money leaves fast. Quiet money stays. Which one is yours?" Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+### Video 5: A pergunta do meu pai / My father's one question
+**Hook:** Antes de cada compra, o meu pai fazia uma pergunta. / Before every purchase, my father asked one question.
+
+**Scene 1 · Hook** — PT: Antes de cada compra, o meu pai fazia uma pergunta. / EN: Before every purchase, my father asked one question.
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in her library holding a silver-framed photo of her father (an elegant Black man in a 1980s three-piece suit), smiling with nostalgia, then looking at the viewer. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in her library holding a silver-framed photo of her father (an elegant Black man in a 1980s three-piece suit), smiling with nostalgia, then looking at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Before every purchase, my father asked one question." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 2 · O pai** — PT: 'Isto põe dinheiro no meu bolso… ou tira?' / EN: 'Does this put money in my pocket… or take it out?'  [card: PÕE OU TIRA?]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. 1980s flashback: the elegant father at a mahogany desk with an open ledger, pointing at it while a 20-year-old Simone listens closely. Medium shot, warm light.
+```
+```
+1980s flashback: the elegant father at a mahogany desk with an open ledger, pointing at it while a 20-year-old Simone listens closely. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
+```
+
+**Scene 3 · Exemplo** — PT: Um apartamento arrendado põe dinheiro. Uma mota de água que usas duas vezes por ano tira. / EN: A flat you rent out puts money in. A jet ski you use twice a year takes it out.
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Split composition: left, a charming small apartment building with a happy tenant handing over a rent envelope; right, a dusty jet ski on a trailer in a garage. Medium-wide shot.
+```
+```
+Split composition: left, a charming small apartment building with a happy tenant handing over a rent envelope; right, a dusty jet ski on a trailer in a garage. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
+```
+
+**Scene 4 · Ativo vs passivo** — PT: É essa a diferença entre um ativo e um passivo. / EN: That's the difference between an asset and a liability.  [card: ATIVO vs PASSIVO]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sitting in her wingback chair, explaining with one finger raised. Medium close-up.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sitting in her wingback chair, explaining with one finger raised. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "That's the difference between an asset and a liability." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+**Scene 5 · Ação** — PT: Faz a pergunta dele antes da próxima compra. Segue para mais regras da nossa família. / EN: Ask his question before your next purchase. Follow for more of our family rules.  [card: SEGUE ✨]
+```
+Flat 2D cartoon illustration, modern explainer-animation style, clean bold outlines, soft two-tone cel shading, vertical 9:16 composition, expressive faces, no text, no letters. Warm muted old-money palette of cream, emerald green, burgundy and antique gold, rich interiors. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) puts the photo back on the shelf and smiles at the viewer. Medium shot.
+```
+```
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) puts the photo back on the shelf and smiles at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Ask his question before your next purchase. Follow for more of our family rules." Natural lip-sync. Keep the character's face, outfit and art style identical. No music, no subtitles.
+```
+
+
+---
+
 ## @billionaira.fenix: Fénix | Página anónima do zero (Português (PT))
 > A tua bio diz 'mostro tudo: números'. Usa só os números REAIS da tua conta (seguidores, visualizações). Nunca mostres ganhos inventados: o Instagram pode remover o vídeo e é enganar quem te segue.
 
@@ -711,18 +937,18 @@ Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up
 
 ---
 
-## @pais_comciencia: Pais com Ciência | Birras (Português (PT))
-> O mocho narra por cima (voz-off). Conselhos gerais, com base em ciência. Na legenda: 'Conteúdo informativo. Fala com o pediatra se tiveres dúvidas.'
+## @pais_comciencia: Pais com Ciência | Birras (Português (BR))
+> O mocho narra por cima (voz-off). Conselhos gerais, com base em ciência. Na legenda: 'Conteúdo informativo. Fale com o pediatra se tiver dúvidas.'
 
 Character sheet:
 ```
 Character turnaround sheet, cute 2D children's-book animation style, soft watercolor textures. THE OWL: a wise, friendly cartoon owl with soft brown and cream feathers, big round orange eyes behind round glasses, small yellow beak, wearing a cozy teal cardigan, holding an open book; small light-bulb and heart doodles floating around. Front, 3/4, side view; underneath 4 expressions: gentle smile, explaining with a wing raised, surprised, calm. Plain cream background, no text.
 ```
 
-### Video 1: Porque é que o teu filho faz birras
-**Hook:** O cérebro do teu filho ainda está em obras 🧠
+### Video 1: Por que seu filho faz birra
+**Hook:** Birra: o cérebro do seu filho ainda está em obras 🧠
 
-**Scene 1 · Hook** — O teu filho não está a fazer birra para te irritar.
+**Scene 1 · Hook** — Seu filho não está fazendo birra para te irritar.
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. A toddler around 3 lying on the floor of a supermarket aisle crying and kicking, a stressed mother in her 30s crouching beside him, shoppers looking. Medium shot.
 ```
@@ -738,7 +964,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 the Owl (a wise, friendly cartoon owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) perched on a stack of books in a cozy library, raising one wing as if to explain, gentle smile. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 3 · O cérebro** — A parte que controla as emoções, mesmo atrás da testa, só fica pronta muitos anos depois.  [card: CÉREBRO EM OBRAS]
+**Scene 3 · O cérebro** — A parte que controla as emoções, bem atrás da testa, só fica pronta muitos anos depois.  [card: CÉREBRO EM OBRAS]
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. A cute cartoon brain wearing a tiny construction helmet, with little workers building the front part of it with bricks and cranes. Close-up, playful.
 ```
@@ -746,7 +972,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 A cute cartoon brain wearing a tiny construction helmet, with little workers building the front part of it with bricks and cranes. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 4 · A emoção** — Por isso a emoção ganha. Ele ainda não consegue travá-la sozinho.
+**Scene 4 · A emoção** — Por isso a emoção vence. Ele ainda não consegue frear sozinho.
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. The toddler with a big stormy cloud above his head, the mother calmly sitting next to him on the floor. Medium shot.
 ```
@@ -754,7 +980,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 The toddler with a big stormy cloud above his head, the mother calmly sitting next to him on the floor. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — Ele precisa que tu sejas a calma que ele ainda não tem. Segue para o próximo passo.  [card: TU ÉS A CALMA]
+**Scene 5 · Lição** — Ele precisa que você seja a calma que ele ainda não tem. Siga para o próximo passo.  [card: VOCÊ É A CALMA]
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. the Owl (a wise, friendly cartoon owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) closes his book and smiles warmly at the viewer. Medium close-up.
 ```
@@ -765,7 +991,7 @@ the Owl (a wise, friendly cartoon owl with soft brown and cream feathers, big ro
 ### Video 2: Durante a birra: 3 passos
 **Hook:** O que fazer durante uma birra: 3 passos
 
-**Scene 1 · Hook** — Birra a começar. O que fazes?
+**Scene 1 · Hook** — Birra começando. O que você faz?
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. A little girl around 4 screaming and crying in a living room, toys scattered, the father standing over her, frustrated. Medium shot.
 ```
@@ -773,7 +999,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 A little girl around 4 screaming and crying in a living room, toys scattered, the father standing over her, frustrated. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 2 · Passo 1** — Um: respira e baixa-te ao nível dele. Tu primeiro.  [card: 1. CALMA]
+**Scene 2 · Passo 1** — Um: respire e se abaixe na altura dela. Você primeiro.  [card: 1. CALMA]
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. The father kneels down to the girl's eye level, taking a deep breath with his eyes closed. Medium shot.
 ```
@@ -781,7 +1007,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 The father kneels down to the girl's eye level, taking a deep breath with his eyes closed. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 3 · Passo 2** — Dois: dá nome à emoção. 'Estás muito zangada porque o jogo acabou.'  [card: 2. DÁ NOME À EMOÇÃO]
+**Scene 3 · Passo 2** — Dois: dê nome à emoção. 'Você está muito brava porque a brincadeira acabou.'  [card: 2. DÊ NOME À EMOÇÃO]
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. The father speaks softly to the girl, his hand open near her, she looks at him while still crying. Close-up.
 ```
@@ -789,7 +1015,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 The father speaks softly to the girl, his hand open near her, she looks at him while still crying. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 4 · Passo 3** — Três: fica por perto e mantém-na segura. Sem sermões, sem gritar.  [card: 3. FICA PERTO]
+**Scene 4 · Passo 3** — Três: fique por perto e mantenha ela segura. Sem sermão, sem gritar.  [card: 3. FIQUE PERTO]
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. The father sits calmly next to the girl on the rug, the girl calming down and leaning on him. Medium shot, warm light.
 ```
@@ -797,7 +1023,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 The father sits calmly next to the girl on the rug, the girl calming down and leaning on him. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — A conversa vem depois, quando a tempestade passar. Guarda este vídeo para a próxima birra.  [card: GUARDA 📌]
+**Scene 5 · Lição** — A conversa vem depois, quando a tempestade passar. Salve este vídeo para a próxima birra.  [card: SALVE 📌]
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. the Owl (a wise, friendly cartoon owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) on his stack of books, wing raised, smiling. Medium shot.
 ```
@@ -805,10 +1031,10 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 the Owl (a wise, friendly cartoon owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) on his stack of books, wing raised, smiling. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-### Video 3: Em vez de 'pára de chorar'
-**Hook:** Em vez de 'pára de chorar', experimenta isto
+### Video 3: Em vez de 'para de chorar'
+**Hook:** Em vez de 'para de chorar', tente isto
 
-**Scene 1 · Hook** — 'Pára de chorar!' Quantas vezes já disseste isto?
+**Scene 1 · Hook** — 'Para de chorar!' Quantas vezes você já disse isso?
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. A boy around 5 crying at the kitchen table over a broken toy, the mother pointing at him with an impatient face. Medium shot.
 ```
@@ -816,7 +1042,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 A boy around 5 crying at the kitchen table over a broken toy, the mother pointing at him with an impatient face. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 2 · Porquê** — O choro não pára só porque pedimos. A emoção precisa de sair.
+**Scene 2 · Porquê** — O choro não para só porque a gente pede. A emoção precisa sair.
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. the Owl (a wise, friendly cartoon owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) shakes his head gently, holding his book. Medium shot.
 ```
@@ -824,7 +1050,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 the Owl (a wise, friendly cartoon owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) shakes his head gently, holding his book. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 3 · A frase** — Experimenta: 'Estás triste porque o brinquedo partiu. Eu estou aqui.'  [card: "EU ESTOU AQUI"]
+**Scene 3 · A frase** — Tente: 'Você está triste porque o brinquedo quebrou. Eu estou aqui.'  [card: "EU ESTOU AQUI"]
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. The mother sits next to the boy, puts an arm around him, and talks softly; he looks up at her. Close-up.
 ```
@@ -832,7 +1058,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 The mother sits next to the boy, puts an arm around him, and talks softly; he looks up at her. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 4 · O efeito** — Quando a criança se sente compreendida, acalma mais depressa.
+**Scene 4 · O efeito** — Quando a criança se sente compreendida, ela se acalma mais rápido.
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. The boy hugs his mother, crying less, the broken toy on the table. Medium shot, warm light.
 ```
@@ -840,7 +1066,7 @@ Cute 2D children's-book animation style, soft watercolor textures, rounded shape
 The boy hugs his mother, crying less, the broken toy on the table. Subtle natural motion, gentle camera push-in, keep characters and style identical, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — Não é ceder. É ensinar a lidar com o que sente. Guia grátis das birras na bio.  [card: GUIA GRÁTIS NA BIO]
+**Scene 5 · Lição** — Não é ceder. É ensinar a lidar com o que sente. Guia grátis de birras na bio.  [card: GUIA GRÁTIS NA BIO]
 ```
 Cute 2D children's-book animation style, soft watercolor textures, rounded shapes, warm pastel palette of teal, cream, honey yellow and soft coral, vertical 9:16 composition, no text, no letters. the Owl (a wise, friendly cartoon owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) smiles warmly at the viewer, a small heart floating above him. Medium close-up.
 ```
