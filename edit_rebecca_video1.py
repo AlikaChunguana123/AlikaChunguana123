@@ -8,7 +8,8 @@ XF = 0.3
 # clip: (file, start, length, crop-x expression as fraction of width)
 CL = [
  ("28add947-video_11", 0.0, 10.0, "0.34"),
- ("4e0ac643-video_5", 0.0, 14.8, "if(lt(t,4.0),0.10,0.33)"),
+ ("8a37b17d-video_12", 0.3, 9.4, "0.20"),
+ ("4e0ac643-video_5", 4.0, 10.8, "0.33"),
  ("0f3f0c80-video_7", 0.0, 5.5, "0.34"),
  ("30d7eb7d-video_8", 0.8, 7.4, "0.34"),
 ]
@@ -19,13 +20,13 @@ TOTAL = starts[-1] + CL[-1][2]
 V = "-c:v libx264 -crf 18 -preset medium -pix_fmt yuv420p -r 30"
 for i, (f, ss, ln, cx) in enumerate(CL):
     grade = "eq=saturation=1.12:contrast=1.03"
-    if i == 1: grade = "eq=saturation=1.12:contrast=1.03,eq=saturation=0.45:brightness=-0.07:enable='lt(t,4.0)'"
+    if i == 1: grade = "eq=saturation=0.5:brightness=-0.06:contrast=1.03"
     fade = ",fade=t=in:st=0:d=0.25:color=white" if i == 0 else ""
     run(f"ffmpeg -v error -y -ss {ss} -i {U}/{f}.mp4 -t {ln} -vf \"fps=30,setpts=PTS-STARTPTS,crop=w=ih*9/16:h=ih:x='iw*({cx})':y=0,"
         f"scale=1620:2880,zoompan=z='1+0.00025*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x1920:fps=30,{grade}{fade}\" "
         f"{V} -c:a aac -ar {SR} -ac 2 {S}/R{i}.mp4")
 fc = []; v = "[0:v]"; a = "[0:a]"
-trans = ["slideleft", "slideup", "fadewhite"]
+trans = ["slideleft", "slideup", "slideleft", "fadewhite"]
 for i in range(1, len(CL)):
     fc.append(f"{v}[{i}:v]xfade=transition={trans[i-1]}:duration={XF}:offset={starts[i]}[v{i}]")
     fc.append(f"{a}[{i}:a]acrossfade=d={XF}[a{i}]")
@@ -47,7 +48,7 @@ def soft(buf, t, m, dur=3.0, vol=0.1):
     e = min(n, i+L); buf[i:e] += vol*w[:e-i]
 BPM = 112; b = 60 / BPM
 prog = [[48,52,55,59],[45,48,52,55],[50,53,57,60],[43,47,50,53]]  # Cmaj7 Am7 Dm7 G7
-SOFA0, SOFA1 = starts[1], starts[1] + 4.0
+SOFA0, SOFA1 = starts[1], starts[1] + 9.4
 def bossa(t0, t1):
     bar = 0; t = t0
     while t < t1 - 0.1:
@@ -92,8 +93,8 @@ def ding(t, vol=0.2):
     i = int(t*SR); L = int(1.0*SR); tt = np.arange(L)/SR
     sfx[i:i+L] += vol*(np.sin(2*np.pi*1760*tt)+.5*np.sin(2*np.pi*2637*tt))*np.exp(-tt*4)
 boom(0.0); [whoosh(s - 0.25) for s in starts[1:]]
-thump(SOFA0 + 0.6); thump(SOFA0 + 2.0, 0.4); thump(SOFA0 + 3.2, 0.35)
-CARD_SQ = starts[1] + 4.6; CARD_CR = starts[2] + 0.4; END = TOTAL - 3.0
+thump(SOFA0 + 0.6); thump(SOFA0 + 3.0, 0.4); thump(SOFA0 + 5.5, 0.35)
+CARD_SQ = starts[2] + 0.6; CARD_CR = starts[3] + 0.4; END = TOTAL - 3.0
 ding(CARD_SQ); pop(SOFA0 + 0.3); pop(CARD_CR); pop(END)
 def save(buf, p):
     x = np.clip(buf, -1, 1); st = np.stack([x, x], 1)
@@ -127,15 +128,15 @@ def lines(text, intervals, offset):
             chunk = []
 lines("Tenho 64 anos… e ninguém carrega isto por mim.", [(0.0, 2.02), (2.39, 4.40)], starts[0])
 lines("Sabes o que mais tira a independência a uma mulher depois dos 60? Não é a idade.", [(5.79, 9.95)], starts[0])
-lines("É perder força. Levantar de uma cadeira fica difícil. Subir escadas também.", [(4.87, 7.05), (7.47, 8.04)], starts[1])
-lines("Por isso, todos os dias: sento e levanto da cadeira. Dez vezes.", [(10.63, 11.12), (11.53, 14.6)], starts[1])
-lines("Levanto caixas da minha colheita, trato da horta, subo a colina. O meu ginásio é a quinta.", [(0.33, 1.51), (2.25, 5.4)], starts[2])
-lines("Força não é vaidade, minha querida. É liberdade. Segue para o hábito número dois.", [(1.16-0.8, 3.54-0.8), (4.15-0.8, 5.14-0.8), (5.46-0.8, 7.16-0.8)], starts[3])
+lines("É perder força. Levantar de uma cadeira fica difícil. Subir escadas também.", [(0.3, 8.8)], starts[1])
+lines("Por isso, todos os dias: sento e levanto da cadeira. Dez vezes.", [(0.87, 3.05), (3.47, 4.04), (6.63, 7.12), (7.53, 10.6)], starts[2])
+lines("Levanto caixas da minha colheita, trato da horta, subo a colina. O meu ginásio é a quinta.", [(0.33, 1.51), (2.25, 5.4)], starts[3])
+lines("Força não é vaidade, minha querida. É liberdade. Segue para o hábito número dois.", [(1.16-0.8, 3.54-0.8), (4.15-0.8, 5.14-0.8), (5.46-0.8, 7.16-0.8)], starts[4])
 pp = r"{\an5\pos(540,1080)\fscx60\fscy60\t(0,120,\fscx110\fscy110)\t(120,200,\fscx100\fscy100)}"
 add(0.0, 4.4, pp + RED + "64 ANOS. " + WHITE + r"NINGUÉM\NCARREGA ISTO POR MIM", "Title")
 add(SOFA0 + 0.3, SOFA1, pp + "O " + RED + "MÚSCULO" + WHITE + r" VAI-SE\NSE NÃO O USARES", "Card")
 add(CARD_SQ, CARD_SQ + 3.2, pp + RED + "10x" + WHITE + " POR DIA", "Card")
-add(CARD_CR, starts[3] - 0.1, pp + r"O MEU GINÁSIO\N= A QUINTA", "Card")
+add(CARD_CR, starts[4] - 0.1, pp + r"O MEU GINÁSIO\N= A QUINTA", "Card")
 add(END, TOTAL, pp + r"HÁBITO Nº1 · " + RED + r"FORÇA" + WHITE + r"\N{\fs54}SEGUE PARA O Nº2", "Title")
 ass = """[Script Info]
 ScriptType: v4.00+
