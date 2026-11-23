@@ -1,0 +1,246 @@
+############################################################
+@JESUSENTRENOS.CINEMA PORTUGUÊS (BR)
+############################################################
+
+--- Personagem: prompt de imagem (faz primeiro) ---
+Photorealistic character reference sheet for an AI influencer, high-end studio photography, 85mm lens, soft key light, natural skin texture with pores, realistic hair, real fabric. JESUS, a man in his early 30s, shoulder-length wavy brown hair, full beard, kind warm brown eyes, gentle smile, simple cream linen robe with a light beige woven shawl, leather sandals. Front, 3/4, side and back view; underneath 4 expressions: gentle smile, compassionate listening, quiet laugh, serene. Neutral seamless studio warm cream background, no text. Same person in every view, consistent face.
+
+--- Prompt negativo ---
+cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin, doll-like face, waxy, oversaturated, text, letters, watermark, logo, blurry, extra fingers, deformed hands, distorted face, extra limbs, cropped head, low quality
+
+=== Vídeo 1 · Jesus no escritório ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. A tired woman in her 30s at an office desk late at night, piles of papers, head in her hands, laptop glowing, everyone else gone. Medium shot, cold blue light.
+
+--- Prompt de animação (narração por cima) ---
+A tired woman in her 30s at an office desk late at night, piles of papers, head in her hands, laptop glowing, everyone else gone. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Ele chega ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) quietly pulls up a chair next to the tired woman at her office desk, the warm light around him softening the cold office. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) quietly pulls up a chair next to the tired woman at her office desk, the warm light around him softening the cold office. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 A conversa ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) sits beside the woman, looking at her with compassion, one hand gently on the desk. Medium close-up.
+
+--- Prompt de vídeo com fala ---
+Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) sits beside the woman, looking at her with compassion, one hand gently on the desk. He/she looks at the camera and says in a calm, gentle, warm male voice, speaking Brazilian Portuguese: "Você não precisa carregar tudo sozinha." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 4 O versículo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. The woman looks up, tears in her eyes but a small relieved smile, warm golden light filling the office. Close-up.
+
+--- Prompt de animação (narração por cima) ---
+The woman looks up, tears in her eyes but a small relieved smile, warm golden light filling the office. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 5 Final ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Wide shot of the office at night, the woman and Jesus sitting together by the window with the city lights outside, calm and peaceful.
+
+--- Prompt de animação (narração por cima) ---
+Wide shot of the office at night, the woman and Jesus sitting together by the window with the city lights outside, calm and peaceful.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Extras ===
+
+--- Narração completa ---
+Ela era a última no escritório. De novo.
+Até que alguém puxou uma cadeira ao lado dela.
+Você não precisa carregar tudo sozinha.
+Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei.
+Se hoje você está cansado, lembra: Ele vê você. Pegue o devocional grátis na bio.
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @jesusentrenos.cinema. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): CANSADO, ANSIOSO, DESCANSO, PAZ, SERVIR, AMOR, JESUS, CORAÇÃO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft, emotional piano with light strings (worship / cinematic feel), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "E se Jesus aparecesse no seu escritório hoje?"
+Scene 1: "Ela era a última no escritório. De novo."
+Scene 2: "Até que alguém puxou uma cadeira ao lado dela."
+Scene 3: "Você não precisa carregar tudo sozinha."
+Scene 4: "Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei."  [card: MATEUS 11:28]
+Scene 5: "Se hoje você está cansado, lembra: Ele vê você. Pegue o devocional grátis na bio."  [card: DEVOCIONAL GRÁTIS NA BIO]
+
+--- Legenda do post ---
+E se Jesus aparecesse no seu escritório hoje?
+
+#jesus #fe #devocional #animacao #palavradedeus
+
+=== Vídeo 2 · Jesus no ônibus lotado ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. A crowded city bus at rush hour, a young man in his 20s with a backpack standing squeezed, checking his phone anxiously, sweating. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+A crowded city bus at rush hour, a young man in his 20s with a backpack standing squeezed, checking his phone anxiously, sweating. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 O lugar ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) stands up from his seat on the crowded bus and gently offers it to the anxious young man. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) stands up from his seat on the crowded bus and gently offers it to the anxious young man. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 A conversa ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) holds the bus handrail, smiling calmly at the young man now seated. Medium close-up.
+
+--- Prompt de vídeo com fala ---
+Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) holds the bus handrail, smiling calmly at the young man now seated. He/she looks at the camera and says in a calm, gentle, warm male voice, speaking Brazilian Portuguese: "Respira. O dia de hoje não depende só de você." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 4 O versículo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. The young man puts his phone away, closes his eyes and breathes, sunlight coming through the bus window onto his face. Close-up.
+
+--- Prompt de animação (narração por cima) ---
+The young man puts his phone away, closes his eyes and breathes, sunlight coming through the bus window onto his face. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 5 Final ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. The bus drives through the morning city, golden light; inside, the young man smiles while Jesus looks out of the window. Wide shot.
+
+--- Prompt de animação (narração por cima) ---
+The bus drives through the morning city, golden light; inside, the young man smiles while Jesus looks out of the window. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Extras ===
+
+--- Narração completa ---
+Atrasado. Ansioso. Mais um dia assim.
+Até que um desconhecido ofereceu o lugar dele.
+Respira. O dia de hoje não depende só de você.
+Não andeis ansiosos de coisa alguma; em tudo, pela oração, apresentai a Deus os vossos pedidos.
+Entrega a sua ansiedade hoje. Siga para mais histórias.
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @jesusentrenos.cinema. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): CANSADO, ANSIOSO, DESCANSO, PAZ, SERVIR, AMOR, JESUS, CORAÇÃO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft, emotional piano with light strings (worship / cinematic feel), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "E se Jesus estivesse no seu ônibus hoje?"
+Scene 1: "Atrasado. Ansioso. Mais um dia assim."
+Scene 2: "Até que um desconhecido ofereceu o lugar dele."
+Scene 3: "Respira. O dia de hoje não depende só de você."
+Scene 4: "Não andeis ansiosos de coisa alguma; em tudo, pela oração, apresentai a Deus os vossos pedidos."  [card: FILIPENSES 4:6]
+Scene 5: "Entrega a sua ansiedade hoje. Siga para mais histórias."
+
+--- Legenda do post ---
+E se Jesus estivesse no seu ônibus hoje?
+
+#jesus #fe #devocional #animacao #palavradedeus
+
+=== Vídeo 3 · Jesus na cozinha do restaurante ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. A busy restaurant kitchen at dinner rush: an angry chef in his 40s shouting, cooks rushing, steam and pans everywhere. Medium-wide shot.
+
+--- Prompt de animação (narração por cima) ---
+A busy restaurant kitchen at dinner rush: an angry chef in his 40s shouting, cooks rushing, steam and pans everywhere. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 O ajudante ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) wearing a simple apron over his robe quietly washes a huge pile of dishes at the sink, smiling, while chaos goes on around him. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) wearing a simple apron over his robe quietly washes a huge pile of dishes at the sink, smiling, while chaos goes on around him. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 O chefe ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Late at night in the empty kitchen, the exhausted chef sits on a crate with his head down; Jesus brings him a plate of food. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+Late at night in the empty kitchen, the exhausted chef sits on a crate with his head down; Jesus brings him a plate of food. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 4 A conversa ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) sits next to the chef on a crate, kind smile, speaking softly. Medium close-up.
+
+--- Prompt de vídeo com fala ---
+Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) sits next to the chef on a crate, kind smile, speaking softly. He/she looks at the camera and says in a calm, gentle, warm male voice, speaking Brazilian Portuguese: "Quem serve não é menor. Eu vim para servir." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 O versículo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. The chef, surprised and touched, smiles for the first time, warm light in the kitchen. Close-up.
+
+--- Prompt de animação (narração por cima) ---
+The chef, surprised and touched, smiles for the first time, warm light in the kitchen. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Extras ===
+
+--- Narração completa ---
+Na cozinha, ninguém aguentava mais os gritos do chefe.
+O ajudante novo só fazia uma coisa: servir. Sem reclamar.
+No fim da noite, foi ele quem levou um prato de comida para o chefe.
+Quem serve não é menor. Eu vim para servir.
+Pois o próprio Filho do Homem não veio para ser servido, mas para servir.
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @jesusentrenos.cinema. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): CANSADO, ANSIOSO, DESCANSO, PAZ, SERVIR, AMOR, JESUS, CORAÇÃO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft, emotional piano with light strings (worship / cinematic feel), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "E se Jesus trabalhasse na cozinha de um restaurante?"
+Scene 1: "Na cozinha, ninguém aguentava mais os gritos do chefe."
+Scene 2: "O ajudante novo só fazia uma coisa: servir. Sem reclamar."
+Scene 3: "No fim da noite, foi ele quem levou um prato de comida para o chefe."
+Scene 4: "Quem serve não é menor. Eu vim para servir."
+Scene 5: "Pois o próprio Filho do Homem não veio para ser servido, mas para servir."  [card: MARCOS 10:45]
+
+--- Legenda do post ---
+E se Jesus trabalhasse na cozinha de um restaurante?
+
+#jesus #fe #devocional #animacao #palavradedeus

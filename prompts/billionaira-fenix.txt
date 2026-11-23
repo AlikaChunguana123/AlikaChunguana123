@@ -1,0 +1,246 @@
+############################################################
+@BILLIONAIRA.FENIX PORTUGUÊS (PT)
+############################################################
+
+--- Personagem: prompt de imagem (faz primeiro) ---
+Photorealistic character reference sheet for an AI influencer, high-end studio photography, 85mm lens, soft key light, natural skin texture with pores, realistic hair, real fabric. FÉNIX, an elegant Black woman around 50, warm brown skin, oval face, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress with a V-neck, delicate diamond necklace and stud earrings, slim gold watch, nude heels. Front, 3/4, side and back view; underneath 5 expressions: confident smile, laughing, raised eyebrow, thoughtful, serious. Neutral seamless studio ivory background, no text. Same person in every view, consistent face.
+
+--- Prompt negativo ---
+cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin, doll-like face, waxy, oversaturated, text, letters, watermark, logo, blurry, extra fingers, deformed hands, distorted face, extra limbs, cropped head, low quality
+
+=== Vídeo 1 · Do zero, sem mostrar a cara ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits at a sleek glass desk in a high-rise apartment at sunset, city skyline behind her, laptop open, looking at the viewer with a confident smile. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits at a sleek glass desk in a high-rise apartment at sunset, city skyline behind her, laptop open, looking at the viewer with a confident smile. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Comecei esta página do zero. Sem mostrar a cara. E vou mostrar-te tudo." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 O medo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. A young woman in her 30s in a cozy bedroom at night, hiding her face behind her phone, nervous, looking at an empty social media profile on the screen (no readable text). Medium shot, soft blue light.
+
+--- Prompt de animação (narração por cima) ---
+A young woman in her 30s in a cozy bedroom at night, hiding her face behind her phone, nervous, looking at an empty social media profile on the screen (no readable text). Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 A solução ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) holds up a tablet showing a colourful grid of elegant faceless posts (quotes, hands, coffee, city views, no readable text), smiling. Medium close-up.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) holds up a tablet showing a colourful grid of elegant faceless posts (quotes, hands, coffee, city views, no readable text), smiling. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Uma página anónima resolve isso. Tu crias o conteúdo, a página dá a cara." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 4 Os números ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) points at a large wall screen in her office showing a simple growing bar chart with no readable numbers, determined expression. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) points at a large wall screen in her office showing a simple growing bar chart with no readable numbers, determined expression. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Hoje tenho [X] seguidores. Vou mostrar os números reais, mesmo quando forem pequenos." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 Lição ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) closes her laptop and stands by the window at sunset, turning to the viewer with a warm smile. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) closes her laptop and stands by the window at sunset, turning to the viewer with a warm smile. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Segue para veres esta página a crescer, dia a dia." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa ---
+Comecei esta página do zero. Sem mostrar a cara. E vou mostrar-te tudo.
+Muitas mulheres não começam porque têm vergonha de aparecer.
+Uma página anónima resolve isso. Tu crias o conteúdo, a página dá a cara.
+Hoje tenho [X] seguidores. Vou mostrar os números reais, mesmo quando forem pequenos.
+Segue para veres esta página a crescer, dia a dia.
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @billionaira.fenix. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (Português (PT), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ZERO, ANÓNIMA, ROSTO, ERRO, ERROS, NICHO, CONSISTÊNCIA, NÚMEROS, ESTRATÉGIA, TODOS OS DIAS.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: elegant, modern lo-fi / soft deep-house beat, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "Comecei uma página do zero. Sem mostrar a cara."
+Scene 1: "Comecei esta página do zero. Sem mostrar a cara. E vou mostrar-te tudo."  [card: DIA 1]
+Scene 2: "Muitas mulheres não começam porque têm vergonha de aparecer."
+Scene 3: "Uma página anónima resolve isso. Tu crias o conteúdo, a página dá a cara."
+Scene 4: "Hoje tenho [X] seguidores. Vou mostrar os números reais, mesmo quando forem pequenos."  [card: [X] SEGUIDORES]
+Scene 5: "Segue para veres esta página a crescer, dia a dia."  [card: SEGUE O DIA 2]
+
+--- Legenda do post ---
+Comecei uma página do zero. Sem mostrar a cara.
+
+#paginaanonima #marketingdigital #mulheresempreendedoras #instagramtips #crescernoinstagram
+
+=== Vídeo 2 · 3 erros da primeira semana ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits on a cream sofa holding up three fingers, raised eyebrow, half smile. Medium shot, warm apartment.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits on a cream sofa holding up three fingers, raised eyebrow, half smile. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Três erros que cometi na primeira semana da minha página." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 Erro 1 ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) at her desk surrounded by dozens of open browser tabs and sticky notes about different topics (food, travel, cars, fitness, makeup) covering her desk and monitor, overwhelmed expression. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) at her desk surrounded by dozens of open browser tabs and sticky notes about different topics (food, travel, cars, fitness, makeup) covering her desk and monitor, overwhelmed expression. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Erro um: falar de tudo. Ninguém segue uma página sem tema." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 3 Erro 2 ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) looks at a calendar on the wall with only one day circled and the rest empty, embarrassed smile. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) looks at a calendar on the wall with only one day circled and the rest empty, embarrassed smile. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Erro dois: publicar uma vez e desaparecer. Consistência vale mais do que perfeição." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 4 Erro 3 ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) scrolls on her phone with a disappointed face, seeing a post with a long boring first frame (no readable text). Close-up.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) scrolls on her phone with a disappointed face, seeing a post with a long boring first frame (no readable text). He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Erro três: começar o vídeo devagar. Tens um segundo para prender a pessoa." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 Lição ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) smiles confidently at the viewer, coffee cup in hand, city lights behind. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) smiles confidently at the viewer, coffee cup in hand, city lights behind. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Errar faz parte. Mostrar os erros é a estratégia. Qual destes já cometeste?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa ---
+Três erros que cometi na primeira semana da minha página.
+Erro um: falar de tudo. Ninguém segue uma página sem tema.
+Erro dois: publicar uma vez e desaparecer. Consistência vale mais do que perfeição.
+Erro três: começar o vídeo devagar. Tens um segundo para prender a pessoa.
+Errar faz parte. Mostrar os erros é a estratégia. Qual destes já cometeste?
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @billionaira.fenix. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (Português (PT), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ZERO, ANÓNIMA, ROSTO, ERRO, ERROS, NICHO, CONSISTÊNCIA, NÚMEROS, ESTRATÉGIA, TODOS OS DIAS.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: elegant, modern lo-fi / soft deep-house beat, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "3 erros que cometi na primeira semana"
+Scene 1: "Três erros que cometi na primeira semana da minha página."  [card: 3 ERROS]
+Scene 2: "Erro um: falar de tudo. Ninguém segue uma página sem tema."  [card: ERRO 1: SEM NICHO]
+Scene 3: "Erro dois: publicar uma vez e desaparecer. Consistência vale mais do que perfeição."  [card: ERRO 2: SEM CONSISTÊNCIA]
+Scene 4: "Erro três: começar o vídeo devagar. Tens um segundo para prender a pessoa."  [card: ERRO 3: GANCHO FRACO]
+Scene 5: "Errar faz parte. Mostrar os erros é a estratégia. Qual destes já cometeste?"
+
+--- Legenda do post ---
+3 erros que cometi na primeira semana
+
+#paginaanonima #marketingdigital #mulheresempreendedoras #instagramtips #crescernoinstagram
+
+=== Vídeo 3 · Como escolher o nicho ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) stands in front of a whiteboard in a bright modern office, marker in hand, looking at the viewer. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) stands in front of a whiteboard in a bright modern office, marker in hand, looking at the viewer. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Não sabes sobre o que fazer a tua página anónima? Faz estas três perguntas." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 Pergunta 1 ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits with a notebook, a thought bubble above her showing books, plants and a coffee cup, smiling dreamily. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits with a notebook, a thought bubble above her showing books, plants and a coffee cup, smiling dreamily. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Um: sobre o que conseguias falar todos os dias sem te cansares?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 3 Pergunta 2 ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) looks at her phone and sees a stream of incoming direct messages lighting up the screen, intrigued expression. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) looks at her phone and sees a stream of incoming direct messages lighting up the screen, intrigued expression. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Dois: que perguntas as pessoas já te fazem?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 4 Pergunta 3 ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) points at a framed photo of a small busy boutique with a smiling customer, explaining. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) points at a framed photo of a small busy boutique with a smiling customer, explaining. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Três: há quem pague por soluções nesse tema?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 Lição ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) circles one word on the whiteboard (no readable text), turns and smiles. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) circles one word on the whiteboard (no readable text), turns and smiles. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Onde as três respostas se encontram, está o teu nicho. Guarda este vídeo." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa ---
+Não sabes sobre o que fazer a tua página anónima? Faz estas três perguntas.
+Um: sobre o que conseguias falar todos os dias sem te cansares?
+Dois: que perguntas as pessoas já te fazem?
+Três: há quem pague por soluções nesse tema?
+Onde as três respostas se encontram, está o teu nicho. Guarda este vídeo.
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @billionaira.fenix. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (Português (PT), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ZERO, ANÓNIMA, ROSTO, ERRO, ERROS, NICHO, CONSISTÊNCIA, NÚMEROS, ESTRATÉGIA, TODOS OS DIAS.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: elegant, modern lo-fi / soft deep-house beat, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "Como escolher o nicho da tua página anónima"
+Scene 1: "Não sabes sobre o que fazer a tua página anónima? Faz estas três perguntas."
+Scene 2: "Um: sobre o que conseguias falar todos os dias sem te cansares?"  [card: 1. O QUE TE APAIXONA]
+Scene 3: "Dois: que perguntas as pessoas já te fazem?"  [card: 2. O QUE TE PERGUNTAM]
+Scene 4: "Três: há quem pague por soluções nesse tema?"  [card: 3. HÁ PROCURA?]
+Scene 5: "Onde as três respostas se encontram, está o teu nicho. Guarda este vídeo."  [card: GUARDA 📌]
+
+--- Legenda do post ---
+Como escolher o nicho da tua página anónima
+
+#paginaanonima #marketingdigital #mulheresempreendedoras #instagramtips #crescernoinstagram

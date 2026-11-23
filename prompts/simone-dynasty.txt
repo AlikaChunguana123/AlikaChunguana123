@@ -1,0 +1,608 @@
+############################################################
+@SIMONE_DYNASTY ENGLISH + PORTUGUÊS (PT)
+############################################################
+
+--- Personagem: prompt de imagem (faz primeiro) ---
+Photorealistic character reference sheet for an AI influencer, high-end studio photography, 85mm lens, soft key light, natural skin texture with pores, realistic hair, real fabric. SIMONE, an elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver strands at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch, nude low heels, holding a white gold-rimmed porcelain teacup. Front, 3/4, side and back view; underneath 5 expressions: amused smirk, raised eyebrow, laughing, serious, proud smile. Neutral seamless studio cream background, no text. Same person in every view, consistent face.
+
+--- Prompt negativo ---
+cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin, doll-like face, waxy, oversaturated, text, letters, watermark, logo, blurry, extra fingers, deformed hands, distorted face, extra limbs, cropped head, low quality
+
+=== Vídeo 1 · A regra do envelope / The envelope rule ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in a burgundy wingback chair in her wood-panelled library, holding up an old cream envelope with a red wax seal, looking at the viewer with a knowing smile. Medium shot, fireplace glow.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in a burgundy wingback chair in her wood-panelled library, holding up an old cream envelope with a red wax seal, looking at the viewer with a knowing smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "My grandmother gave me one envelope and one rule. Three generations later, we still follow it." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in a burgundy wingback chair in her wood-panelled library, holding up an old cream envelope with a red wax seal, looking at the viewer with a knowing smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "A minha avó deu-me um envelope e uma regra. Três gerações depois, ainda a seguimos." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 A avó ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Warm 1980s flashback: an elegant grandmother in pearls and a green dress at an antique writing desk hands a sealed cream envelope to a 20-year-old Simone with the same curls, both smiling. Medium shot, golden light.
+
+--- Prompt de animação (narração por cima) ---
+Warm 1980s flashback: an elegant grandmother in pearls and a green dress at an antique writing desk hands a sealed cream envelope to a 20-year-old Simone with the same curls, both smiling. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 Os 10% ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Close-up top view of elegant hands with a gold watch dividing banknotes into a small neat pile and a bigger pile on a mahogany desk, the small pile going into the cream envelope.
+
+--- Prompt de animação (narração por cima) ---
+Close-up top view of elegant hands with a gold watch dividing banknotes into a small neat pile and a bigger pile on a mahogany desk, the small pile going into the cream envelope.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 4 A diferença ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans forward in her chair, one eyebrow raised, teacup in hand. Medium close-up.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans forward in her chair, one eyebrow raised, teacup in hand. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Most people save what's left. Old money spends what's left." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans forward in her chair, one eyebrow raised, teacup in hand. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "A maioria poupa o que sobra. O dinheiro antigo gasta o que sobra." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 Ação ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) points gently at the viewer with a warm smile, the envelope on the side table. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) points gently at the viewer with a warm smile, the envelope on the side table. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Do it with your next paycheck. Comment 'ENVELOPE' if you're starting this month." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) points gently at the viewer with a warm smile, the envelope on the side table. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Faz isto com o teu próximo salário. Comenta 'ENVELOPE' se começas este mês." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa (PT) ---
+A minha avó deu-me um envelope e uma regra. Três gerações depois, ainda a seguimos.
+Sempre que entra dinheiro, antes de gastares um cêntimo, uma parte vai para o envelope.
+Dez por cento. Não o que sobra no fim do mês. Primeiro.
+A maioria poupa o que sobra. O dinheiro antigo gasta o que sobra.
+Faz isto com o teu próximo salário. Comenta 'ENVELOPE' se começas este mês.
+
+--- Prompt de edição (PT) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English + Português (PT), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "A minha avó deu-me uma regra sobre dinheiro."
+Scene 1: "A minha avó deu-me um envelope e uma regra. Três gerações depois, ainda a seguimos."  [card: 1 ENVELOPE · 1 REGRA]
+Scene 2: "Sempre que entra dinheiro, antes de gastares um cêntimo, uma parte vai para o envelope."
+Scene 3: "Dez por cento. Não o que sobra no fim do mês. Primeiro."  [card: 10% PRIMEIRO]
+Scene 4: "A maioria poupa o que sobra. O dinheiro antigo gasta o que sobra."
+Scene 5: "Faz isto com o teu próximo salário. Comenta 'ENVELOPE' se começas este mês."  [card: COMENTA: ENVELOPE]
+
+--- Narration (EN) ---
+My grandmother gave me one envelope and one rule. Three generations later, we still follow it.
+Every time money comes in, before you spend a single cent, one part goes in the envelope.
+Ten percent. Not what's left at the end of the month. First.
+Most people save what's left. Old money spends what's left.
+Do it with your next paycheck. Comment 'ENVELOPE' if you're starting this month.
+
+--- Editing prompt (EN) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "My grandmother gave me one rule about money."
+Scene 1: "My grandmother gave me one envelope and one rule. Three generations later, we still follow it."  [card: 1 ENVELOPE · 1 REGRA]
+Scene 2: "Every time money comes in, before you spend a single cent, one part goes in the envelope."
+Scene 3: "Ten percent. Not what's left at the end of the month. First."  [card: 10% PRIMEIRO]
+Scene 4: "Most people save what's left. Old money spends what's left."
+Scene 5: "Do it with your next paycheck. Comment 'ENVELOPE' if you're starting this month."  [card: COMENTA: ENVELOPE]
+
+--- Legenda do post ---
+A minha avó deu-me uma regra sobre dinheiro. / My grandmother gave me one rule about money.
+
+#oldmoney #dinheiro #financaspessoais #mentalidaderica #moneytips
+
+=== Vídeo 2 · A regra das 72 horas / The 72-hour rule ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in an elegant boutique with marble floors, holding a beautiful burgundy designer handbag, admiring it, then smiling knowingly at the viewer. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in an elegant boutique with marble floors, holding a beautiful burgundy designer handbag, admiring it, then smiling knowingly at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I never buy anything over five hundred on the same day I see it." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in an elegant boutique with marble floors, holding a beautiful burgundy designer handbag, admiring it, then smiling knowingly at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Nunca compro nada acima de quinhentos euros no mesmo dia em que o vejo." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 Sair ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) hands the handbag back to a smiling saleswoman and walks toward the glass door of the boutique, looking back at the viewer. Medium-wide shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) hands the handbag back to a smiling saleswoman and walks toward the glass door of the boutique, looking back at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I walk out. And I give it seventy-two hours." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) hands the handbag back to a smiling saleswoman and walks toward the glass door of the boutique, looking back at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Saio da loja. E dou-lhe setenta e duas horas." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 3 Três dias ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) reads a book in her library armchair while a wall calendar beside her flips pages, the light changing from morning to night three times. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) reads a book in her library armchair while a wall calendar beside her flips pages, the light changing from morning to night three times. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 4 A verdade ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) laughs warmly, head tilted back slightly, teacup in hand. Medium close-up.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) laughs warmly, head tilted back slightly, teacup in hand. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Most of the time? I've forgotten it even existed." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) laughs warmly, head tilted back slightly, teacup in hand. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Na maioria das vezes? Já nem me lembro que existia." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 Ação ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sets her teacup down and looks straight at the viewer, calm and wise. Medium close-up.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sets her teacup down and looks straight at the viewer, calm and wise. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Impulse is expensive, darling. Patience is free. Try it this week." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sets her teacup down and looks straight at the viewer, calm and wise. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "O impulso sai caro, querida. A paciência é grátis. Experimenta esta semana." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa (PT) ---
+Nunca compro nada acima de quinhentos euros no mesmo dia em que o vejo.
+Saio da loja. E dou-lhe setenta e duas horas.
+Se depois de três dias ainda o quero, e cabe no plano, compro. A pronto.
+Na maioria das vezes? Já nem me lembro que existia.
+O impulso sai caro, querida. A paciência é grátis. Experimenta esta semana.
+
+--- Prompt de edição (PT) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English + Português (PT), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "Nunca compro nada caro no mesmo dia."
+Scene 1: "Nunca compro nada acima de quinhentos euros no mesmo dia em que o vejo."  [card: +500 = ESPERA]
+Scene 2: "Saio da loja. E dou-lhe setenta e duas horas."  [card: 72 HORAS]
+Scene 3: "Se depois de três dias ainda o quero, e cabe no plano, compro. A pronto."
+Scene 4: "Na maioria das vezes? Já nem me lembro que existia."
+Scene 5: "O impulso sai caro, querida. A paciência é grátis. Experimenta esta semana."  [card: EXPERIMENTA 7 DIAS]
+
+--- Narration (EN) ---
+I never buy anything over five hundred on the same day I see it.
+I walk out. And I give it seventy-two hours.
+If after three days I still want it, and it fits the plan, I buy it. In cash.
+Most of the time? I've forgotten it even existed.
+Impulse is expensive, darling. Patience is free. Try it this week.
+
+--- Editing prompt (EN) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "I never buy anything expensive on the same day."
+Scene 1: "I never buy anything over five hundred on the same day I see it."  [card: +500 = ESPERA]
+Scene 2: "I walk out. And I give it seventy-two hours."  [card: 72 HORAS]
+Scene 3: "If after three days I still want it, and it fits the plan, I buy it. In cash."
+Scene 4: "Most of the time? I've forgotten it even existed."
+Scene 5: "Impulse is expensive, darling. Patience is free. Try it this week."  [card: EXPERIMENTA 7 DIAS]
+
+--- Legenda do post ---
+Nunca compro nada caro no mesmo dia. / I never buy anything expensive on the same day.
+
+#oldmoney #dinheiro #financaspessoais #mentalidaderica #moneytips
+
+=== Vídeo 3 · O meu carro tem 12 anos / My car is 12 years old ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans against a spotless 12-year-old dark-green classic sedan parked in front of a grand stone mansion, keys in hand, amused smile at the viewer. Medium-wide shot, golden hour.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans against a spotless 12-year-old dark-green classic sedan parked in front of a grand stone mansion, keys in hand, amused smile at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I could buy any car I want. I've driven this one for twelve years." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans against a spotless 12-year-old dark-green classic sedan parked in front of a grand stone mansion, keys in hand, amused smile at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Podia comprar o carro que quisesse. Conduzo este há doze anos." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 Dinheiro novo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. A young man in a flashy outfit and sunglasses at a car dealership full of balloons, signing a thick stack of loan papers next to a shiny red sports car. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+A young man in a flashy outfit and sunglasses at a car dealership full of balloons, signing a thick stack of loan papers next to a shiny red sports car. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 O valor cai ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. The shiny red sports car drives off the dealership lot while the price on its windshield sticker visibly drops on a digital sign behind it. Wide shot, comedic.
+
+--- Prompt de animação (narração por cima) ---
+The shiny red sports car drives off the dealership lot while the price on its windshield sticker visibly drops on a digital sign behind it. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 4 O meu carro ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) polishes the hood of her old green sedan with a soft cloth, content and proud. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) polishes the hood of her old green sedan with a soft cloth, content and proud. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "My car takes me where I need to go. My money stays where it can grow." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) polishes the hood of her old green sedan with a soft cloth, content and proud. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "O meu carro leva-me onde preciso. O meu dinheiro fica onde pode crescer." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 Pergunta ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in the driver's seat with the door open, raised eyebrow at the viewer. Medium close-up.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in the driver's seat with the door open, raised eyebrow at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Rich isn't what you drive. It's what you keep. How old is your car? Tell me." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in the driver's seat with the door open, raised eyebrow at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Rico não é o que conduzes. É o que guardas. Quantos anos tem o teu carro?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa (PT) ---
+Podia comprar o carro que quisesse. Conduzo este há doze anos.
+O dinheiro novo compra o carro para ser visto.
+E esse carro perde valor no momento em que sai do stand.
+O meu carro leva-me onde preciso. O meu dinheiro fica onde pode crescer.
+Rico não é o que conduzes. É o que guardas. Quantos anos tem o teu carro?
+
+--- Prompt de edição (PT) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English + Português (PT), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "Podia comprar qualquer carro. Conduzo este."
+Scene 1: "Podia comprar o carro que quisesse. Conduzo este há doze anos."  [card: 12 ANOS]
+Scene 2: "O dinheiro novo compra o carro para ser visto."
+Scene 3: "E esse carro perde valor no momento em que sai do stand."  [card: VALOR ↓]
+Scene 4: "O meu carro leva-me onde preciso. O meu dinheiro fica onde pode crescer."
+Scene 5: "Rico não é o que conduzes. É o que guardas. Quantos anos tem o teu carro?"  [card: QUANTOS ANOS TEM O TEU?]
+
+--- Narration (EN) ---
+I could buy any car I want. I've driven this one for twelve years.
+New money buys the car to be seen.
+And that car loses value the moment it leaves the lot.
+My car takes me where I need to go. My money stays where it can grow.
+Rich isn't what you drive. It's what you keep. How old is your car? Tell me.
+
+--- Editing prompt (EN) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "I could buy any car. I drive this one."
+Scene 1: "I could buy any car I want. I've driven this one for twelve years."  [card: 12 ANOS]
+Scene 2: "New money buys the car to be seen."
+Scene 3: "And that car loses value the moment it leaves the lot."  [card: VALOR ↓]
+Scene 4: "My car takes me where I need to go. My money stays where it can grow."
+Scene 5: "Rich isn't what you drive. It's what you keep. How old is your car? Tell me."  [card: QUANTOS ANOS TEM O TEU?]
+
+--- Legenda do post ---
+Podia comprar qualquer carro. Conduzo este. / I could buy any car. I drive this one.
+
+#oldmoney #dinheiro #financaspessoais #mentalidaderica #moneytips
+
+=== Vídeo 4 · 3 coisas que o dinheiro antigo nunca diz / 3 things old money never says ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at an elegant garden tea party with white roses and a silver tea set, holding up three fingers, mischievous smile. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at an elegant garden tea party with white roses and a silver tea set, holding up three fingers, mischievous smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Three things old money never says out loud." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at an elegant garden tea party with white roses and a silver tea set, holding up three fingers, mischievous smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Três coisas que o dinheiro antigo nunca diz em voz alta." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 1. O preço ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits with a friend who is proudly showing off a shopping bag; Simone smiles politely and sips her tea. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits with a friend who is proudly showing off a shopping bag; Simone smiles politely and sips her tea. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "One: the price. We never say what something cost." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits with a friend who is proudly showing off a shopping bag; Simone smiles politely and sips her tea. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Um: o preço. Nunca dizemos quanto custou." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 3 2. Não posso ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) gently hands back an elegant invitation card to a friend with a calm, kind smile. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) gently hands back an elegant invitation card to a friend with a calm, kind smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Two: 'I can't afford it.' We say: 'It's not a priority.'" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) gently hands back an elegant invitation card to a friend with a calm, kind smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Dois: 'não tenho dinheiro'. Dizemos: 'não é prioridade'." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 4 3. Quanto temos ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at her desk closes a leather portfolio and places her hand on top of it, finger to her lips. Medium close-up.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at her desk closes a leather portfolio and places her hand on top of it, finger to her lips. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Three: how much we have. Wealth whispers." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at her desk closes a leather portfolio and places her hand on top of it, finger to her lips. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Três: quanto temos. A riqueza sussurra." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 Lição ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) raises her teacup like a toast, warm confident smile. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) raises her teacup like a toast, warm confident smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Loud money leaves fast. Quiet money stays. Which one is yours?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) raises her teacup like a toast, warm confident smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Dinheiro barulhento vai-se depressa. Dinheiro discreto fica. Qual é o teu?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa (PT) ---
+Três coisas que o dinheiro antigo nunca diz em voz alta.
+Um: o preço. Nunca dizemos quanto custou.
+Dois: 'não tenho dinheiro'. Dizemos: 'não é prioridade'.
+Três: quanto temos. A riqueza sussurra.
+Dinheiro barulhento vai-se depressa. Dinheiro discreto fica. Qual é o teu?
+
+--- Prompt de edição (PT) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English + Português (PT), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "3 coisas que o dinheiro antigo nunca diz."
+Scene 1: "Três coisas que o dinheiro antigo nunca diz em voz alta."  [card: 3 COISAS]
+Scene 2: "Um: o preço. Nunca dizemos quanto custou."  [card: 1. O PREÇO]
+Scene 3: "Dois: 'não tenho dinheiro'. Dizemos: 'não é prioridade'."  [card: 2. NÃO É PRIORIDADE]
+Scene 4: "Três: quanto temos. A riqueza sussurra."  [card: 3. A RIQUEZA SUSSURRA]
+Scene 5: "Dinheiro barulhento vai-se depressa. Dinheiro discreto fica. Qual é o teu?"
+
+--- Narration (EN) ---
+Three things old money never says out loud.
+One: the price. We never say what something cost.
+Two: 'I can't afford it.' We say: 'It's not a priority.'
+Three: how much we have. Wealth whispers.
+Loud money leaves fast. Quiet money stays. Which one is yours?
+
+--- Editing prompt (EN) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "3 things old money never says out loud."
+Scene 1: "Three things old money never says out loud."  [card: 3 COISAS]
+Scene 2: "One: the price. We never say what something cost."  [card: 1. O PREÇO]
+Scene 3: "Two: 'I can't afford it.' We say: 'It's not a priority.'"  [card: 2. NÃO É PRIORIDADE]
+Scene 4: "Three: how much we have. Wealth whispers."  [card: 3. A RIQUEZA SUSSURRA]
+Scene 5: "Loud money leaves fast. Quiet money stays. Which one is yours?"
+
+--- Legenda do post ---
+3 coisas que o dinheiro antigo nunca diz. / 3 things old money never says out loud.
+
+#oldmoney #dinheiro #financaspessoais #mentalidaderica #moneytips
+
+=== Vídeo 5 · A pergunta do meu pai / My father's one question ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in her library holding a silver-framed photo of her father (an elegant Black man in a 1980s three-piece suit), smiling with nostalgia, then looking at the viewer. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in her library holding a silver-framed photo of her father (an elegant Black man in a 1980s three-piece suit), smiling with nostalgia, then looking at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Before every purchase, my father asked one question." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in her library holding a silver-framed photo of her father (an elegant Black man in a 1980s three-piece suit), smiling with nostalgia, then looking at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Antes de cada compra, o meu pai fazia uma pergunta." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 O pai ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. 1980s flashback: the elegant father at a mahogany desk with an open ledger, pointing at it while a 20-year-old Simone listens closely. Medium shot, warm light.
+
+--- Prompt de animação (narração por cima) ---
+1980s flashback: the elegant father at a mahogany desk with an open ledger, pointing at it while a 20-year-old Simone listens closely. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 Exemplo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Split composition: left, a charming small apartment building with a happy tenant handing over a rent envelope; right, a dusty jet ski on a trailer in a garage. Medium-wide shot.
+
+--- Prompt de animação (narração por cima) ---
+Split composition: left, a charming small apartment building with a happy tenant handing over a rent envelope; right, a dusty jet ski on a trailer in a garage. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 4 Ativo vs passivo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sitting in her wingback chair, explaining with one finger raised. Medium close-up.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sitting in her wingback chair, explaining with one finger raised. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "That's the difference between an asset and a liability." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sitting in her wingback chair, explaining with one finger raised. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "É essa a diferença entre um ativo e um passivo." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 5 Ação ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) puts the photo back on the shelf and smiles at the viewer. Medium shot.
+
+--- Vídeo com fala (EN) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) puts the photo back on the shelf and smiles at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Ask his question before your next purchase. Follow for more of our family rules." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+--- Vídeo com fala (PT) ---
+Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) puts the photo back on the shelf and smiles at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking European Portuguese: "Faz a pergunta dele antes da próxima compra. Segue para mais regras da nossa família." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa (PT) ---
+Antes de cada compra, o meu pai fazia uma pergunta.
+'Isto põe dinheiro no meu bolso… ou tira?'
+Um apartamento arrendado põe dinheiro. Uma mota de água que usas duas vezes por ano tira.
+É essa a diferença entre um ativo e um passivo.
+Faz a pergunta dele antes da próxima compra. Segue para mais regras da nossa família.
+
+--- Prompt de edição (PT) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English + Português (PT), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "Antes de cada compra, o meu pai fazia uma pergunta."
+Scene 1: "Antes de cada compra, o meu pai fazia uma pergunta."
+Scene 2: "'Isto põe dinheiro no meu bolso… ou tira?'"  [card: PÕE OU TIRA?]
+Scene 3: "Um apartamento arrendado põe dinheiro. Uma mota de água que usas duas vezes por ano tira."
+Scene 4: "É essa a diferença entre um ativo e um passivo."  [card: ATIVO vs PASSIVO]
+Scene 5: "Faz a pergunta dele antes da próxima compra. Segue para mais regras da nossa família."  [card: SEGUE ✨]
+
+--- Narration (EN) ---
+Before every purchase, my father asked one question.
+'Does this put money in my pocket… or take it out?'
+A flat you rent out puts money in. A jet ski you use twice a year takes it out.
+That's the difference between an asset and a liability.
+Ask his question before your next purchase. Follow for more of our family rules.
+
+--- Editing prompt (EN) ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @simone_dynasty. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): RICH, OLD MONEY, FIRST, ENVELOPE, 10%, 72 HOURS, CASH, VALUE, KEEP, PRICE, PRIORITY, ASSET, LIABILITY / RICO, PRIMEIRO, ENVELOPE, 72 HORAS, GUARDAS, PREÇO, PRIORIDADE, ATIVO, PASSIVO.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft jazz piano / classy lo-fi (or a trending sound added in the app), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "Before every purchase, my father asked one question."
+Scene 1: "Before every purchase, my father asked one question."
+Scene 2: "'Does this put money in my pocket… or take it out?'"  [card: PÕE OU TIRA?]
+Scene 3: "A flat you rent out puts money in. A jet ski you use twice a year takes it out."
+Scene 4: "That's the difference between an asset and a liability."  [card: ATIVO vs PASSIVO]
+Scene 5: "Ask his question before your next purchase. Follow for more of our family rules."  [card: SEGUE ✨]
+
+--- Legenda do post ---
+Antes de cada compra, o meu pai fazia uma pergunta. / Before every purchase, my father asked one question.
+
+#oldmoney #dinheiro #financaspessoais #mentalidaderica #moneytips

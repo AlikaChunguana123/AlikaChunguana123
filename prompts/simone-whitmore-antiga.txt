@@ -1,0 +1,344 @@
+############################################################
+SIMONE - historia Whitmore (antiga)
+############################################################
+
+############################################################
+1 · PERSONAGENS FAÇA PRIMEIRO
+############################################################
+
+=== SIMONE ===
+
+--- Prompt de imagem ---
+Photorealistic character reference sheet for an AI influencer, high-end studio photography, 85mm lens, soft key light, natural skin texture with pores, realistic hair, real fabric.
+Character: SIMONE, an elegant Black woman, age 58, warm deep-brown skin with a soft golden undertone, oval face, high cheekbones, full lips with a muted rose-brown lipstick, warm dark-brown almond eyes with a knowing, slightly amused look, neatly shaped eyebrows, shoulder-length soft dark curls with a few silver strands at the temples, curls swept slightly to one side.
+Outfit: ivory silk blouse with a soft draped neckline and long sleeves, three-strand pearl necklace resting on the collarbone, small round gold stud earrings, slim gold wristwatch on the left wrist, thin gold ring on the right hand, cream tailored trousers, nude low-heel pumps.
+Prop: white porcelain teacup and saucer with a thin gold rim.
+Layout: full body front view, 3/4 view, side view, and back view in a row; underneath, four head-and-shoulders expressions: amused smirk, one eyebrow raised, gentle disappointed head shake with closed eyes, proud warm smile.
+Plain warm cream background (#F4EBDD), even soft lighting, no text.
+
+=== CHARLES WHITMORE ===
+
+--- Prompt de imagem ---
+Photorealistic character reference sheet for an AI influencer, high-end studio photography, 85mm lens, soft key light, natural skin texture with pores, realistic hair, real fabric.
+Character: CHARLES WHITMORE, a white man, age 32, tall and slim, light peachy skin, sharp jaw, clean-shaven, light-blue eyes, slicked-back golden-blond hair with a slight wave, cocky wide grin showing teeth.
+Outfit: pale pink double-breasted suit with wide lapels and gold buttons, crisp white shirt open at the collar with no tie, pink pocket square, gold signet ring on the right pinky, thin gold chain bracelet, brown suede loafers with no socks.
+Layout: full body front view, 3/4 view, side view, back view in a row; underneath, four head-and-shoulders expressions: party grin with champagne glass, confused squint, stressed with a sweat drop, defeated and teary.
+Plain warm cream background (#F4EBDD), even soft lighting, no text.
+
+############################################################
+2 · CENAS
+############################################################
+
+=== Cena 1 Hook (Simone in her library) ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: Simone (elegant Black woman, 58, soft dark curls with silver at the temples, three-strand pearl necklace, ivory silk blouse, gold watch) sits upright in a tufted burgundy leather wingback chair with brass nail-head trim, legs crossed at the ankle. Her left hand holds a white gold-rimmed porcelain teacup on its saucer at chest height; her right index finger is raised as if about to tell a secret. Expression: amused knowing smirk, one eyebrow slightly raised, looking straight at the viewer.
+SETTING: private wood-panelled library. Behind her, floor-to-ceiling dark walnut bookshelves with leather-bound books in burgundy, green and brown; a rolling brass library ladder on the left; a brass banker's desk lamp with green glass shade glowing on a small side table; a framed oil landscape painting in a gilded frame; a stone fireplace on the right edge with a warm orange fire; a Persian rug in deep red and navy on the floor; a small round side table with a silver teapot.
+LIGHTING: warm golden lamp and fire light from the right, soft shadows, cozy evening mood.
+CAMERA: medium shot, eye level, Simone centered in the lower two-thirds, empty space in the top third for hook text.
+COLORS: burgundy, walnut brown, antique gold, cream, touches of emerald.
+No text.
+
+--- Prompt de animação ---
+Simone raises her finger slightly and tilts her head with a small smirk, blinks naturally, fireplace light flickers softly, slow gentle camera push-in. Keep face and outfit identical, no morphing.
+
+=== Cena 2 The mansion on the hill ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: a grand three-storey Georgian-style stone mansion in pale honey-coloured stone, symmetrical facade, tall white-framed windows glowing warm yellow, a central portico with four white columns, slate-grey roof with four chimneys, ivy climbing one corner.
+SETTING: the mansion sits on a gentle hill at the end of a long curved gravel driveway lined with trimmed boxwood hedges and tall oak trees with orange and red autumn leaves. In the foreground, tall black wrought-iron gates with gold spear tips and a gold "W" crest shape (no letters, just an ornamental crest). Two classic 1980s cars, a dark green luxury sedan and a cream convertible, parked by the front steps.
+LIGHTING: golden hour, sun low on the left, long soft shadows, sky gradient from peach to soft lavender, a few wispy clouds.
+CAMERA: wide establishing shot from low behind the gates, mansion in the upper half, gates framing the lower third.
+MOOD: wealthy, timeless, peaceful.
+No text.
+
+--- Prompt de animação ---
+Slow camera push toward the mansion, autumn leaves drifting down, window lights glowing softly, gentle breeze moving the trees. No morphing.
+
+=== Cena 3 Charles takes over ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: Charles Whitmore (32, slicked-back blond hair, pale pink double-breasted suit, white open-collar shirt, gold signet ring) leans far back in an oversized tufted oxblood leather desk chair, both loafers crossed on top of an antique carved mahogany desk, hands clasped behind his head, huge cocky grin, eyes half-closed with satisfaction.
+SETTING: the mansion's study. On the desk: a green-shaded banker's lamp, a crystal whiskey decanter with two glasses, a leather-bound ledger closed and pushed aside, a gold fountain pen. Behind him, centered on the dark green damask wallpaper, a large gilded-frame oil portrait of a stern old grandfather: grey hair, white walrus moustache, dark three-piece suit, pocket watch chain, disapproving eyes looking down at Charles. Heavy emerald velvet curtains with gold tassels on one side, tall window showing evening sky.
+LIGHTING: warm lamp light from the desk, soft shadows, portrait slightly lit from above.
+CAMERA: medium-wide shot, slightly low angle so the portrait looms above Charles.
+MOOD: funny contrast between the relaxed heir and the strict ancestor.
+No text.
+
+--- Prompt de animação ---
+Charles leans back further in the chair and grins, swivels slightly, the portrait stays still, soft lamp light. Keep his face and pink suit identical, no morphing.
+
+=== Cena 4 The party ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: Charles Whitmore in his pale pink double-breasted suit stands on a chair in the center, laughing with his head tilted back, pouring a large bottle of champagne onto a tall seven-level champagne glass tower that overflows with golden bubbly liquid.
+SETTING: a lavish mansion ballroom. A giant crystal chandelier sparkling above; white-and-gold walls with tall mirrors; a black-and-white checkered marble floor; adult guests in 1990s evening wear (sequin dresses, tuxedos) dancing and cheering with raised glasses; a four-piece jazz band on a small stage (saxophone, double bass, piano, trumpet); gold and silver confetti and streamers falling; a waiter balancing a tray of glasses; balloons in gold and cream.
+LIGHTING: warm golden party light, sparkles and lens-glints from the chandelier, slight warm haze.
+CAMERA: medium-wide shot, slightly low angle looking up at Charles and the tower.
+MOOD: excessive, joyful, over-the-top.
+No text.
+
+--- Prompt de animação ---
+Champagne flows down the glass tower, guests dance in the background, confetti falls, chandelier sparkles, Charles laughs. Keep his face and suit identical, no morphing.
+
+=== Cena 5 Cars, yacht, villa ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: Charles Whitmore in his pale pink suit, jacket open, gold aviator sunglasses, stands on the bow of a sleek white three-deck luxury yacht, arms spread wide like he owns the world, wind blowing his hair back.
+SETTING: a sunny Mediterranean marina. Foreground: a wooden dock with three shiny sports cars parked in a row (cherry red, silver, and canary yellow), their paint reflecting the sun. Midground: the yacht with tinted windows and a small helicopter pad. Background: a white cliffside villa with terracotta roof tiles, bougainvillea in pink, cypress trees, and an infinity pool, on a rocky hill above turquoise water; a few sailboats far out.
+LIGHTING: bright midday sun, crisp shadows, sparkling highlights on the water.
+COLORS: turquoise, white, terracotta, pink, with the red car as an accent.
+CAMERA: wide shot, low angle from the dock, cars in the bottom third, yacht in the middle, villa at the top.
+No text.
+
+--- Prompt de animação ---
+Yacht gently bobs on the water, waves sparkle, seagulls fly past, Charles spreads his arms proudly, slow camera pan from the cars up to the yacht. No morphing.
+
+=== Cena 6 The accountant (+$2M a year) ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: on the left, an older accountant, around 65, thin, grey hair neatly combed, round wire-rim glasses perched on his nose, tweed waistcoat over a white shirt with rolled sleeves and a navy bow tie, holding up one neat sheet of paper (blank, no text) and tapping it with a pencil, serious patient expression, looking over his glasses. On the right, Charles Whitmore in his pale pink suit slouches sideways in a leather armchair, legs over the armrest, scrolling a smartphone, completely bored, a small yawn.
+SETTING: a quiet wood-panelled office. A mahogany desk between them with one small, neat, tidy stack of green banknotes tied with a paper band, a brass desk lamp, an old adding machine, and filing cabinets in the background.
+LIGHTING: soft daylight from a tall window behind the accountant, calm and neutral.
+CAMERA: medium shot, both characters fully visible, the money stack centered.
+No text.
+
+--- Prompt de animação ---
+Accountant taps the paper and looks over his glasses, Charles keeps scrolling and shrugs. Subtle motion only, keep faces identical, no morphing.
+
+=== Cena 7 Buried in bills (−$5M a year) ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: Charles Whitmore in his pale pink suit sits at an antique mahogany desk, cheerfully signing papers with a gold fountain pen, whistling, totally unaware. In front of him, an absurdly tall, leaning, wobbling tower of bills, invoices and receipts (blank paper, no readable text), stacked twice as tall as him and almost touching the ceiling. Papers are sliding off the top and scattered all over the floor; a few envelopes float mid-air.
+SETTING: the same study with the green damask wallpaper and the grandfather portrait, whose painted eyes now look shocked.
+LIGHTING: warm lamp light, slightly comedic dramatic shadow cast by the paper tower.
+CAMERA: medium-wide, low angle to exaggerate the height of the tower.
+MOOD: comedic, exaggerated, warning.
+No text.
+
+--- Prompt de animação ---
+The tower of bills wobbles and a few papers slide off and float down, Charles keeps signing cheerfully without looking. No morphing.
+
+=== Cena 8 "You see the problem, darling" ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: close-up of Simone (58, soft dark curls with silver temples, three-strand pearl necklace, ivory silk blouse, small gold earrings) taking a slow sip from her white gold-rimmed porcelain teacup, the cup just below her nose, her eyes looking directly at the viewer over the rim with one eyebrow raised high, a subtle "I told you so" look.
+SETTING: blurred background of the wood-panelled library: warm bookshelves and soft fireplace glow on the right.
+LIGHTING: warm golden key light from the right, soft rim light on her curls.
+CAMERA: close-up, chest up, eye level, slight shallow depth of field.
+No text.
+
+--- Prompt de animação ---
+Simone sips her tea slowly, eyebrow rises, she lowers the cup. Fire flickers. Keep face identical, no morphing.
+
+=== Cena 9 12 years later (−$40M → $0) ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16, desaturated muted palette of grey-blue, faded beige and dull brown.
+SUBJECT: the same honey-stone Georgian mansion from scene 2, now neglected: several windows dark, one cracked, ivy overgrown and brown, hedges wild and unkept, the gravel driveway covered in dead brown leaves and puddles. Two movers in grey overalls carry a large gilded-frame oil painting and a crystal chandelier towards a plain white moving truck with its back doors open. A blank wooden auction notice board stands by the gate. The black iron gates are closed with a heavy chain and padlock.
+In the foreground at the gate: Charles Whitmore, now looking older and tired, stubble, messy hair, wearing the same pink suit but faded, wrinkled and stained, tie-less, shoulders slumped, holding one small suitcase, head lowered, defeated.
+LIGHTING: overcast grey sky, light drizzle, no strong shadows, cold mood.
+CAMERA: wide shot from behind and to the side of Charles, the mansion in the background.
+No text.
+
+--- Prompt de animação ---
+Movers carry furniture into the truck, dead leaves blow across the driveway, light rain begins, Charles lowers his head slowly. Slow camera pull-back. No morphing.
+
+=== Cena 10 "They bleed from a lifestyle" ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: Simone (58, soft dark curls with silver temples, three-strand pearl necklace, ivory silk blouse, gold wristwatch) leans slightly forward in her tufted burgundy wingback chair, gently placing her gold-rimmed porcelain teacup onto its saucer on a small round marble side table. Calm, serious, wise expression, looking straight at the viewer, lips closed.
+SETTING: the wood-panelled library, bookshelves behind, brass lamp glowing, fireplace on the right.
+LIGHTING: warm, slightly dimmer than scene 1, with stronger contrast to feel more serious.
+CAMERA: medium close-up, waist up, eye level.
+No text.
+
+--- Prompt de animação ---
+Simone places the teacup down gently, it clinks softly, she looks up at the viewer with a calm serious expression. No morphing.
+
+=== Cena 11 Lesson + CTA ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores, realistic hair, believable fabric, warm old-money interiors, subtle film grain, colour graded like a high-end commercial, vertical 9:16.
+SUBJECT: Simone (58, soft dark curls with silver temples, three-strand pearl necklace, ivory silk blouse, small gold earrings, gold wristwatch) sits tall and elegant in her tufted burgundy leather wingback chair, raising her white gold-rimmed porcelain teacup toward the viewer in a graceful toast, warm proud confident smile, eyes slightly crinkled.
+SETTING: the wood-panelled library at its coziest: fireplace glowing brightly, brass lamp on, bookshelves, a vase of white roses on the side table.
+LIGHTING: warm golden light, soft glow around her like a spotlight.
+CAMERA: medium shot, eye level, Simone centered, empty space in the top third for "MISTAKE #1 of 5" text.
+MOOD: confident, warm, wise, satisfying ending.
+No text.
+
+--- Prompt de animação ---
+Simone lifts the teacup in a small toast and smiles warmly, blinks, fire flickers, gentle camera push-in. Keep face identical, no morphing.
+
+############################################################
+2B · SIMONE FALANDO LIP-SYNC, PARA CENAS 1, 8, 10, 11
+############################################################
+
+=== Cena 1 Hook ===
+
+--- Prompt de vídeo com fala ---
+Simone, an elegant Black woman in her late 50s with soft dark curls greying at the temples, pearl necklace and ivory silk blouse, sits in a burgundy wingback chair in a wood-panelled library, holding a porcelain teacup and raising one finger. She looks directly at the camera with an amused smirk and says, in a calm, warm, slightly amused mature female voice with a refined accent: "The Whitmores inherited forty million dollars... and still went broke." Natural lip-sync, small head tilt, fireplace flickering, slow camera push-in. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same face and outfit as the reference image. No music, no subtitles.
+
+=== Cena 8 You see the problem ===
+
+--- Prompt de vídeo com fala ---
+Close-up of Simone, an elegant Black woman in her late 50s with soft dark curls greying at the temples, pearl necklace and ivory silk blouse, in a wood-panelled library. She lowers her porcelain teacup from her lips, raises one eyebrow and says to the camera, in a calm, warm, slightly amused mature female voice: "You see the problem, darling." Natural lip-sync, subtle knowing smile, fireplace glow. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same face and outfit as the reference image. No music, no subtitles.
+
+=== Cena 10 They bleed from a lifestyle ===
+
+--- Prompt de vídeo com fala ---
+Simone, an elegant Black woman in her late 50s with soft dark curls greying at the temples, pearl necklace and ivory silk blouse, sets her porcelain teacup down on its saucer, looks straight at the camera with a calm serious expression and says slowly, in a warm, wise mature female voice: "Fortunes rarely die from one big mistake. They bleed... from a lifestyle." Natural lip-sync, small pause before the last words, fireplace flickering. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same face and outfit as the reference image. No music, no subtitles.
+
+=== Cena 11 Lesson + CTA ===
+
+--- Prompt de vídeo com fala ---
+Simone, an elegant Black woman in her late 50s with soft dark curls greying at the temples, pearl necklace and ivory silk blouse, sits in her burgundy wingback chair in a cozy wood-panelled library. She raises her porcelain teacup toward the camera like a toast, smiles proudly and says, in a calm, warm, confident mature female voice: "Old money lives on what the money earns. Never on the money itself. That's mistake number one. Follow for number two." Natural lip-sync, warm smile at the end, gentle camera push-in. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same face and outfit as the reference image. No music, no subtitles.
+
+############################################################
+2C · CHARLES FALANDO CENAS 3, 4, 5, 6, 7, 9
+############################################################
+
+=== Cena 3 Charles takes over ===
+
+--- Prompt de vídeo com fala ---
+In a grand mansion study with an oil portrait of a stern grandfather on the wall, Charles Whitmore, a white man in his early 30s with slicked-back blond hair, pale pink double-breasted suit, white open-collar shirt and gold signet ring, leans back in a big leather chair with his feet on the mahogany desk, grins at the camera and says in a confident, cocky, upper-class young male voice with a posh accent: "Grandpa's gone. Now the fun begins!" He puts his hands behind his head and laughs. Natural lip-sync. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same faces and outfits as the reference images. No music, no subtitles.
+
+=== Cena 4 The party ===
+
+--- Prompt de vídeo com fala ---
+In a lavish mansion ballroom with a crystal chandelier, jazz band and dancing guests, Charles Whitmore, a white man in his early 30s with slicked-back blond hair, pale pink double-breasted suit, white open-collar shirt and gold signet ring, stands on a chair pouring champagne into a tall glass tower, raises the bottle and shouts happily in a confident, cocky, upper-class young male voice with a posh accent: "Champagne for everyone! It's on the Whitmores!" Guests cheer, confetti falls. Natural lip-sync. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same faces and outfits as the reference images. No music, no subtitles.
+
+=== Cena 5 Cars, yacht, villa ===
+
+--- Prompt de vídeo com fala ---
+On the bow of a white luxury yacht in a sunny Mediterranean marina, Charles Whitmore, a white man in his early 30s with slicked-back blond hair, pale pink double-breasted suit, white open-collar shirt and gold signet ring, wearing gold aviator sunglasses, spreads his arms wide and says in a confident, cocky, upper-class young male voice with a posh accent: "Life is too short for small boats!" Wind blows his hair, water sparkles. Natural lip-sync. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same faces and outfits as the reference images. No music, no subtitles.
+
+=== Cena 6 The accountant ===
+
+--- Prompt de vídeo com fala ---
+In a wood-panelled office, an older grey-haired accountant with round glasses and a tweed waistcoat holds up a sheet of paper and says patiently, in a dry, serious elderly male voice: "Mr. Whitmore, your money earns two million a year." Opposite him, Charles Whitmore, a white man in his early 30s with slicked-back blond hair, pale pink double-breasted suit, white open-collar shirt and gold signet ring, lounges in an armchair scrolling his phone and answers without looking up, in a confident, cocky, upper-class young male voice with a posh accent: "Wonderful. Then I'll spend five." The accountant sighs. Natural lip-sync. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same faces and outfits as the reference images. No music, no subtitles.
+
+=== Cena 7 Buried in bills ===
+
+--- Prompt de vídeo com fala ---
+Charles Whitmore, a white man in his early 30s with slicked-back blond hair, pale pink double-breasted suit, white open-collar shirt and gold signet ring, sits at an antique desk behind a huge wobbling tower of bills, cheerfully signing papers with a gold pen, and sings to himself in a confident, cocky, upper-class young male voice with a posh accent: "Sign here, sign there... money is for spending!" Papers slide off the tower. Natural lip-sync. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same faces and outfits as the reference images. No music, no subtitles.
+
+=== Cena 9 12 years later ===
+
+--- Prompt de vídeo com fala ---
+Outside a neglected stone mansion on a grey rainy day, movers carry paintings into a truck. Charles Whitmore, a white man in his early 30s with slicked-back blond hair, pale pink double-breasted suit, white open-collar shirt and gold signet ring, now tired with stubble and a faded wrinkled pink suit, holds a small suitcase at the chained gate, looks back at the house and says quietly, in a sad, broken young male voice: "Where did it all go?" Rain falls. Natural lip-sync. Photorealistic, natural human motion, realistic lip-sync, subtle handheld cinematic camera. Keep the same faces and outfits as the reference images. No music, no subtitles.
+
+############################################################
+3 · PROMPT NEGATIVO USE EM TODAS AS IMAGENS
+############################################################
+
+--- Negativo ---
+cartoon, illustration, anime, 3D render, plastic skin, airbrushed, doll-like face, text, letters, words, watermark, logo, signature, blurry, extra fingers, deformed hands, distorted face, extra limbs, cropped head, low quality, messy lines, children
+
+############################################################
+4 · NARRAÇÃO COLE NA FERRAMENTA DE VOZ
+############################################################
+
+--- Voz da Simone ---
+The Whitmores inherited forty million dollars… and still went broke.
+Old family. Old money. A mansion on the hill.
+When the old man died, his grandson Charles took over.
+Charles loved a party. Every weekend.
+New cars. A yacht. A villa in Monaco.
+Here's the thing. Forty million, invested, earned about two million a year.
+Charles was spending five.
+You see the problem, darling.
+Every year, three million came out of the principal. Twelve years later…
+Fortunes rarely die from one big mistake. They bleed… from a lifestyle.
+Old money lives on what the money earns. Never on the money itself.
+That's mistake number one. Follow for number two.
+
+The maths checks out: losing $3M a year from $40M, with less income each year as the principal shrinks, runs out in about 12 years.)*
+
+-
+
+ Editing notes
+**Music:** soft piano or string quartet. When the party starts (scenes 4–5), switch to upbeat jazz. At scene 9 (the crash), cut the music to silence for 1 second, then bring back a sad piano.
+**Sound effects:** champagne pop (sc. 4), cash register "cha-ching" (sc. 6), paper rustle (sc. 7), teacup clink (sc. 10), gavel hit when **$0** appears (sc. 9).
+**Number cards:** a white card with a big bold number. Green for income, red for spending and for $0. Animate the crossed-out line drawing across $40M.
+**Captions:** white text in a black rounded box, in the bottom third. Keep it clear of Instagram's buttons.
+
+ Post caption
+They had $40 million. They didn't have a rule. 🫖
+Mistake #1 of 5 that kill fortunes. Which one is next? 👇
+*Fictional story for educational purposes.*
+#oldmoney #moneymindset #generationalwealth #financialliteracy #wealthmindset
+
+############################################################
+5 · PROMPT DE EDIÇÃO COLE NO CLAUDE JUNTO COM OS VÍDEOS
+############################################################
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram Reel called "The Whitmores inherited $40M... and still went broke" (Mistake #1 of 5 that kill fortunes). The narrator is Simone, an elegant old-money "rich auntie". Use code (ffmpeg / Python) to edit the clips into ONE finished video file I can download. If I could not upload every clip, edit the ones I did upload and tell me which scenes are missing.
+
+CLIP ORDER (file names roughly match the scene numbers):
+1. Simone in her library (hook)
+2. The mansion on the hill
+3. Charles with his feet on the desk
+4. The champagne party
+5. Charles on the yacht
+6. The accountant
+7. Charles buried in bills
+8. Simone sipping tea
+9. The ruined mansion, 12 years later
+10. Simone setting her teacup down
+11. Simone raising her teacup in a toast (ending)
+
+FORMAT
+- Vertical 9:16, 1080x1920, 30 fps, MP4 (H.264 + AAC), total length about 35-50 seconds.
+- If a clip is horizontal, crop it to vertical and keep the speaking character's face inside the frame (do not cut off the face).
+- Trim silence and dead frames at the start and end of every clip. Keep the pace fast; no shot longer than about 5 seconds without a zoom or cut.
+- Cover or crop out any AI watermark (for example the small sparkle logo in the bottom-right corner).
+
+SUBTITLES
+- Burn in big, bold subtitles, 2-3 words at a time, ALL CAPS, white text with a thick black outline, placed in the lower-middle of the screen (above the Instagram buttons, about 30% from the bottom).
+- Each word group pops in with a quick scale-up animation.
+- Keywords in RED (#E5202B): WHITMORES, FORTY MILLION, DOLLARS, BROKE, OLD MONEY, MANSION, PARTY, YACHT, TWO MILLION, FIVE, PROBLEM, TWELVE YEARS, BLEED, LIFESTYLE, MISTAKE, EARNS, NEVER.
+- Match the subtitles to what is actually said in each clip. The script is:
+  Simone: "The Whitmores inherited forty million dollars... and still went broke."
+  Simone: "Old family. Old money. A mansion on the hill."
+  Simone: "When the old man died, his grandson Charles took over." Charles: "Grandpa's gone. Now the fun begins!"
+  Simone: "Charles loved a party. Every weekend." Charles: "Champagne for everyone! It's on the Whitmores!"
+  Simone: "New cars. A yacht. A villa in Monaco." Charles: "Life is too short for small boats!"
+  Accountant: "Mr. Whitmore, your money earns two million a year." Charles: "Wonderful. Then I'll spend five."
+  Charles: "Sign here, sign there... money is for spending!"
+  Simone: "You see the problem, darling."
+  Simone: "Every year, three million came out of the principal. Twelve years later..." Charles: "Where did it all go?"
+  Simone: "Fortunes rarely die from one big mistake. They bleed... from a lifestyle."
+  Simone: "Old money lives on what the money earns. Never on the money itself. That's mistake number one. Follow for number two."
+
+TEXT CARDS (big, bold, centered, pop-in animation)
+- 0-6s, at the top in a black box: "MISTAKE #1 THAT KILLS FORTUNES" (the "#1" in red).
+- On the mansion: "$40,000,000".
+- On the accountant scene: "+$2M A YEAR" ($2M in green).
+- On the bills scene: "-$5M A YEAR" ($5M in red).
+- On the ruined mansion: "12 YEARS LATER..." then "$40,000,000" with a strikethrough and a big red "$0" under it.
+- Last 3 seconds, at the top in a black box: "MISTAKE #1 OF 5" and smaller "FOLLOW FOR #2".
+
+MUSIC AND SOUND
+- Background music: soft, elegant piano (classy, old-money feel) for the opening and mansion, upbeat light jazz for the party / yacht / spending scenes, a tense ticking-clock feel for the money cards, then slow sad piano from the ruined mansion to the end. If you cannot use a music file, generate a simple piano track with code.
+- Duck the music under every voice (voice always clear, music about 10-15% volume).
+- Sound effects: whoosh on every transition, champagne pop on the party, cash-register "ding" on +$2M, low boom on -$5M and on $0, soft teacup clink when Simone sets the cup down.
+
+EFFECTS
+- Slow zoom-in (Ken Burns) on every shot.
+- Quick white flash at the very start and on the cut to the ending.
+- Slide or whip transitions between scenes (0.3s).
+- Ruined-mansion scene: darker and less colorful (desaturated) to feel sad.
+- Fade out at the very end.
+
+Before rendering, list the clips you received with their length and what you will put on each. After rendering, show me 4-6 still frames so I can check the subtitles and cards, then give me the download link.

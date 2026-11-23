@@ -1,0 +1,246 @@
+############################################################
+@IAMRAYBOAZ ENGLISH
+############################################################
+
+--- Personagem: prompt de imagem (faz primeiro) ---
+Photorealistic character reference sheet for an AI influencer, high-end studio photography, 85mm lens, soft key light, natural skin texture with pores, realistic hair, real fabric. RAY, a Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes with smile lines, dark navy denim work jacket over a grey t-shirt, jeans, brown work boots, gold wedding ring, holding a black coffee mug. Front, 3/4, side and back view; underneath 5 expressions: warm smile, serious, emotional with teary eyes, laughing, thoughtful. Neutral seamless studio cream background, no text. Same person in every view, consistent face.
+
+--- Prompt negativo ---
+cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin, doll-like face, waxy, oversaturated, text, letters, watermark, logo, blurry, extra fingers, deformed hands, distorted face, extra limbs, cropped head, low quality
+
+=== Vídeo 1 · I almost lost her at 53 ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sits at his kitchen table in the early morning, holding a coffee mug with both hands, looking at the viewer with a serious, emotional face. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sits at his kitchen table in the early morning, holding a coffee mug with both hands, looking at the viewer with a serious, emotional face. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Thirty-six years married. And I almost lost her at fifty-three." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 The road ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray as a younger man (around 50, darker beard) driving a big rig truck at night on an empty highway, dashboard light on his tired face, a photo of his wife tucked by the mirror. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+Ray as a younger man (around 50, darker beard) driving a big rig truck at night on an empty highway, dashboard light on his tired face, a photo of his wife tucked by the mirror. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 Home ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. A woman in her 50s sitting alone at a dinner table set for two, the other plate untouched, looking at the clock. Medium shot, warm but lonely light.
+
+--- Prompt de animação (narração por cima) ---
+A woman in her 50s sitting alone at a dinner table set for two, the other plate untouched, looking at the clock. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 4 The letter ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Younger Ray standing in a quiet kitchen holding an open letter (no readable text), shocked, his truck keys on the counter. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+Younger Ray standing in a quiet kitchen holding an open letter (no readable text), shocked, his truck keys on the counter. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 5 Lesson ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) back at the kitchen table today, taking his glasses off, looking at the viewer. Medium close-up.
+
+--- Prompt de vídeo com fala ---
+Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) back at the kitchen table today, taking his glasses off, looking at the viewer. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Providing isn't the same as being there. Follow, I'll tell you how we fixed it." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa ---
+Thirty-six years married. And I almost lost her at fifty-three.
+I was on the road three weeks out of four. I called it providing.
+She called it being alone.
+One day I came home to a letter. She wasn't gone yet. But she was ready to go.
+Providing isn't the same as being there. Follow, I'll tell you how we fixed it.
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @iamrayboaz. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): LOST, MARRIED, LISTEN, HOME, PHONE, SORRY, LOVE, YEARS, ALMOST.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft acoustic guitar, country / folk, emotional, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "I almost lost my wife at 53. Here's what happened."
+Scene 1: "Thirty-six years married. And I almost lost her at fifty-three."  [card: 36 YEARS]
+Scene 2: "I was on the road three weeks out of four. I called it providing."
+Scene 3: "She called it being alone."
+Scene 4: "One day I came home to a letter. She wasn't gone yet. But she was ready to go."
+Scene 5: "Providing isn't the same as being there. Follow, I'll tell you how we fixed it."  [card: PART 2]
+
+--- Legenda do post ---
+I almost lost my wife at 53. Here's what happened.
+
+#marriageadvice #relationshipadvice #marriage #love #truckerlife
+
+=== Vídeo 2 · 3 things I'd tell my younger self ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sits on a porch swing at sunset holding up three fingers, slight smile. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sits on a porch swing at sunset holding up three fingers, slight smile. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Three things I'd tell my younger self about marriage." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 One ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) leans forward on the porch, gesturing with his hand, serious caring face. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) leans forward on the porch, gesturing with his hand, serious caring face. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "One: listen to understand, not to answer back." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 3 Two ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. A couple in their 50s at a kitchen counter, the man putting his phone face down in a drawer and turning to his wife, who smiles in surprise. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+A couple in their 50s at a kitchen counter, the man putting his phone face down in a drawer and turning to his wife, who smiles in surprise. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 4 Three ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. The same man holding flowers awkwardly at the front door, apologetic face, his wife with arms crossed starting to smile. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+The same man holding flowers awkwardly at the front door, apologetic face, his wife with arms crossed starting to smile. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 5 Lesson ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) on the porch swing, a woman's hand resting on his shoulder from off-screen, he smiles at the viewer. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) on the porch swing, a woman's hand resting on his shoulder from off-screen, he smiles at the viewer. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Which one does your relationship need most? Tell me below." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa ---
+Three things I'd tell my younger self about marriage.
+One: listen to understand, not to answer back.
+Two: put the phone down when she talks. She notices.
+Three: say sorry first. Being right is lonely.
+Which one does your relationship need most? Tell me below.
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @iamrayboaz. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): LOST, MARRIED, LISTEN, HOME, PHONE, SORRY, LOVE, YEARS, ALMOST.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft acoustic guitar, country / folk, emotional, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "3 things I'd tell my younger self about marriage"
+Scene 1: "Three things I'd tell my younger self about marriage."
+Scene 2: "One: listen to understand, not to answer back."  [card: 1. LISTEN]
+Scene 3: "Two: put the phone down when she talks. She notices."  [card: 2. PHONE DOWN]
+Scene 4: "Three: say sorry first. Being right is lonely."  [card: 3. SAY SORRY FIRST]
+Scene 5: "Which one does your relationship need most? Tell me below."
+
+--- Legenda do post ---
+3 things I'd tell my younger self about marriage
+
+#marriageadvice #relationshipadvice #marriage #love #truckerlife
+
+=== Vídeo 3 · The 10-minute rule ===
+
+=== Cena 1 Hook ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) at the kitchen table holding a small old kitchen timer, looking at the viewer. Medium shot.
+
+--- Prompt de vídeo com fala ---
+Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) at the kitchen table holding a small old kitchen timer, looking at the viewer. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Ten minutes a day saved my marriage. Here's the rule." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Cena 2 The rule ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. A couple in their 50s sitting on a sofa facing each other, a kitchen timer on the coffee table, phones in a bowl on the side. Medium shot, warm evening light.
+
+--- Prompt de animação (narração por cima) ---
+A couple in their 50s sitting on a sofa facing each other, a kitchen timer on the coffee table, phones in a bowl on the side. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 3 The question ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. The woman talking with her hands while the man listens closely, nodding. Medium close-up.
+
+--- Prompt de animação (narração por cima) ---
+The woman talking with her hands while the man listens closely, nodding. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 4 The change ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Montage-style shot: the same couple laughing together in the kitchen, cooking side by side. Medium shot.
+
+--- Prompt de animação (narração por cima) ---
+Montage-style shot: the same couple laughing together in the kitchen, cooking side by side. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 5 Lesson ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sets the timer down and smiles at the viewer. Medium close-up.
+
+--- Prompt de vídeo com fala ---
+Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sets the timer down and smiles at the viewer. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Try it tonight. Ten minutes. Then come back and tell me how it went." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
+
+=== Extras ===
+
+--- Narração completa ---
+Ten minutes a day saved my marriage. Here's the rule.
+Every night, ten minutes. No phones. No TV. Just us.
+One question: what was the best and the hardest part of your day?
+The first week felt awkward. By the third, we were talking like we used to.
+Try it tonight. Ten minutes. Then come back and tell me how it went.
+
+--- Prompt de edição ---
+You are my video editor. I am uploading the clips for an animated Instagram/TikTok Reel for my page @iamrayboaz. Use code (Python / ffmpeg) to edit them into ONE finished MP4 I can download. If clips are missing, edit what I uploaded and tell me which scenes are missing.
+
+FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, keeping faces inside the frame. Trim silences and dead frames. Remove any AI watermark. Fast pace, no shot longer than about 5 seconds without a zoom or cut.
+
+SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): LOST, MARRIED, LISTEN, HOME, PHONE, SORRY, LOVE, YEARS, ALMOST.
+
+TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+
+MUSIC AND SOUND: soft acoustic guitar, country / folk, emotional, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
+
+EFFECTS: slow zoom-in on every shot, 0.3s slide transitions, a quick flash on the hook, fade out at the end.
+
+Before rendering, list the clips and what goes on each. After rendering, show me 4-6 still frames, then give me the download link.
+
+SCRIPT:
+Hook: "The 10-minute rule that saved my marriage"
+Scene 1: "Ten minutes a day saved my marriage. Here's the rule."  [card: 10 MINUTES]
+Scene 2: "Every night, ten minutes. No phones. No TV. Just us."
+Scene 3: "One question: what was the best and the hardest part of your day?"  [card: BEST + HARDEST]
+Scene 4: "The first week felt awkward. By the third, we were talking like we used to."
+Scene 5: "Try it tonight. Ten minutes. Then come back and tell me how it went."  [card: TRY IT TONIGHT]
+
+--- Legenda do post ---
+The 10-minute rule that saved my marriage
+
+#marriageadvice #relationshipadvice #marriage #love #truckerlife
