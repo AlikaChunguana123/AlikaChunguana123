@@ -10,13 +10,13 @@ cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin
 
 === Vídeo 1 · A regra do envelope / The envelope rule ===
 
-=== Cena 1 Cena 0 · Selo de cera ===
+=== Cena 1 Cena 0 · Traição no funeral ===
 
 --- Prompt de imagem ---
-Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Extreme close-up, candlelight in a dark library: Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s hands slowly break the red wax seal of an old cream envelope, the wax cracking, her breath held. Tension, silence.
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Funeral reception in a grand old house, black dresses and lilies: a man in a dark suit secretly slides a sealed cream envelope with a red wax seal into his inside jacket pocket; in a gilded mirror behind him, Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in black, with pearls, sees everything. Her eyes harden.
 
 --- Prompt de animação (narração por cima) ---
-Extreme close-up, candlelight in a dark library: Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s hands slowly break the red wax seal of an old cream envelope, the wax cracking, her breath held. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+Funeral reception in a grand old house, black dresses and lilies: a man in a dark suit secretly slides a sealed cream envelope with a red wax seal into his inside jacket pocket; in a gilded mirror behind him, Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in black, with pearls, sees everything. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
 === Cena 2 Hook ===
 
@@ -70,7 +70,7 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 === Extras ===
 
 --- Narração completa (PT) ---
-Este envelope só foi aberto três vezes em sessenta anos.
+O meu próprio irmão tentou roubar este envelope no funeral da minha avó.
 A minha avó deu-me um envelope e uma regra. Três gerações depois, ainda a seguimos.
 Sempre que entra dinheiro, antes de gastares um cêntimo, uma parte vai para o envelope.
 Dez por cento. Não o que sobra no fim do mês. Primeiro.
@@ -94,7 +94,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "A minha avó deu-me uma regra sobre dinheiro."
-Scene 1: "Este envelope só foi aberto três vezes em sessenta anos."  [card: 3 VEZES EM 60 ANOS]
+Scene 1: "O meu próprio irmão tentou roubar este envelope no funeral da minha avó."  [card: O MEU IRMÃO…]
 Scene 2: "A minha avó deu-me um envelope e uma regra. Três gerações depois, ainda a seguimos."  [card: 1 ENVELOPE · 1 REGRA]
 Scene 3: "Sempre que entra dinheiro, antes de gastares um cêntimo, uma parte vai para o envelope."
 Scene 4: "Dez por cento. Não o que sobra no fim do mês. Primeiro."  [card: 10% PRIMEIRO]
@@ -102,7 +102,7 @@ Scene 5: "A maioria poupa o que sobra. O dinheiro antigo gasta o que sobra."
 Scene 6: "Faz isto com o teu próximo salário. Comenta 'ENVELOPE' se começas este mês."  [card: COMENTA: ENVELOPE]
 
 --- Narration (EN) ---
-This envelope has been opened only three times in sixty years.
+My own brother tried to steal this envelope at our grandmother's funeral.
 My grandmother gave me one envelope and one rule. Three generations later, we still follow it.
 Every time money comes in, before you spend a single cent, one part goes in the envelope.
 Ten percent. Not what's left at the end of the month. First.
@@ -126,7 +126,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "My grandmother gave me one rule about money."
-Scene 1: "This envelope has been opened only three times in sixty years."  [card: 3 VEZES EM 60 ANOS]
+Scene 1: "My own brother tried to steal this envelope at our grandmother's funeral."  [card: O MEU IRMÃO…]
 Scene 2: "My grandmother gave me one envelope and one rule. Three generations later, we still follow it."  [card: 1 ENVELOPE · 1 REGRA]
 Scene 3: "Every time money comes in, before you spend a single cent, one part goes in the envelope."
 Scene 4: "Ten percent. Not what's left at the end of the month. First."  [card: 10% PRIMEIRO]
@@ -140,13 +140,13 @@ A minha avó deu-me uma regra sobre dinheiro. / My grandmother gave me one rule 
 
 === Vídeo 2 · A regra das 72 horas / The 72-hour rule ===
 
-=== Cena 1 Cena 0 · Um segundo ===
+=== Cena 1 Cena 0 · A melhor amiga ===
 
 --- Prompt de imagem ---
-Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Close-up in a luxury boutique: Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s hand holding a black card hovers one centimetre above a glowing payment terminal; she freezes, eyes narrowing. The saleswoman waits.
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Luxury boutique: while Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) admires a handbag in the mirror, behind her back her best friend secretly takes folded banknotes from the smiling saleswoman and hides them in her purse.
 
 --- Prompt de animação (narração por cima) ---
-Close-up in a luxury boutique: Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s hand holding a black card hovers one centimetre above a glowing payment terminal; she freezes, eyes narrowing. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+Luxury boutique: while Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) admires a handbag in the mirror, behind her back her best friend secretly takes folded banknotes from the smiling saleswoman and hides them in her purse.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
 === Cena 2 Hook ===
 
@@ -203,7 +203,7 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 === Extras ===
 
 --- Narração completa (PT) ---
-Estava a um segundo de pagar. Depois lembrei-me da minha regra.
+A minha melhor amiga insistiu para eu comprar. Depois descobri que ela ganhava comissão.
 Nunca compro nada acima de quinhentos euros no mesmo dia em que o vejo.
 Saio da loja. E dou-lhe setenta e duas horas.
 Se depois de três dias ainda o quero, e cabe no plano, compro. A pronto.
@@ -227,7 +227,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Nunca compro nada caro no mesmo dia."
-Scene 1: "Estava a um segundo de pagar. Depois lembrei-me da minha regra."  [card: 1 SEGUNDO…]
+Scene 1: "A minha melhor amiga insistiu para eu comprar. Depois descobri que ela ganhava comissão."  [card: ELA GANHAVA COMISSÃO]
 Scene 2: "Nunca compro nada acima de quinhentos euros no mesmo dia em que o vejo."  [card: +500 = ESPERA]
 Scene 3: "Saio da loja. E dou-lhe setenta e duas horas."  [card: 72 HORAS]
 Scene 4: "Se depois de três dias ainda o quero, e cabe no plano, compro. A pronto."
@@ -235,7 +235,7 @@ Scene 5: "Na maioria das vezes? Já nem me lembro que existia."
 Scene 6: "O impulso sai caro, querida. A paciência é grátis. Experimenta esta semana."  [card: EXPERIMENTA 7 DIAS]
 
 --- Narration (EN) ---
-I was one second away from paying. Then I remembered my rule.
+My best friend begged me to buy it. Then I found out she was getting a commission.
 I never buy anything over five hundred on the same day I see it.
 I walk out. And I give it seventy-two hours.
 If after three days I still want it, and it fits the plan, I buy it. In cash.
@@ -259,7 +259,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "I never buy anything expensive on the same day."
-Scene 1: "I was one second away from paying. Then I remembered my rule."  [card: 1 SEGUNDO…]
+Scene 1: "My best friend begged me to buy it. Then I found out she was getting a commission."  [card: ELA GANHAVA COMISSÃO]
 Scene 2: "I never buy anything over five hundred on the same day I see it."  [card: +500 = ESPERA]
 Scene 3: "I walk out. And I give it seventy-two hours."  [card: 72 HORAS]
 Scene 4: "If after three days I still want it, and it fits the plan, I buy it. In cash."
@@ -273,13 +273,13 @@ Nunca compro nada caro no mesmo dia. / I never buy anything expensive on the sam
 
 === Vídeo 3 · O meu carro tem 12 anos / My car is 12 years old ===
 
-=== Cena 1 Cena 0 · O arrumador ===
+=== Cena 1 Cena 0 · O noivo ===
 
 --- Prompt de imagem ---
-Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Night, red carpet outside a gala: a young valet in a uniform laughs and smirks at Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s old dark-green sedan while guests in gowns arrive in new supercars; Simone steps out calmly.
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Night, rain, in front of a grand stone mansion: an elegant man in a tuxedo looks at Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s old dark-green sedan, snaps a ring box shut, and walks away without looking back; Simone stands frozen in the rain.
 
 --- Prompt de animação (narração por cima) ---
-Night, red carpet outside a gala: a young valet in a uniform laughs and smirks at Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s old dark-green sedan while guests in gowns arrive in new supercars; Simone steps out calmly.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+Night, rain, in front of a grand stone mansion: an elegant man in a tuxedo looks at Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s old dark-green sedan, snaps a ring box shut, and walks away without looking back; Simone stands frozen in the rain.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
 === Cena 2 Hook ===
 
@@ -333,7 +333,7 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 === Extras ===
 
 --- Narração completa (PT) ---
-O arrumador riu-se do meu carro. Não sabia quem eu era.
+O meu noivo deixou-me quando viu o carro que eu conduzia. Achou que eu era pobre.
 Podia comprar o carro que quisesse. Conduzo este há doze anos.
 O dinheiro novo compra o carro para ser visto.
 E esse carro perde valor no momento em que sai do stand.
@@ -357,7 +357,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Podia comprar qualquer carro. Conduzo este."
-Scene 1: "O arrumador riu-se do meu carro. Não sabia quem eu era."  [card: ELE RIU-SE]
+Scene 1: "O meu noivo deixou-me quando viu o carro que eu conduzia. Achou que eu era pobre."  [card: ELE DEIXOU-ME]
 Scene 2: "Podia comprar o carro que quisesse. Conduzo este há doze anos."  [card: 12 ANOS]
 Scene 3: "O dinheiro novo compra o carro para ser visto."
 Scene 4: "E esse carro perde valor no momento em que sai do stand."  [card: VALOR ↓]
@@ -365,7 +365,7 @@ Scene 5: "O meu carro leva-me onde preciso. O meu dinheiro fica onde pode cresce
 Scene 6: "Rico não é o que conduzes. É o que guardas. Quantos anos tem o teu carro?"  [card: QUANTOS ANOS TEM O TEU?]
 
 --- Narration (EN) ---
-The valet laughed at my car. He had no idea who I was.
+My fiancé left me when he saw the car I drove. He thought I was poor.
 I could buy any car I want. I've driven this one for twelve years.
 New money buys the car to be seen.
 And that car loses value the moment it leaves the lot.
@@ -389,7 +389,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "I could buy any car. I drive this one."
-Scene 1: "The valet laughed at my car. He had no idea who I was."  [card: ELE RIU-SE]
+Scene 1: "My fiancé left me when he saw the car I drove. He thought I was poor."  [card: ELE DEIXOU-ME]
 Scene 2: "I could buy any car I want. I've driven this one for twelve years."  [card: 12 ANOS]
 Scene 3: "New money buys the car to be seen."
 Scene 4: "And that car loses value the moment it leaves the lot."  [card: VALOR ↓]
@@ -403,13 +403,13 @@ Podia comprar qualquer carro. Conduzo este. / I could buy any car. I drive this 
 
 === Vídeo 4 · 3 coisas que o dinheiro antigo nunca diz / 3 things old money never says ===
 
-=== Cena 1 Cena 0 · Silêncio ===
+=== Cena 1 Cena 0 · Vendida aos jornais ===
 
 --- Prompt de imagem ---
-Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Garden tea party: a woman in a big hat leans toward Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) and asks something; every guest at the table freezes mid-sip and turns to stare at Simone. Dead silence, a teacup trembling on a saucer.
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Garden tea party: a smiling friend secretly records Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) under the table with her phone; cut to the next morning, a newspaper with Simone's photo on the front page thrown onto her breakfast table (no readable text). Simone's teacup stops mid-air.
 
 --- Prompt de animação (narração por cima) ---
-Garden tea party: a woman in a big hat leans toward Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) and asks something; every guest at the table freezes mid-sip and turns to stare at Simone. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+Garden tea party: a smiling friend secretly records Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) under the table with her phone; cut to the next morning, a newspaper with Simone's photo on the front page thrown onto her breakfast table (no readable text). Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
 === Cena 2 Hook ===
 
@@ -469,7 +469,7 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 === Extras ===
 
 --- Narração completa (PT) ---
-Ela fez a única pergunta a que o dinheiro antigo nunca responde.
+Ela sorria à minha mesa. Depois vendeu os meus segredos aos jornais.
 Três coisas que o dinheiro antigo nunca diz em voz alta.
 Um: o preço. Nunca dizemos quanto custou.
 Dois: 'não tenho dinheiro'. Dizemos: 'não é prioridade'.
@@ -493,7 +493,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "3 coisas que o dinheiro antigo nunca diz."
-Scene 1: "Ela fez a única pergunta a que o dinheiro antigo nunca responde."  [card: SILÊNCIO…]
+Scene 1: "Ela sorria à minha mesa. Depois vendeu os meus segredos aos jornais."  [card: TRAIÇÃO]
 Scene 2: "Três coisas que o dinheiro antigo nunca diz em voz alta."  [card: 3 COISAS]
 Scene 3: "Um: o preço. Nunca dizemos quanto custou."  [card: 1. O PREÇO]
 Scene 4: "Dois: 'não tenho dinheiro'. Dizemos: 'não é prioridade'."  [card: 2. NÃO É PRIORIDADE]
@@ -501,7 +501,7 @@ Scene 5: "Três: quanto temos. A riqueza sussurra."  [card: 3. A RIQUEZA SUSSURR
 Scene 6: "Dinheiro barulhento vai-se depressa. Dinheiro discreto fica. Qual é o teu?"
 
 --- Narration (EN) ---
-She asked the one question old money never answers.
+She smiled at my table. Then she sold my secrets to the press.
 Three things old money never says out loud.
 One: the price. We never say what something cost.
 Two: 'I can't afford it.' We say: 'It's not a priority.'
@@ -525,7 +525,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "3 things old money never says out loud."
-Scene 1: "She asked the one question old money never answers."  [card: SILÊNCIO…]
+Scene 1: "She smiled at my table. Then she sold my secrets to the press."  [card: TRAIÇÃO]
 Scene 2: "Three things old money never says out loud."  [card: 3 COISAS]
 Scene 3: "One: the price. We never say what something cost."  [card: 1. O PREÇO]
 Scene 4: "Two: 'I can't afford it.' We say: 'It's not a priority.'"  [card: 2. NÃO É PRIORIDADE]
@@ -539,13 +539,13 @@ Scene 6: "Loud money leaves fast. Quiet money stays. Which one is yours?"
 
 === Vídeo 5 · A pergunta do meu pai / My father's one question ===
 
-=== Cena 1 Cena 0 · O pai ===
+=== Cena 1 Cena 0 · Assinatura falsa ===
 
 --- Prompt de imagem ---
-Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. 1980s flashback, dim study: a stern elegant father slams a leather ledger shut on a mahogany desk; an 18-year-old Simone with dark curls stares at him, furious, tears in her eyes.
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Night, dark study lit by one desk lamp: a man's hand carefully copies a signature onto a bank document with a gold fountain pen; behind him, a framed photo of Simone's father; the door creaks open and light falls on his face.
 
 --- Prompt de animação (narração por cima) ---
-1980s flashback, dim study: a stern elegant father slams a leather ledger shut on a mahogany desk; an 18-year-old Simone with dark curls stares at him, furious, tears in her eyes.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+Night, dark study lit by one desk lamp: a man's hand carefully copies a signature onto a bank document with a gold fountain pen; behind him, a framed photo of Simone's father; the door creaks open and light falls on his face.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
 === Cena 2 Hook ===
 
@@ -599,7 +599,7 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 === Extras ===
 
 --- Narração completa (PT) ---
-O meu pai recusou-se a comprar-me um carro. Aos dezoito odiei-o. Aos quarenta agradeci-lhe.
+O meu tio falsificou a assinatura do meu pai para esvaziar a conta da família.
 Antes de cada compra, o meu pai fazia uma pergunta.
 'Isto põe dinheiro no meu bolso… ou tira?'
 Um apartamento arrendado põe dinheiro. Uma mota de água que usas duas vezes por ano tira.
@@ -623,7 +623,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Antes de cada compra, o meu pai fazia uma pergunta."
-Scene 1: "O meu pai recusou-se a comprar-me um carro. Aos dezoito odiei-o. Aos quarenta agradeci-lhe."  [card: AOS 18 ODIEI-O]
+Scene 1: "O meu tio falsificou a assinatura do meu pai para esvaziar a conta da família."  [card: ASSINATURA FALSA]
 Scene 2: "Antes de cada compra, o meu pai fazia uma pergunta."
 Scene 3: "'Isto põe dinheiro no meu bolso… ou tira?'"  [card: PÕE OU TIRA?]
 Scene 4: "Um apartamento arrendado põe dinheiro. Uma mota de água que usas duas vezes por ano tira."
@@ -631,7 +631,7 @@ Scene 5: "É essa a diferença entre um ativo e um passivo."  [card: ATIVO vs PA
 Scene 6: "Faz a pergunta dele antes da próxima compra. Segue para mais regras da nossa família."  [card: SEGUE ✨]
 
 --- Narration (EN) ---
-My father refused to buy me a car. At eighteen I hated him. At forty I thanked him.
+My uncle forged my father's signature to empty the family account.
 Before every purchase, my father asked one question.
 'Does this put money in my pocket… or take it out?'
 A flat you rent out puts money in. A jet ski you use twice a year takes it out.
@@ -655,7 +655,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Before every purchase, my father asked one question."
-Scene 1: "My father refused to buy me a car. At eighteen I hated him. At forty I thanked him."  [card: AOS 18 ODIEI-O]
+Scene 1: "My uncle forged my father's signature to empty the family account."  [card: ASSINATURA FALSA]
 Scene 2: "Before every purchase, my father asked one question."
 Scene 3: "'Does this put money in my pocket… or take it out?'"  [card: PÕE OU TIRA?]
 Scene 4: "A flat you rent out puts money in. A jet ski you use twice a year takes it out."

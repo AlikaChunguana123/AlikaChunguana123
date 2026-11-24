@@ -10,13 +10,13 @@ cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin
 
 === Vídeo 1 · A águia criada pelas galinhas / The eagle raised by chickens ===
 
-=== Cena 1 Cena 0 · O ovo ===
+=== Cena 1 Cena 0 · Ovo roubado ===
 
 --- Prompt de imagem ---
-Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Dark barn at dawn, macro shot: a large eagle egg in a straw nest among small chicken eggs starts to crack; three hens lean in and stare at it in silence.
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Night on a high cliff: a farmer's hand reaches into an empty eagle nest and steals a large egg; moments later the mother bald eagle lands and screams at the empty nest, wings spread in the moonlight.
 
 --- Prompt de animação (narração por cima) ---
-Dark barn at dawn, macro shot: a large eagle egg in a straw nest among small chicken eggs starts to crack; three hens lean in and stare at it in silence.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+Night on a high cliff: a farmer's hand reaches into an empty eagle nest and steals a large egg; moments later the mother bald eagle lands and screams at the empty nest, wings spread in the moonlight.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
 === Cena 2 Hook ===
 
@@ -69,7 +69,7 @@ the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp gold
 === Extras ===
 
 --- Narração completa (PT) ---
-Este ovo não devia estar aqui.
+Roubaram-lhe o ovo enquanto a mãe caçava.
 Uma águia viveu a vida inteira a pensar que era uma galinha.
 Um agricultor pôs o ovo dela no ninho das galinhas.
 Ela cresceu a ciscar o chão, como as outras.
@@ -94,7 +94,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Uma águia viveu a vida inteira a pensar que era galinha."
-Scene 1: "Este ovo não devia estar aqui."  [card: NÃO DEVIA ESTAR AQUI / NEVER SUPPOSED TO BE HERE]
+Scene 1: "Roubaram-lhe o ovo enquanto a mãe caçava."  [card: ROUBADO / STOLEN]
 Scene 2: "Uma águia viveu a vida inteira a pensar que era uma galinha."
 Scene 3: "Um agricultor pôs o ovo dela no ninho das galinhas."
 Scene 4: "Ela cresceu a ciscar o chão, como as outras."
@@ -103,7 +103,7 @@ Scene 6: "Até ao dia em que abriu as asas."
 Scene 7: "Às vezes não te falta talento. Falta-te sair do bando. Segue para o dia 1 do Mind Reset."  [card: DIA 1 / DAY 1]
 
 --- Narration (EN) ---
-This egg was never supposed to be here.
+They stole his egg while his mother was hunting.
 An eagle lived his whole life thinking he was a chicken.
 A farmer placed his egg in a chicken's nest.
 He grew up pecking the ground, like the others.
@@ -128,7 +128,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "An eagle lived his whole life thinking he was a chicken."
-Scene 1: "This egg was never supposed to be here."  [card: NÃO DEVIA ESTAR AQUI / NEVER SUPPOSED TO BE HERE]
+Scene 1: "They stole his egg while his mother was hunting."  [card: ROUBADO / STOLEN]
 Scene 2: "An eagle lived his whole life thinking he was a chicken."
 Scene 3: "A farmer placed his egg in a chicken's nest."
 Scene 4: "He grew up pecking the ground, like the others."
@@ -143,13 +143,13 @@ Uma águia viveu a vida inteira a pensar que era galinha. / An eagle lived his w
 
 === Vídeo 2 · Acima da tempestade / Above the storm ===
 
-=== Cena 1 Cena 0 · Relâmpago ===
+=== Cena 1 Cena 0 · Trancado lá fora ===
 
 --- Prompt de imagem ---
-Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Night storm on a cliff: a lightning bolt strikes close by, chickens scatter into the dark; in the flash of light, a bald eagle on the cliff edge slowly opens its eyes.
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Storm at night: chickens slam the wooden door of the coop shut and lock it, leaving a young soaked eagle outside in the pouring rain; a lightning flash lights up his face.
 
 --- Prompt de animação (narração por cima) ---
-Night storm on a cliff: a lightning bolt strikes close by, chickens scatter into the dark; in the flash of light, a bald eagle on the cliff edge slowly opens its eyes.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+Storm at night: chickens slam the wooden door of the coop shut and lock it, leaving a young soaked eagle outside in the pouring rain; a lightning flash lights up his face.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
 === Cena 2 Hook ===
 
@@ -194,7 +194,7 @@ the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp gold
 === Extras ===
 
 --- Narração completa (PT) ---
-Toda a gente fugiu. Menos um.
+As galinhas fecharam a porta… com ele lá fora.
 Quando vem a tempestade, as galinhas escondem-se.
 Fecham-se no galinheiro e esperam que passe.
 A águia faz outra coisa. Abre as asas e usa o vento.
@@ -218,7 +218,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Quando vem a tempestade, a águia não foge."
-Scene 1: "Toda a gente fugiu. Menos um."  [card: MENOS UM / EXCEPT ONE]
+Scene 1: "As galinhas fecharam a porta… com ele lá fora."  [card: TRANCADO LÁ FORA / LOCKED OUT]
 Scene 2: "Quando vem a tempestade, as galinhas escondem-se."
 Scene 3: "Fecham-se no galinheiro e esperam que passe."
 Scene 4: "A águia faz outra coisa. Abre as asas e usa o vento."  [card: USA O VENTO / USE THE WIND]
@@ -226,7 +226,7 @@ Scene 5: "E sobe até ficar acima da tempestade."
 Scene 6: "O problema que te assusta pode ser o vento que te faz subir."
 
 --- Narration (EN) ---
-Everyone ran. Except one.
+The chickens locked the door… with him still outside.
 When the storm comes, the chickens hide.
 They lock themselves in the coop and wait.
 The eagle does something else. He opens his wings and uses the wind.
@@ -250,7 +250,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "When the storm comes, the eagle doesn't run."
-Scene 1: "Everyone ran. Except one."  [card: MENOS UM / EXCEPT ONE]
+Scene 1: "The chickens locked the door… with him still outside."  [card: TRANCADO LÁ FORA / LOCKED OUT]
 Scene 2: "When the storm comes, the chickens hide."
 Scene 3: "They lock themselves in the coop and wait."
 Scene 4: "The eagle does something else. He opens his wings and uses the wind."  [card: USA O VENTO / USE THE WIND]
@@ -264,13 +264,13 @@ Quando vem a tempestade, a águia não foge. / When the storm comes, the eagle d
 
 === Vídeo 3 · Galinhas gastam, águias investem / Chickens spend, eagles invest ===
 
-=== Cena 1 Cena 0 · Janeiro ===
+=== Cena 1 Cena 0 · Ladrões ===
 
 --- Prompt de imagem ---
-Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Blizzard in a farmyard: a shivering chicken pecks at a completely empty, frozen feeder; snow covers everything; wind howling.
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Snowy night: a group of chickens sneak up the rocks to the eagle's nest and start stealing corn from his storage box, looking around guiltily; the eagle's amber eye opens in the dark.
 
 --- Prompt de animação (narração por cima) ---
-Blizzard in a farmyard: a shivering chicken pecks at a completely empty, frozen feeder; snow covers everything; wind howling.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+Snowy night: a group of chickens sneak up the rocks to the eagle's nest and start stealing corn from his storage box, looking around guiltily; the eagle's amber eye opens in the dark.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
 === Cena 2 Hook ===
 
@@ -315,7 +315,7 @@ the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp gold
 === Extras ===
 
 --- Narração completa (PT) ---
-Em janeiro, metade do galinheiro passou fome.
+No inverno, as galinhas que se riam dele vieram roubar-lhe a comida.
 Porque é que as galinhas nunca têm milho no inverno?
 No verão, comem tudo o que apanham. Cada grão.
 A águia guarda uma parte. Sempre. Mesmo quando é pouco.
@@ -339,7 +339,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Porque é que as galinhas nunca têm milho no inverno?"
-Scene 1: "Em janeiro, metade do galinheiro passou fome."  [card: JANEIRO / JANUARY]
+Scene 1: "No inverno, as galinhas que se riam dele vieram roubar-lhe a comida."  [card: LADRÕES / THIEVES]
 Scene 2: "Porque é que as galinhas nunca têm milho no inverno?"
 Scene 3: "No verão, comem tudo o que apanham. Cada grão."  [card: GASTAM TUDO / SPEND IT ALL]
 Scene 4: "A águia guarda uma parte. Sempre. Mesmo quando é pouco."  [card: POUPA PRIMEIRO / SAVE FIRST]
@@ -347,7 +347,7 @@ Scene 5: "Chega o inverno. As galinhas passam fome."  [card: INVERNO / WINTER]
 Scene 6: "Não é o que ganhas. É o que guardas antes de gastar. Paga-te a ti primeiro."  [card: PAGA-TE PRIMEIRO / PAY YOURSELF FIRST]
 
 --- Narration (EN) ---
-By January, half the coop was starving.
+In winter, the chickens who laughed at him came to steal his food.
 Why do chickens never have corn in winter?
 In summer, they eat everything they find. Every grain.
 The eagle saves a part. Always. Even when it's little.
@@ -371,7 +371,7 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Why do chickens never have corn in winter?"
-Scene 1: "By January, half the coop was starving."  [card: JANEIRO / JANUARY]
+Scene 1: "In winter, the chickens who laughed at him came to steal his food."  [card: LADRÕES / THIEVES]
 Scene 2: "Why do chickens never have corn in winter?"
 Scene 3: "In summer, they eat everything they find. Every grain."  [card: GASTAM TUDO / SPEND IT ALL]
 Scene 4: "The eagle saves a part. Always. Even when it's little."  [card: POUPA PRIMEIRO / SAVE FIRST]
