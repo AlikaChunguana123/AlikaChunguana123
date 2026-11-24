@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SproutWise Pricing & Store</title>
+  <meta name="description" content="Affordable plans and business toolkits for small businesses.">
+  <meta name="theme-color" content="#0F4C5C">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="nav"><div class="wrap">
+    <a class="brand" href="index.html"><img src="icon.svg" alt=""><b>Sprout<span>Wise</span></b></a>
+    <div class="nav-links"><a href="index.html">Home</a><a class="btn" href="app.html">Open app</a></div>
+  </div></nav>
+
+  <section><div class="wrap">
+    <div class="section-title"><h1>Simple, affordable plans</h1><p>Start free. Upgrade when SproutWise is making you money. Cancel any time.</p></div>
+    <div class="toggle"><button id="m" class="on">Monthly</button><button id="y">Yearly (2 months free)</button></div>
+    <div class="grid" id="plans"></div>
+  </div></section>
+
+  <section class="band"><div class="wrap">
+    <div class="section-title"><h2>Business Toolkit Store</h2><p>Ready-to-use kits, customised for your sector. Pay once, keep forever.</p></div>
+    <div class="grid" id="products"></div>
+  </div></section>
+
+  <section><div class="wrap">
+    <div class="section-title"><h2>Questions</h2></div>
+    <div class="grid">
+      <div class="card"><h3>What counts as a "consultation"?</h3><p>One question and its full answer, including follow-ups in the same conversation for 24 hours.</p></div>
+      <div class="card"><h3>Can I pay in local currency?</h3><p>Yes. Checkout converts automatically, and regional pricing is available in many countries.</p></div>
+      <div class="card"><h3>Is my data private?</h3><p>Your business details are used only to answer your questions. We never sell your data.</p></div>
+      <div class="card"><h3>Discounts?</h3><p>50% off for students, women-led startups in year one, and members of partner business associations.</p></div>
+    </div>
+  </div></section>
+
+  <footer><div class="wrap"><span>© SproutWise</span><span>Prices in USD. Taxes may apply.</span></div></footer>
+
+  <script>
+    // Checkout links: paste your Stripe Payment Links (or Paystack/Flutterwave/M-Pesa links) here.
+    const CHECKOUT = {
+      starter_m: '#', starter_y: '#', growth_m: '#', growth_y: '#', pro_m: '#', pro_y: '#',
+      kit_plan: '#', kit_marketing: '#', kit_pitch: '#', kit_finance: '#', kit_brand: '#', expert_call: '#'
+    };
+    const PLANS = [
+      { id: 'free', name: 'Seed', m: 0, y: 0, blurb: 'Try it out', feats: ['5 consultations / month', 'All 13 sectors', 'Offline tip library', 'Install as phone app'], cta: 'Start free', href: 'app.html' },
+      { id: 'starter', name: 'Sprout', m: 5, y: 50, blurb: 'For solo owners', feats: ['50 consultations / month', 'Saved business profile', '30-day marketing plan generator', 'Email support'] },
+      { id: 'growth', name: 'Bloom', m: 12, y: 120, blurb: 'For growing teams', featured: true, feats: ['Unlimited consultations*', 'Pricing & cash-flow calculators', 'Monthly growth check-in report', 'Up to 3 team members', '1 free toolkit per quarter'] },
+      { id: 'pro', name: 'Harvest', m: 29, y: 290, blurb: 'For multi-location businesses', feats: ['Everything in Bloom', 'Up to 10 team members & locations', 'Quarterly 30-min call with a human advisor', 'Priority support', 'All toolkits included'] }
+    ];
+    const PRODUCTS = [
+      { id: 'kit_plan', icon: '📘', name: 'Business Plan Kit', price: 15, desc: 'Fill-in business plan template + AI review for your sector. Bank and investor-ready.' },
+      { id: 'kit_marketing', icon: '📅', name: '90-Day Marketing Calendar', price: 9, desc: 'Daily post ideas, captions and promotions for your sector and local holidays.' },
+      { id: 'kit_pitch', icon: '🎤', name: 'Pitch Deck Template', price: 12, desc: '10-slide deck for loans, grants and investors, with example wording.' },
+      { id: 'kit_finance', icon: '📊', name: 'Money Tracker Spreadsheet', price: 7, desc: 'Sales, costs, profit and break-even in one simple sheet. Works offline.' },
+      { id: 'kit_brand', icon: '🎨', name: 'Mini Brand Kit', price: 19, desc: 'AI-assisted logo concepts, colour palette and social media templates for your business.' },
+      { id: 'expert_call', icon: '🧑‍💼', name: '45-min Expert Session', price: 29, desc: 'Video call with a vetted small-business advisor to review your plan.' }
+    ];
+    let period = 'm';
+    function render() {
+      document.getElementById('plans').innerHTML = PLANS.map(p => {
+        const price = p[period], unit = period === 'm' ? '/month' : '/year';
+        const href = p.href || CHECKOUT[`${p.id}_${period}`];
+        return `<div class="card plan ${p.featured ? 'featured' : ''}">
+          <h3>${p.name}</h3><p class="note">${p.blurb}</p>
+          <div class="price">$${price}<small>${price ? unit : ' forever'}</small></div>
+          <ul>${p.feats.map(f => `<li>${f}</li>`).join('')}</ul>
+          <a class="btn ${p.featured ? '' : 'teal'}" href="${href}">${p.cta || 'Choose ' + p.name}</a>
+        </div>`;
+      }).join('') + '<p class="note">*Fair use applies.</p>';
+    }
+    document.getElementById('products').innerHTML = PRODUCTS.map(p => `
+      <div class="card"><div class="icon">${p.icon}</div><h3>${p.name}</h3><p>${p.desc}</p>
+      <div class="price">$${p.price}</div><a class="btn" href="${CHECKOUT[p.id]}">Buy now</a></div>`).join('');
+    for (const id of ['m', 'y']) document.getElementById(id).onclick = () => {
+      period = id; document.getElementById('m').classList.toggle('on', id === 'm');
+      document.getElementById('y').classList.toggle('on', id === 'y'); render();
+    };
+    render();
+  </script>
+</body>
+</html>

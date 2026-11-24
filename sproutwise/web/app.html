@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SproutWise Advisor</title>
+  <meta name="theme-color" content="#0F4C5C">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="nav"><div class="wrap">
+    <a class="brand" href="index.html"><img src="icon.svg" alt=""><b>Sprout<span>Wise</span></b></a>
+    <div class="nav-links"><a href="store.html">Plans</a><button class="btn secondary" id="install" hidden>Install app</button></div>
+  </div></nav>
+
+  <main class="app">
+    <aside class="card">
+      <h3>Your business</h3>
+      <label for="bizName">Business name</label>
+      <input id="bizName" placeholder="e.g. Mama's Bakery">
+      <label for="sector">Sector</label>
+      <select id="sector"></select>
+      <label for="location">City / country</label>
+      <input id="location" placeholder="e.g. Nairobi, Kenya">
+      <label for="stage">Stage</label>
+      <select id="stage">
+        <option>Just an idea</option><option>Starting (under 1 year)</option>
+        <option>Running (1–3 years)</option><option>Established (3+ years)</option>
+      </select>
+      <label for="size">Team size</label>
+      <select id="size"><option>Just me</option><option>2–5 people</option><option>6–20 people</option><option>20+ people</option></select>
+      <label for="challenge">Biggest challenge right now</label>
+      <textarea id="challenge" placeholder="e.g. Not enough customers on weekdays"></textarea>
+      <p class="note">Saved on this device only.</p>
+    </aside>
+
+    <section class="card chat" aria-label="Consultation">
+      <div class="topics" id="topics"></div>
+      <div class="messages" id="messages" aria-live="polite"></div>
+      <div class="quick" id="quick"></div>
+      <form class="composer" id="form">
+        <textarea id="q" rows="2" placeholder="Ask anything about your business…" required></textarea>
+        <button class="btn" id="send">Ask</button>
+      </form>
+      <p class="note" id="status"></p>
+    </section>
+  </main>
+
+  <script src="sectors.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

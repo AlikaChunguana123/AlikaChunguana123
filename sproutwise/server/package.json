@@ -1,0 +1,14 @@
+{
+  "name": "sproutwise-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "SproutWise AI business advisor: web server and AI advice API",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.13.0"
+  }
+}

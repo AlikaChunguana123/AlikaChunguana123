@@ -1,0 +1,97 @@
+:root {
+  --teal: #0F4C5C; --green: #3FB27F; --amber: #F2A541;
+  --cream: #FAF7F0; --ink: #1B2631; --mist: #E3EBEA; --white: #fff;
+  --radius: 16px; --shadow: 0 6px 24px rgba(15, 76, 92, .10);
+  --bg: var(--cream); --card: var(--white); --text: var(--ink); --muted: #4E5D6A;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #0B2229; --card: #12323B; --text: #EEF3F2; --muted: #A9BCBF; --mist: #1E4650; }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { font-family: Inter, "Segoe UI", Roboto, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+h1, h2, h3 { font-family: Poppins, "Segoe UI", Arial, sans-serif; line-height: 1.2; margin: 0 0 .5em; }
+a { color: inherit; }
+img { max-width: 100%; }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+
+/* Nav */
+.nav { position: sticky; top: 0; z-index: 10; background: var(--bg); border-bottom: 1px solid var(--mist); }
+.nav .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px; height: 64px; }
+.brand { display: flex; align-items: center; gap: 8px; font-family: Poppins, sans-serif; font-weight: 700; font-size: 1.25rem; text-decoration: none; }
+.brand img { width: 36px; height: 36px; }
+.brand span { color: var(--green); }
+.nav-links { display: flex; gap: 18px; align-items: center; }
+.nav-links a { text-decoration: none; font-weight: 500; }
+@media (max-width: 640px) { .nav-links a:not(.btn) { display: none; } }
+
+/* Buttons */
+.btn { display: inline-block; padding: 12px 22px; border-radius: 999px; border: 0; font-weight: 600; font-size: 1rem; cursor: pointer; text-decoration: none; background: var(--amber); color: var(--ink); transition: transform .15s; }
+.btn:hover { transform: translateY(-1px); }
+.btn.secondary { background: transparent; color: var(--text); border: 2px solid var(--green); }
+.btn.teal { background: var(--teal); color: var(--cream); }
+.btn:disabled { opacity: .5; cursor: not-allowed; }
+
+/* Sections */
+section { padding: 64px 0; }
+.hero { padding: 72px 0 56px; }
+.hero .wrap { display: grid; grid-template-columns: 1.2fr 1fr; gap: 40px; align-items: center; }
+.hero h1 { font-size: clamp(2rem, 5vw, 3.2rem); }
+.hero h1 em { font-style: normal; color: var(--green); }
+.hero p.lead { font-size: 1.15rem; color: var(--muted); }
+.hero .cta { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px; }
+.hero-card { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); padding: 20px; }
+.bubble { padding: 12px 16px; border-radius: 14px; margin: 8px 0; max-width: 90%; }
+.bubble.user { background: var(--teal); color: var(--cream); margin-left: auto; border-bottom-right-radius: 4px; }
+.bubble.ai { background: var(--mist); border-bottom-left-radius: 4px; }
+@media (max-width: 800px) { .hero .wrap { grid-template-columns: 1fr; } }
+
+.section-title { text-align: center; max-width: 680px; margin: 0 auto 36px; }
+.section-title p { color: var(--muted); }
+.grid { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.card { background: var(--card); border-radius: var(--radius); padding: 24px; box-shadow: var(--shadow); }
+.card .icon { font-size: 2rem; }
+.sector-chips { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.chip { background: var(--card); border: 1px solid var(--mist); padding: 8px 14px; border-radius: 999px; font-weight: 500; }
+.band { background: var(--teal); color: var(--cream); }
+.band .section-title p { color: #CFE3E1; }
+
+/* Pricing & store */
+.price { font-family: Poppins, sans-serif; font-size: 2.2rem; font-weight: 700; color: var(--teal); }
+@media (prefers-color-scheme: dark) { .price { color: var(--green); } }
+.price small { font-size: 1rem; color: var(--muted); font-weight: 500; }
+.plan { display: flex; flex-direction: column; }
+.plan ul { padding-left: 1.1em; flex: 1; }
+.plan.featured { border: 3px solid var(--amber); position: relative; }
+.plan.featured::before { content: "Most popular"; position: absolute; top: -14px; left: 20px; background: var(--amber); color: var(--ink); font-size: .8rem; font-weight: 700; padding: 2px 10px; border-radius: 999px; }
+.toggle { display: flex; justify-content: center; gap: 8px; margin-bottom: 24px; }
+.toggle button { padding: 8px 16px; border-radius: 999px; border: 2px solid var(--teal); background: transparent; color: var(--text); cursor: pointer; font-weight: 600; }
+.toggle button.on { background: var(--teal); color: var(--cream); }
+
+footer { padding: 32px 0; border-top: 1px solid var(--mist); color: var(--muted); font-size: .9rem; }
+footer .wrap { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+
+/* App */
+.app { display: grid; grid-template-columns: 300px 1fr; gap: 20px; padding: 20px 16px; max-width: 1200px; margin: 0 auto; }
+@media (max-width: 860px) { .app { grid-template-columns: 1fr; } }
+label { display: block; font-weight: 600; font-size: .9rem; margin: 12px 0 4px; }
+input, select, textarea { width: 100%; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--mist); background: var(--bg); color: var(--text); font: inherit; }
+textarea { resize: vertical; min-height: 56px; }
+.topics { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px; }
+.topics button { padding: 6px 12px; border-radius: 999px; border: 1px solid var(--green); background: transparent; color: var(--text); cursor: pointer; font: inherit; font-size: .9rem; }
+.topics button.on { background: var(--green); color: var(--ink); }
+.chat { display: flex; flex-direction: column; min-height: 70vh; }
+.messages { flex: 1; overflow-y: auto; padding: 4px; }
+.messages .bubble { white-space: pre-wrap; }
+.composer { display: flex; gap: 8px; margin-top: 12px; }
+.composer textarea { flex: 1; }
+.note { font-size: .85rem; color: var(--muted); }
+.quick { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
+.quick button { font: inherit; font-size: .85rem; padding: 6px 10px; border-radius: 10px; border: 1px dashed var(--teal); background: transparent; color: var(--text); cursor: pointer; text-align: left; }
+
+/* Fixes: readable cards on dark bands, line breaks in example chat, chat first on phones */
+.band .card { background: rgba(255, 255, 255, .08); color: var(--cream); box-shadow: none; border: 1px solid rgba(255, 255, 255, .15); }
+.hero-card .bubble { white-space: pre-line; }
+.brand b { font-weight: 700; }
+@media (max-width: 860px) { .app aside { order: 2; } .chat { min-height: 60vh; } }
+.band .price { color: var(--amber); }

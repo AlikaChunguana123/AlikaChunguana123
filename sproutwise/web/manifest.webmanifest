@@ -1,0 +1,12 @@
+{
+  "name": "SproutWise: AI Business Advisor",
+  "short_name": "SproutWise",
+  "description": "Affordable AI business advice for small businesses, by sector.",
+  "start_url": "app.html",
+  "display": "standalone",
+  "background_color": "#FAF7F0",
+  "theme_color": "#0F4C5C",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

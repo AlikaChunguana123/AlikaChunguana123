@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="SproutWise mark">
+  <!-- Speech bubble = consultation -->
+  <path d="M64 10c-30 0-54 21-54 48 0 15 7 28 19 37l-5 21 22-12c6 2 12 2 18 2 30 0 54-21 54-48S94 10 64 10z" fill="#0F4C5C"/>
+  <!-- Sprout = growth -->
+  <path d="M64 92V58" stroke="#FAF7F0" stroke-width="7" stroke-linecap="round"/>
+  <path d="M64 62c0-16-11-26-27-26 0 16 11 26 27 26z" fill="#3FB27F"/>
+  <path d="M64 54c0-14 10-23 25-23 0 14-10 23-25 23z" fill="#3FB27F"/>
+  <!-- Sun spark = idea -->
+  <circle cx="92" cy="30" r="7" fill="#F2A541"/>
+</svg>
