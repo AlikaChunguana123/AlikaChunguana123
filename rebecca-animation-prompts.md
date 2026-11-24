@@ -20,7 +20,20 @@ cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin
 ## Video 1 · Força é liberdade
 **Hook text:** 64 anos. Ninguém carrega isto por mim 💪
 
-### Scene 1 · Hook
+### Scene 1 · Cena 0 · A queda
+**Line:** Há quatro anos, caí na cozinha. E ninguém ouviu.  
+**Card:** 4 ANOS ATRÁS…
+
+Image prompt:
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic hair, believable fabric, warm natural Brazilian countryside sunlight, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Early morning kitchen, dim blue light: close-up of a broken coffee cup on the tiled floor, then Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) sitting on the floor, one hand gripping the edge of the counter, trying to pull herself up, determined face. Warm natural lighting.
+```
+Video prompt:
+```
+Early morning kitchen, dim blue light: close-up of a broken coffee cup on the tiled floor, then Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) sitting on the floor, one hand gripping the edge of the counter, trying to pull herself up, determined face.. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+### Scene 2 · Hook
 **Line:** Tenho 64 anos… e ninguém carrega isto por mim.
 
 Image prompt:
@@ -32,7 +45,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) walks confidently toward the camera along a neat stone path doing a farmer's carry with two heavy black kettlebells, one in each hand, arms straight, strong posture, proud self-assured smile, the look of a woman who owns everything around her. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Tenho 64 anos… e ninguém carrega isto por mim." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 2 · A pergunta
+### Scene 3 · A pergunta
 **Line:** Sabes o que mais tira a independência a uma mulher depois dos 60? Não é a idade.
 
 Image prompt:
@@ -44,7 +57,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) stands on the shaded veranda of her modern farmhouse next to large glass doors and potted plants, hands on hips, one eyebrow raised, looking straight at the viewer. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Sabes o que mais tira a independência a uma mulher depois dos 60? Não é a idade." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 3 · O problema
+### Scene 4 · O problema
 **Line:** É perder força. Levantar de uma cadeira fica difícil. Subir escadas também.  
 **Card:** O músculo vai-se se não o usares
 
@@ -57,7 +70,7 @@ Video prompt:
 A 66-year-old Brazilian woman with short grey hair and a floral dress struggles to stand up from a low, soft sofa in a cozy living room, pushing on the armrest with effort, frustrated expression; an adult daughter in her 30s reaches out a hand to help. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-### Scene 4 · Agachamento na cadeira
+### Scene 5 · Agachamento na cadeira
 **Line:** Por isso, todos os dias: sento e levanto da cadeira. Dez vezes.  
 **Card:** 10x por dia
 
@@ -70,7 +83,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) on her shaded veranda doing a chair squat in front of a rattan chair, wearing her smartwatch: lowering herself onto the chair with arms stretched forward, then standing up, focused determined expression. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Por isso, todos os dias: sento e levanto da cadeira. Dez vezes." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 5 · Trabalho da quinta
+### Scene 6 · Trabalho da quinta
 **Line:** Levanto caixas da minha colheita, trato da horta, subo a colina. O meu ginásio é a quinta.
 
 Image prompt:
@@ -82,7 +95,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) lifts a wooden crate full of her own ripe mangoes and loads it into the back of her modern pickup truck, strong and smiling, a second crate already inside. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Levanto caixas da minha colheita, trato da horta, subo a colina. O meu ginásio é a quinta." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 6 · Lição
+### Scene 7 · Lição
 **Line:** Força não é vaidade, minha querida. É liberdade. Segue para o hábito número dois.  
 **Card:** Hábito nº1 · Força
 
@@ -97,6 +110,7 @@ Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile line
 
 ### Full voiceover
 ```
+Há quatro anos, caí na cozinha. E ninguém ouviu.
 Tenho 64 anos… e ninguém carrega isto por mim.
 Sabes o que mais tira a independência a uma mulher depois dos 60? Não é a idade.
 É perder força. Levantar de uma cadeira fica difícil. Subir escadas também.
@@ -112,7 +126,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps, MP4. Crop horizontal clips to vertical
 
 SUBTITLES (in Portuguese, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen, pop-in animation. Keywords in GREEN (#2FA84F) for positive words (FORÇA, LIBERDADE, SAÚDE, PROTEÍNA, EQUILÍBRIO, TODOS OS DIAS) and RED (#E5202B) for warnings (IDADE, QUEDA, DIETAS, MENTIRA, SEM ENERGIA).
 
-TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
 
 MUSIC AND SOUND: upbeat, warm Brazilian acoustic music (light bossa nova / acoustic guitar) at about 10-15% volume, ducked under the voice. Soft nature sounds (birds, rooster at sunrise). Whoosh on transitions, a soft "pop" when each card appears.
 
@@ -122,12 +136,13 @@ Before rendering, list the clips you received and what goes on each. After rende
 
 SCRIPT:
 Hook text: "64 anos. Ninguém carrega isto por mim 💪"
-Scene 1: "Tenho 64 anos… e ninguém carrega isto por mim."
-Scene 2: "Sabes o que mais tira a independência a uma mulher depois dos 60? Não é a idade."
-Scene 3: "É perder força. Levantar de uma cadeira fica difícil. Subir escadas também."  [card: O músculo vai-se se não o usares]
-Scene 4: "Por isso, todos os dias: sento e levanto da cadeira. Dez vezes."  [card: 10x por dia]
-Scene 5: "Levanto caixas da minha colheita, trato da horta, subo a colina. O meu ginásio é a quinta."
-Scene 6: "Força não é vaidade, minha querida. É liberdade. Segue para o hábito número dois."  [card: Hábito nº1 · Força]
+Scene 1: "Há quatro anos, caí na cozinha. E ninguém ouviu."  [card: 4 ANOS ATRÁS…]
+Scene 2: "Tenho 64 anos… e ninguém carrega isto por mim."
+Scene 3: "Sabes o que mais tira a independência a uma mulher depois dos 60? Não é a idade."
+Scene 4: "É perder força. Levantar de uma cadeira fica difícil. Subir escadas também."  [card: O músculo vai-se se não o usares]
+Scene 5: "Por isso, todos os dias: sento e levanto da cadeira. Dez vezes."  [card: 10x por dia]
+Scene 6: "Levanto caixas da minha colheita, trato da horta, subo a colina. O meu ginásio é a quinta."
+Scene 7: "Força não é vaidade, minha querida. É liberdade. Segue para o hábito número dois."  [card: Hábito nº1 · Força]
 ```
 
 
@@ -136,7 +151,20 @@ Scene 6: "Força não é vaidade, minha querida. É liberdade. Segue para o háb
 ## Video 2 · Comida de verdade
 **Hook text:** A minha vizinha fez 10 dietas. Eu não fiz nenhuma.
 
-### Scene 1 · Hook
+### Scene 1 · Cena 0 · 7h da manhã
+**Line:** A minha vizinha ligou-me a chorar às sete da manhã.  
+**Card:** 7H DA MANHÃ…
+
+Image prompt:
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic hair, believable fabric, warm natural Brazilian countryside sunlight, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Dawn, mist over the farm: Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) answers a ringing phone on her veranda in her robe, her face turning worried as she listens. Warm natural lighting.
+```
+Video prompt:
+```
+Dawn, mist over the farm: Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) answers a ringing phone on her veranda in her robe, her face turning worried as she listens.. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+### Scene 2 · Hook
 **Line:** A minha vizinha Lúcia já fez dez dietas. Eu nunca fiz nenhuma.  
 **Card:** 10 dietas
 
@@ -149,7 +177,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) in her bright modern farmhouse kitchen with blue-and-white tiles, a large island and copper pans, terracotta pots and hanging garlic, leaning on the wooden counter with a knowing smile, looking at the viewer. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "A minha vizinha Lúcia já fez dez dietas. Eu nunca fiz nenhuma." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 2 · A Lúcia
+### Scene 3 · A Lúcia
 **Line:** Cortou o pão, cortou o arroz, cortou quase tudo… e ficou sem energia.
 
 Image prompt:
@@ -161,7 +189,7 @@ Video prompt:
 Lúcia, a 65-year-old Brazilian woman with curly grey hair, glasses and a yellow blouse, sits tired at her kitchen table in front of a tiny plate with three lettuce leaves, a bathroom scale on the floor and a stack of diet books, sighing. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-### Scene 3 · Os ovos
+### Scene 4 · Os ovos
 **Line:** Eu? Como comida de verdade. Ovos das minhas galinhas.
 
 Image prompt:
@@ -173,7 +201,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) collects brown eggs from a neat painted chicken coop into a woven basket, hens around her feet, morning sun through the slats, smiling. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Eu? Como comida de verdade. Ovos das minhas galinhas." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 4 · O prato
+### Scene 5 · O prato
 **Line:** Arroz, feijão, legumes da horta, fruta… e proteína em todas as refeições.  
 **Card:** Proteína em cada refeição
 
@@ -186,7 +214,7 @@ Video prompt:
 Top-down view of a colorful plate on a elegant wooden table on her veranda: white rice, black beans, two fried eggs, sautéed greens, sliced tomato, and a bowl of mango slices on the side; a glass of water; sunlight and leaf shadows.. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-### Scene 5 · Juntas
+### Scene 6 · Juntas
 **Line:** Agora a Lúcia cozinha comigo às quintas-feiras.
 
 Image prompt:
@@ -198,7 +226,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) and Lúcia (65, curly grey hair, glasses, yellow blouse) cook together in Rebecca's farmhouse kitchen, stirring a big pot of beans, both laughing. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Agora a Lúcia cozinha comigo às quintas-feiras." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 6 · Lição
+### Scene 7 · Lição
 **Line:** Não é sobre comer menos. É sobre comer bem. Alimenta a tua força.  
 **Card:** Hábito nº2 · Comer bem
 
@@ -213,6 +241,7 @@ Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile line
 
 ### Full voiceover
 ```
+A minha vizinha ligou-me a chorar às sete da manhã.
 A minha vizinha Lúcia já fez dez dietas. Eu nunca fiz nenhuma.
 Cortou o pão, cortou o arroz, cortou quase tudo… e ficou sem energia.
 Eu? Como comida de verdade. Ovos das minhas galinhas.
@@ -228,7 +257,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps, MP4. Crop horizontal clips to vertical
 
 SUBTITLES (in Portuguese, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen, pop-in animation. Keywords in GREEN (#2FA84F) for positive words (FORÇA, LIBERDADE, SAÚDE, PROTEÍNA, EQUILÍBRIO, TODOS OS DIAS) and RED (#E5202B) for warnings (IDADE, QUEDA, DIETAS, MENTIRA, SEM ENERGIA).
 
-TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
 
 MUSIC AND SOUND: upbeat, warm Brazilian acoustic music (light bossa nova / acoustic guitar) at about 10-15% volume, ducked under the voice. Soft nature sounds (birds, rooster at sunrise). Whoosh on transitions, a soft "pop" when each card appears.
 
@@ -238,12 +267,13 @@ Before rendering, list the clips you received and what goes on each. After rende
 
 SCRIPT:
 Hook text: "A minha vizinha fez 10 dietas. Eu não fiz nenhuma."
-Scene 1: "A minha vizinha Lúcia já fez dez dietas. Eu nunca fiz nenhuma."  [card: 10 dietas]
-Scene 2: "Cortou o pão, cortou o arroz, cortou quase tudo… e ficou sem energia."
-Scene 3: "Eu? Como comida de verdade. Ovos das minhas galinhas."
-Scene 4: "Arroz, feijão, legumes da horta, fruta… e proteína em todas as refeições."  [card: Proteína em cada refeição]
-Scene 5: "Agora a Lúcia cozinha comigo às quintas-feiras."
-Scene 6: "Não é sobre comer menos. É sobre comer bem. Alimenta a tua força."  [card: Hábito nº2 · Comer bem]
+Scene 1: "A minha vizinha ligou-me a chorar às sete da manhã."  [card: 7H DA MANHÃ…]
+Scene 2: "A minha vizinha Lúcia já fez dez dietas. Eu nunca fiz nenhuma."  [card: 10 dietas]
+Scene 3: "Cortou o pão, cortou o arroz, cortou quase tudo… e ficou sem energia."
+Scene 4: "Eu? Como comida de verdade. Ovos das minhas galinhas."
+Scene 5: "Arroz, feijão, legumes da horta, fruta… e proteína em todas as refeições."  [card: Proteína em cada refeição]
+Scene 6: "Agora a Lúcia cozinha comigo às quintas-feiras."
+Scene 7: "Não é sobre comer menos. É sobre comer bem. Alimenta a tua força."  [card: Hábito nº2 · Comer bem]
 ```
 
 
@@ -252,7 +282,20 @@ Scene 6: "Não é sobre comer menos. É sobre comer bem. Alimenta a tua força."
 ## Video 3 · Um dia na minha quinta
 **Hook text:** Um dia na minha quinta aos 64 ☀️
 
-### Scene 1 · Nascer do sol
+### Scene 1 · Cena 0 · Antes de tudo
+**Line:** Às seis da manhã, faço uma coisa antes de tudo. E não é café.  
+**Card:** NÃO É CAFÉ
+
+Image prompt:
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic hair, believable fabric, warm natural Brazilian countryside sunlight, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Pitch-dark bedroom at 5:59, a clock glowing, then Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals)'s eyes open instantly; she throws back the sheet with energy. Warm natural lighting.
+```
+Video prompt:
+```
+Pitch-dark bedroom at 5:59, a clock glowing, then Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals)'s eyes open instantly; she throws back the sheet with energy.. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+### Scene 2 · Nascer do sol
 **Line:** Acordo com o sol. Sem despertador.  
 **Card:** 6h00
 
@@ -265,7 +308,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) opens the sky-blue wooden shutters of her farmhouse window at sunrise, golden light on her face, stretching her arms, gentle smile. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Acordo com o sol. Sem despertador." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 2 · Água
+### Scene 3 · Água
 **Line:** Primeiro, um copo de água.
 
 Image prompt:
@@ -277,7 +320,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) on her veranda drinking a tall glass of water, misty green hills at dawn behind her, a rooster on the fence. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Primeiro, um copo de água." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 3 · Alongar
+### Scene 4 · Alongar
 **Line:** Dez minutos a alongar o corpo.
 
 Image prompt:
@@ -289,7 +332,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) stretching in her garden, both arms raised high, eyes closed, peaceful expression, dew on the plants, soft morning light. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Dez minutos a alongar o corpo." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 4 · Caminhada
+### Scene 5 · Caminhada
 **Line:** Caminho meia hora pela quinta.  
 **Card:** 30 min
 
@@ -302,7 +345,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) walks briskly along a red-earth path between banana trees with a friendly brown farm dog trotting beside her, smiling. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Caminho meia hora pela quinta." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 5 · Horta
+### Scene 6 · Horta
 **Line:** Mexo na terra. Faz bem ao corpo e à cabeça.
 
 Image prompt:
@@ -314,7 +357,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) kneels in a vegetable bed, hands in dark soil, planting seedlings, content smile, stylish sun hat and garden gloves beside her. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Mexo na terra. Faz bem ao corpo e à cabeça." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 6 · Descanso
+### Scene 7 · Descanso
 **Line:** À tarde, descanso sem culpa.
 
 Image prompt:
@@ -326,7 +369,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) relaxes in a colorful striped hammock on the veranda in the afternoon, reading a book, a glass of lemonade on a small table. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "À tarde, descanso sem culpa." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 7 · Jantar
+### Scene 8 · Jantar
 **Line:** E à noite… nunca como sozinha.
 
 Image prompt:
@@ -338,7 +381,7 @@ Video prompt:
 Evening at the farm: a long wooden table under string lights in front of a white farmhouse, a group of neighbours in their 50s to 70s sharing food and laughing, Rebecca in her headwrap at the center raising a glass. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-### Scene 8 · Lição
+### Scene 9 · Lição
 **Line:** A saúde não está num frasco. Está nos teus dias.
 
 Image prompt:
@@ -352,6 +395,7 @@ Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile line
 
 ### Full voiceover
 ```
+Às seis da manhã, faço uma coisa antes de tudo. E não é café.
 Acordo com o sol. Sem despertador.
 Primeiro, um copo de água.
 Dez minutos a alongar o corpo.
@@ -369,7 +413,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps, MP4. Crop horizontal clips to vertical
 
 SUBTITLES (in Portuguese, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen, pop-in animation. Keywords in GREEN (#2FA84F) for positive words (FORÇA, LIBERDADE, SAÚDE, PROTEÍNA, EQUILÍBRIO, TODOS OS DIAS) and RED (#E5202B) for warnings (IDADE, QUEDA, DIETAS, MENTIRA, SEM ENERGIA).
 
-TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
 
 MUSIC AND SOUND: upbeat, warm Brazilian acoustic music (light bossa nova / acoustic guitar) at about 10-15% volume, ducked under the voice. Soft nature sounds (birds, rooster at sunrise). Whoosh on transitions, a soft "pop" when each card appears.
 
@@ -379,14 +423,15 @@ Before rendering, list the clips you received and what goes on each. After rende
 
 SCRIPT:
 Hook text: "Um dia na minha quinta aos 64 ☀️"
-Scene 1: "Acordo com o sol. Sem despertador."  [card: 6h00]
-Scene 2: "Primeiro, um copo de água."
-Scene 3: "Dez minutos a alongar o corpo."
-Scene 4: "Caminho meia hora pela quinta."  [card: 30 min]
-Scene 5: "Mexo na terra. Faz bem ao corpo e à cabeça."
-Scene 6: "À tarde, descanso sem culpa."
-Scene 7: "E à noite… nunca como sozinha."
-Scene 8: "A saúde não está num frasco. Está nos teus dias."
+Scene 1: "Às seis da manhã, faço uma coisa antes de tudo. E não é café."  [card: NÃO É CAFÉ]
+Scene 2: "Acordo com o sol. Sem despertador."  [card: 6h00]
+Scene 3: "Primeiro, um copo de água."
+Scene 4: "Dez minutos a alongar o corpo."
+Scene 5: "Caminho meia hora pela quinta."  [card: 30 min]
+Scene 6: "Mexo na terra. Faz bem ao corpo e à cabeça."
+Scene 7: "À tarde, descanso sem culpa."
+Scene 8: "E à noite… nunca como sozinha."
+Scene 9: "A saúde não está num frasco. Está nos teus dias."
 ```
 
 
@@ -395,7 +440,20 @@ Scene 8: "A saúde não está num frasco. Está nos teus dias."
 ## Video 4 · O teste da cegonha
 **Hook text:** Consegues ficar numa perna só 10 segundos? 🦩
 
-### Scene 1 · Hook
+### Scene 1 · Cena 0 · Dez segundos
+**Line:** Este teste de dez segundos diz muito sobre o teu corpo.  
+**Card:** TESTA AGORA
+
+Image prompt:
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic hair, believable fabric, warm natural Brazilian countryside sunlight, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Extreme close-up of Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals)'s bare foot on wooden boards, wobbling slightly as she balances on one leg; a glass of water on the table beside her trembles. Warm natural lighting.
+```
+Video prompt:
+```
+Extreme close-up of Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals)'s bare foot on wooden boards, wobbling slightly as she balances on one leg; a glass of water on the table beside her trembles.. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+### Scene 2 · Hook
 **Line:** Consegues ficar numa perna só durante dez segundos?  
 **Card:** 10 segundos
 
@@ -408,7 +466,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) stands on one leg on her shaded veranda, arms stretched out to the sides for balance, playful confident smile, looking at the viewer. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Consegues ficar numa perna só durante dez segundos?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 2 · Porquê
+### Scene 3 · Porquê
 **Line:** Depois dos 60, o equilíbrio vale ouro. Uma queda pode mudar tudo.
 
 Image prompt:
@@ -420,7 +478,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) sits on the veranda steps, leaning forward, serious caring expression, talking to the viewer. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Depois dos 60, o equilíbrio vale ouro. Uma queda pode mudar tudo." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 3 · Começa assim
+### Scene 4 · Começa assim
 **Line:** Começa assim: segura-te numa cadeira.  
 **Card:** Com apoio
 
@@ -433,7 +491,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) stands behind a wooden chair holding the backrest with one hand while lifting one foot off the ground, calm focused face, demonstrating safely. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Começa assim: segura-te numa cadeira." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 4 · Escovar os dentes
+### Scene 5 · Escovar os dentes
 **Line:** Eu faço enquanto lavo os dentes.
 
 Image prompt:
@@ -445,7 +503,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) brushes her teeth at a modern bathroom sink with a round mirror while standing on one leg, eyes looking sideways at the viewer with a funny wink. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Eu faço enquanto lavo os dentes." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 5 · Linha reta
+### Scene 6 · Linha reta
 **Line:** E caminho em linha reta: calcanhar, ponta, calcanhar, ponta.
 
 Image prompt:
@@ -457,7 +515,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) walks heel-to-toe along a straight line of flat stones in her garden, arms slightly out, concentrating. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "E caminho em linha reta: calcanhar, ponta, calcanhar, ponta." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 6 · Lição
+### Scene 7 · Lição
 **Line:** Faz isto todos os dias, sempre perto de um apoio. O teu corpo agradece.  
 **Card:** Hábito nº3 · Equilíbrio
 
@@ -472,6 +530,7 @@ Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile line
 
 ### Full voiceover
 ```
+Este teste de dez segundos diz muito sobre o teu corpo.
 Consegues ficar numa perna só durante dez segundos?
 Depois dos 60, o equilíbrio vale ouro. Uma queda pode mudar tudo.
 Começa assim: segura-te numa cadeira.
@@ -487,7 +546,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps, MP4. Crop horizontal clips to vertical
 
 SUBTITLES (in Portuguese, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen, pop-in animation. Keywords in GREEN (#2FA84F) for positive words (FORÇA, LIBERDADE, SAÚDE, PROTEÍNA, EQUILÍBRIO, TODOS OS DIAS) and RED (#E5202B) for warnings (IDADE, QUEDA, DIETAS, MENTIRA, SEM ENERGIA).
 
-TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
 
 MUSIC AND SOUND: upbeat, warm Brazilian acoustic music (light bossa nova / acoustic guitar) at about 10-15% volume, ducked under the voice. Soft nature sounds (birds, rooster at sunrise). Whoosh on transitions, a soft "pop" when each card appears.
 
@@ -497,12 +556,13 @@ Before rendering, list the clips you received and what goes on each. After rende
 
 SCRIPT:
 Hook text: "Consegues ficar numa perna só 10 segundos? 🦩"
-Scene 1: "Consegues ficar numa perna só durante dez segundos?"  [card: 10 segundos]
-Scene 2: "Depois dos 60, o equilíbrio vale ouro. Uma queda pode mudar tudo."
-Scene 3: "Começa assim: segura-te numa cadeira."  [card: Com apoio]
-Scene 4: "Eu faço enquanto lavo os dentes."
-Scene 5: "E caminho em linha reta: calcanhar, ponta, calcanhar, ponta."
-Scene 6: "Faz isto todos os dias, sempre perto de um apoio. O teu corpo agradece."  [card: Hábito nº3 · Equilíbrio]
+Scene 1: "Este teste de dez segundos diz muito sobre o teu corpo."  [card: TESTA AGORA]
+Scene 2: "Consegues ficar numa perna só durante dez segundos?"  [card: 10 segundos]
+Scene 3: "Depois dos 60, o equilíbrio vale ouro. Uma queda pode mudar tudo."
+Scene 4: "Começa assim: segura-te numa cadeira."  [card: Com apoio]
+Scene 5: "Eu faço enquanto lavo os dentes."
+Scene 6: "E caminho em linha reta: calcanhar, ponta, calcanhar, ponta."
+Scene 7: "Faz isto todos os dias, sempre perto de um apoio. O teu corpo agradece."  [card: Hábito nº3 · Equilíbrio]
 ```
 
 
@@ -511,7 +571,20 @@ Scene 6: "Faz isto todos os dias, sempre perto de um apoio. O teu corpo agradece
 ## Video 5 · A minha avó Benedita
 **Hook text:** A minha avó subia esta colina aos 90 anos.
 
-### Scene 1 · Hook
+### Scene 1 · Cena 0 · A fotografia
+**Line:** Encontrei esta fotografia no sótão. E percebi o segredo da minha avó.  
+**Card:** O SEGREDO DA AVÓ
+
+Image prompt:
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic hair, believable fabric, warm natural Brazilian countryside sunlight, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Dusty attic, a beam of light: Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) opens an old wooden box and lifts out a sepia photograph, her hand trembling, her eyes filling with tears. Warm natural lighting.
+```
+Video prompt:
+```
+Dusty attic, a beam of light: Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) opens an old wooden box and lifts out a sepia photograph, her hand trembling, her eyes filling with tears.. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+### Scene 2 · Hook
 **Line:** A minha avó Benedita subia esta colina aos noventa anos.  
 **Card:** 90 anos
 
@@ -524,7 +597,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) stands on top of a green hill overlooking her farm far below, wind moving her headwrap, looking at the viewer with a nostalgic smile. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "A minha avó Benedita subia esta colina aos noventa anos." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 2 · Flashback
+### Scene 3 · Flashback
 **Line:** Nunca foi a um ginásio.
 
 Image prompt:
@@ -536,7 +609,7 @@ Video prompt:
 Warm sepia-toned flashback: Benedita, a slim, elegant 90-year-old Black Brazilian woman in a pressed floral Sunday dress, matching headwrap and polished shoes, walking briskly up a green hill path with a wooden walking stick she barely uses, smiling and waving to neighbours, 1970s countryside. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-### Scene 3 · O trabalho
+### Scene 4 · O trabalho
 **Line:** Trabalhava com o corpo todo, todos os dias.
 
 Image prompt:
@@ -548,7 +621,7 @@ Video prompt:
 Sepia flashback: Benedita, the proud owner of the village bakery, kneading bread dough at a large wooden counter in her busy bakery, a framed photo and loaves on shelves behind her, strong arms, focused peaceful face, light through a small window. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-### Scene 4 · A comunidade
+### Scene 5 · A comunidade
 **Line:** E nunca estava sozinha. Ria-se todos os dias.
 
 Image prompt:
@@ -560,7 +633,7 @@ Video prompt:
 Sepia flashback: Benedita laughing loudly with a circle of well-dressed women friends at a festive community lunch in a village square, colourful bunting overhead. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-### Scene 5 · Hoje
+### Scene 6 · Hoje
 **Line:** Eu aprendi com ela.
 
 Image prompt:
@@ -572,7 +645,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) walks up the same red-earth hill path, strong and steady, touching the leaves of a mango tree as she passes. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Eu aprendi com ela." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 6 · Lição
+### Scene 7 · Lição
 **Line:** Mexe-te. Come da terra. Rodeia-te de gente. O resto vem.
 
 Image prompt:
@@ -586,6 +659,7 @@ Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile line
 
 ### Full voiceover
 ```
+Encontrei esta fotografia no sótão. E percebi o segredo da minha avó.
 A minha avó Benedita subia esta colina aos noventa anos.
 Nunca foi a um ginásio.
 Trabalhava com o corpo todo, todos os dias.
@@ -601,7 +675,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps, MP4. Crop horizontal clips to vertical
 
 SUBTITLES (in Portuguese, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen, pop-in animation. Keywords in GREEN (#2FA84F) for positive words (FORÇA, LIBERDADE, SAÚDE, PROTEÍNA, EQUILÍBRIO, TODOS OS DIAS) and RED (#E5202B) for warnings (IDADE, QUEDA, DIETAS, MENTIRA, SEM ENERGIA).
 
-TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
 
 MUSIC AND SOUND: upbeat, warm Brazilian acoustic music (light bossa nova / acoustic guitar) at about 10-15% volume, ducked under the voice. Soft nature sounds (birds, rooster at sunrise). Whoosh on transitions, a soft "pop" when each card appears.
 
@@ -611,12 +685,13 @@ Before rendering, list the clips you received and what goes on each. After rende
 
 SCRIPT:
 Hook text: "A minha avó subia esta colina aos 90 anos."
-Scene 1: "A minha avó Benedita subia esta colina aos noventa anos."  [card: 90 anos]
-Scene 2: "Nunca foi a um ginásio."
-Scene 3: "Trabalhava com o corpo todo, todos os dias."
-Scene 4: "E nunca estava sozinha. Ria-se todos os dias."
-Scene 5: "Eu aprendi com ela."
-Scene 6: "Mexe-te. Come da terra. Rodeia-te de gente. O resto vem."
+Scene 1: "Encontrei esta fotografia no sótão. E percebi o segredo da minha avó."  [card: O SEGREDO DA AVÓ]
+Scene 2: "A minha avó Benedita subia esta colina aos noventa anos."  [card: 90 anos]
+Scene 3: "Nunca foi a um ginásio."
+Scene 4: "Trabalhava com o corpo todo, todos os dias."
+Scene 5: "E nunca estava sozinha. Ria-se todos os dias."
+Scene 6: "Eu aprendi com ela."
+Scene 7: "Mexe-te. Come da terra. Rodeia-te de gente. O resto vem."
 ```
 
 
@@ -625,7 +700,20 @@ Scene 6: "Mexe-te. Come da terra. Rodeia-te de gente. O resto vem."
 ## Video 6 · 3 mentiras sobre envelhecer
 **Hook text:** 3 mentiras que te contaram sobre envelhecer
 
-### Scene 1 · Hook
+### Scene 1 · Cena 0 · Mentira
+**Line:** Disseram-me isto aos sessenta. Era mentira.  
+**Card:** ERA MENTIRA
+
+Image prompt:
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic hair, believable fabric, warm natural Brazilian countryside sunlight, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) slowly tears a glossy magazine page in half on her veranda, staring straight at the camera, unimpressed. Warm natural lighting.
+```
+Video prompt:
+```
+Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) slowly tears a glossy magazine page in half on her veranda, staring straight at the camera, unimpressed.. Photorealistic, natural motion, subtle handheld cinematic camera move. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+### Scene 2 · Hook
 **Line:** Três mentiras que te contaram sobre envelhecer.
 
 Image prompt:
@@ -637,7 +725,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) on her veranda holding up three fingers, raised eyebrow, slightly mischievous smile, looking at the viewer. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Três mentiras que te contaram sobre envelhecer." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 2 · Mentira 1
+### Scene 3 · Mentira 1
 **Line:** Mentira um: é tarde demais para ganhar força. Não é. O corpo responde em qualquer idade.  
 **Card:** ❌ "É tarde demais"
 
@@ -650,7 +738,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) lifts a full metal watering can with one arm, showing her strength, confident grin. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Mentira um: é tarde demais para ganhar força. Não é. O corpo responde em qualquer idade." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 3 · Mentira 2
+### Scene 4 · Mentira 2
 **Line:** Mentira dois: tens de comer como um passarinho. Precisas de comida a sério para manter o músculo.  
 **Card:** ❌ "Come pouco"
 
@@ -663,7 +751,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) sits at an outdoor wooden table with a full colorful plate of rice, beans, eggs and greens, fork in hand, laughing. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Mentira dois: tens de comer como um passarinho. Precisas de comida a sério para manter o músculo." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 4 · Mentira 3
+### Scene 5 · Mentira 3
 **Line:** Mentira três: descansar é ficar parada. Descansar também é dançar e rir.  
 **Card:** ❌ "Fica quieta"
 
@@ -676,7 +764,7 @@ Video prompt:
 Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile lines, colorful headwrap patterned in royal blue, orange and red, small gold hoop earrings, slim strong athletic build, upright confident posture, polished and elegant, smartwatch on her wrist, crisp white linen shirt with sleeves rolled to the elbow, dark navy high-waisted trousers, brown leather belt with brass buckle, brown leather sandals) dances to music with three stylish friends in their 60s at a garden party on her veranda, string lights and drinks on a table, everyone laughing. She looks at the camera and says in a warm, calm, confident older female voice, speaking Portuguese: "Mentira três: descansar é ficar parada. Descansar também é dançar e rir." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, headwrap and outfit as the reference image. No music, no subtitles.
 ```
 
-### Scene 5 · Lição
+### Scene 6 · Lição
 **Line:** Aos sessenta e quatro, nunca me senti tão forte. Segue a tua avó de IA.
 
 Image prompt:
@@ -690,6 +778,7 @@ Rebecca (Black Brazilian woman, 64, deep-brown skin, high cheekbones, smile line
 
 ### Full voiceover
 ```
+Disseram-me isto aos sessenta. Era mentira.
 Três mentiras que te contaram sobre envelhecer.
 Mentira um: é tarde demais para ganhar força. Não é. O corpo responde em qualquer idade.
 Mentira dois: tens de comer como um passarinho. Precisas de comida a sério para manter o músculo.
@@ -704,7 +793,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps, MP4. Crop horizontal clips to vertical
 
 SUBTITLES (in Portuguese, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen, pop-in animation. Keywords in GREEN (#2FA84F) for positive words (FORÇA, LIBERDADE, SAÚDE, PROTEÍNA, EQUILÍBRIO, TODOS OS DIAS) and RED (#E5202B) for warnings (IDADE, QUEDA, DIETAS, MENTIRA, SEM ENERGIA).
 
-TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text at the top in a black box for the first 3 seconds; the short card texts from the script (e.g. "10x por dia") big and centered with a pop-in; at the end, at the top: "Segue para o próximo hábito".
 
 MUSIC AND SOUND: upbeat, warm Brazilian acoustic music (light bossa nova / acoustic guitar) at about 10-15% volume, ducked under the voice. Soft nature sounds (birds, rooster at sunrise). Whoosh on transitions, a soft "pop" when each card appears.
 
@@ -714,9 +803,10 @@ Before rendering, list the clips you received and what goes on each. After rende
 
 SCRIPT:
 Hook text: "3 mentiras que te contaram sobre envelhecer"
-Scene 1: "Três mentiras que te contaram sobre envelhecer."
-Scene 2: "Mentira um: é tarde demais para ganhar força. Não é. O corpo responde em qualquer idade."  [card: ❌ "É tarde demais"]
-Scene 3: "Mentira dois: tens de comer como um passarinho. Precisas de comida a sério para manter o músculo."  [card: ❌ "Come pouco"]
-Scene 4: "Mentira três: descansar é ficar parada. Descansar também é dançar e rir."  [card: ❌ "Fica quieta"]
-Scene 5: "Aos sessenta e quatro, nunca me senti tão forte. Segue a tua avó de IA."
+Scene 1: "Disseram-me isto aos sessenta. Era mentira."  [card: ERA MENTIRA]
+Scene 2: "Três mentiras que te contaram sobre envelhecer."
+Scene 3: "Mentira um: é tarde demais para ganhar força. Não é. O corpo responde em qualquer idade."  [card: ❌ "É tarde demais"]
+Scene 4: "Mentira dois: tens de comer como um passarinho. Precisas de comida a sério para manter o músculo."  [card: ❌ "Come pouco"]
+Scene 5: "Mentira três: descansar é ficar parada. Descansar também é dançar e rir."  [card: ❌ "Fica quieta"]
+Scene 6: "Aos sessenta e quatro, nunca me senti tão forte. Segue a tua avó de IA."
 ```

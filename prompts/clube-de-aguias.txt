@@ -10,7 +10,15 @@ cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin
 
 === Vídeo 1 · A águia criada pelas galinhas / The eagle raised by chickens ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · O ovo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Dark barn at dawn, macro shot: a large eagle egg in a straw nest among small chicken eggs starts to crack; three hens lean in and stare at it in silence.
+
+--- Prompt de animação (narração por cima) ---
+Dark barn at dawn, macro shot: a large eagle egg in a straw nest among small chicken eggs starts to crack; three hens lean in and stare at it in silence.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits in a leather armchair on a rocky mountain peak above the clouds at sunrise, hand on his chin, looking at the viewer. Medium shot.
@@ -18,7 +26,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits in a leather armchair on a rocky mountain peak above the clouds at sunrise, hand on his chin, looking at the viewer. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 2 O ovo ===
+=== Cena 3 O ovo ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. A farmer gently places a large eagle egg among chicken eggs in a straw nest inside a rustic barn, a hen watching curiously. Warm morning light. Medium shot.
@@ -26,7 +34,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A farmer gently places a large eagle egg among chicken eggs in a straw nest inside a rustic barn, a hen watching curiously. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 Entre galinhas ===
+=== Cena 4 Entre galinhas ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. A young eagle (no suit) pecks at grain in a farmyard among chickens, wings folded, looking a little out of place, fence around them. Medium-wide shot.
@@ -34,7 +42,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A young eagle (no suit) pecks at grain in a farmyard among chickens, wings folded, looking a little out of place, fence around them. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 O céu ===
+=== Cena 5 O céu ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. The young eagle in the farmyard looks up in awe at a majestic adult eagle soaring high in a bright blue sky, a chicken next to him shrugging. Low angle shot.
@@ -42,7 +50,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The young eagle in the farmyard looks up in awe at a majestic adult eagle soaring high in a bright blue sky, a chicken next to him shrugging. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 5 O voo ===
+=== Cena 6 O voo ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. The young eagle spreads his huge wings for the first time on top of the barn roof, wind blowing, chickens looking up in shock, then takes off into the sunrise. Dynamic wide shot.
@@ -50,7 +58,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The young eagle spreads his huge wings for the first time on top of the barn roof, wind blowing, chickens looking up in shock, then takes off into the sunrise. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 6 Lição ===
+=== Cena 7 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) stands on the mountain peak with arms crossed, wind moving his feathers, golden sunrise behind him, looking at the viewer. Medium shot.
@@ -61,6 +69,7 @@ the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp gold
 === Extras ===
 
 --- Narração completa (PT) ---
+Este ovo não devia estar aqui.
 Uma águia viveu a vida inteira a pensar que era uma galinha.
 Um agricultor pôs o ovo dela no ninho das galinhas.
 Ela cresceu a ciscar o chão, como as outras.
@@ -75,7 +84,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (PT) + English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ÁGUIA/EAGLE, GALINHAS/CHICKENS, VOAR/FLY, TEMPESTADE/STORM, CÉU/SKY, POUPA/SAVE, INVESTE/INVEST, BANDO/FLOCK, RESET.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: epic, cinematic, inspiring orchestral music (strings + low drums), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -85,14 +94,16 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Uma águia viveu a vida inteira a pensar que era galinha."
-Scene 1: "Uma águia viveu a vida inteira a pensar que era uma galinha."
-Scene 2: "Um agricultor pôs o ovo dela no ninho das galinhas."
-Scene 3: "Ela cresceu a ciscar o chão, como as outras."
-Scene 4: "Um dia viu uma águia a voar lá no alto. 'Aquilo nunca vai ser para mim', pensou."  [card: NUNCA VAI SER PARA MIM?]
-Scene 5: "Até ao dia em que abriu as asas."
-Scene 6: "Às vezes não te falta talento. Falta-te sair do bando. Segue para o dia 1 do Mind Reset."  [card: DIA 1 / DAY 1]
+Scene 1: "Este ovo não devia estar aqui."  [card: NÃO DEVIA ESTAR AQUI / NEVER SUPPOSED TO BE HERE]
+Scene 2: "Uma águia viveu a vida inteira a pensar que era uma galinha."
+Scene 3: "Um agricultor pôs o ovo dela no ninho das galinhas."
+Scene 4: "Ela cresceu a ciscar o chão, como as outras."
+Scene 5: "Um dia viu uma águia a voar lá no alto. 'Aquilo nunca vai ser para mim', pensou."  [card: NUNCA VAI SER PARA MIM?]
+Scene 6: "Até ao dia em que abriu as asas."
+Scene 7: "Às vezes não te falta talento. Falta-te sair do bando. Segue para o dia 1 do Mind Reset."  [card: DIA 1 / DAY 1]
 
 --- Narration (EN) ---
+This egg was never supposed to be here.
 An eagle lived his whole life thinking he was a chicken.
 A farmer placed his egg in a chicken's nest.
 He grew up pecking the ground, like the others.
@@ -107,7 +118,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ÁGUIA/EAGLE, GALINHAS/CHICKENS, VOAR/FLY, TEMPESTADE/STORM, CÉU/SKY, POUPA/SAVE, INVESTE/INVEST, BANDO/FLOCK, RESET.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: epic, cinematic, inspiring orchestral music (strings + low drums), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -117,12 +128,13 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "An eagle lived his whole life thinking he was a chicken."
-Scene 1: "An eagle lived his whole life thinking he was a chicken."
-Scene 2: "A farmer placed his egg in a chicken's nest."
-Scene 3: "He grew up pecking the ground, like the others."
-Scene 4: "One day he saw an eagle soaring high. 'That will never be me,' he thought."  [card: NUNCA VAI SER PARA MIM?]
-Scene 5: "Until the day he opened his wings."
-Scene 6: "Sometimes you don't lack talent. You lack leaving the flock. Follow for day 1 of the Mind Reset."  [card: DIA 1 / DAY 1]
+Scene 1: "This egg was never supposed to be here."  [card: NÃO DEVIA ESTAR AQUI / NEVER SUPPOSED TO BE HERE]
+Scene 2: "An eagle lived his whole life thinking he was a chicken."
+Scene 3: "A farmer placed his egg in a chicken's nest."
+Scene 4: "He grew up pecking the ground, like the others."
+Scene 5: "One day he saw an eagle soaring high. 'That will never be me,' he thought."  [card: NUNCA VAI SER PARA MIM?]
+Scene 6: "Until the day he opened his wings."
+Scene 7: "Sometimes you don't lack talent. You lack leaving the flock. Follow for day 1 of the Mind Reset."  [card: DIA 1 / DAY 1]
 
 --- Legenda do post ---
 Uma águia viveu a vida inteira a pensar que era galinha. / An eagle lived his whole life thinking he was a chicken.
@@ -131,7 +143,15 @@ Uma águia viveu a vida inteira a pensar que era galinha. / An eagle lived his w
 
 === Vídeo 2 · Acima da tempestade / Above the storm ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · Relâmpago ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Night storm on a cliff: a lightning bolt strikes close by, chickens scatter into the dark; in the flash of light, a bald eagle on the cliff edge slowly opens its eyes.
+
+--- Prompt de animação (narração por cima) ---
+Night storm on a cliff: a lightning bolt strikes close by, chickens scatter into the dark; in the flash of light, a bald eagle on the cliff edge slowly opens its eyes.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) stands at the edge of a cliff in his suit as dark storm clouds roll in, calm expression, looking at the viewer. Medium shot, dramatic light.
@@ -139,7 +159,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) stands at the edge of a cliff in his suit as dark storm clouds roll in, calm expression, looking at the viewer. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 2 Galinhas ===
+=== Cena 3 Galinhas ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Chickens panicking and running into a small wooden coop as rain starts and lightning flashes, feathers flying. Medium-wide shot, comedic.
@@ -147,7 +167,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 Chickens panicking and running into a small wooden coop as rain starts and lightning flashes, feathers flying. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 Águia ===
+=== Cena 4 Águia ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. A majestic eagle spreads its wings into the strong storm wind at the cliff edge, feathers blown back, rain around it. Low angle shot.
@@ -155,7 +175,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A majestic eagle spreads its wings into the strong storm wind at the cliff edge, feathers blown back, rain around it. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 Acima ===
+=== Cena 5 Acima ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. The eagle soars above the storm clouds into calm golden sunlight, the dark storm below. Epic wide shot.
@@ -163,7 +183,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The eagle soars above the storm clouds into calm golden sunlight, the dark storm below. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 5 Lição ===
+=== Cena 6 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits in his leather armchair on the sunny mountain top, storm clouds far below, hand on chin, looking at the viewer. Medium shot.
@@ -174,6 +194,7 @@ the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp gold
 === Extras ===
 
 --- Narração completa (PT) ---
+Toda a gente fugiu. Menos um.
 Quando vem a tempestade, as galinhas escondem-se.
 Fecham-se no galinheiro e esperam que passe.
 A águia faz outra coisa. Abre as asas e usa o vento.
@@ -187,7 +208,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (PT) + English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ÁGUIA/EAGLE, GALINHAS/CHICKENS, VOAR/FLY, TEMPESTADE/STORM, CÉU/SKY, POUPA/SAVE, INVESTE/INVEST, BANDO/FLOCK, RESET.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: epic, cinematic, inspiring orchestral music (strings + low drums), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -197,13 +218,15 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Quando vem a tempestade, a águia não foge."
-Scene 1: "Quando vem a tempestade, as galinhas escondem-se."
-Scene 2: "Fecham-se no galinheiro e esperam que passe."
-Scene 3: "A águia faz outra coisa. Abre as asas e usa o vento."  [card: USA O VENTO / USE THE WIND]
-Scene 4: "E sobe até ficar acima da tempestade."
-Scene 5: "O problema que te assusta pode ser o vento que te faz subir."
+Scene 1: "Toda a gente fugiu. Menos um."  [card: MENOS UM / EXCEPT ONE]
+Scene 2: "Quando vem a tempestade, as galinhas escondem-se."
+Scene 3: "Fecham-se no galinheiro e esperam que passe."
+Scene 4: "A águia faz outra coisa. Abre as asas e usa o vento."  [card: USA O VENTO / USE THE WIND]
+Scene 5: "E sobe até ficar acima da tempestade."
+Scene 6: "O problema que te assusta pode ser o vento que te faz subir."
 
 --- Narration (EN) ---
+Everyone ran. Except one.
 When the storm comes, the chickens hide.
 They lock themselves in the coop and wait.
 The eagle does something else. He opens his wings and uses the wind.
@@ -217,7 +240,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ÁGUIA/EAGLE, GALINHAS/CHICKENS, VOAR/FLY, TEMPESTADE/STORM, CÉU/SKY, POUPA/SAVE, INVESTE/INVEST, BANDO/FLOCK, RESET.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: epic, cinematic, inspiring orchestral music (strings + low drums), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -227,11 +250,12 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "When the storm comes, the eagle doesn't run."
-Scene 1: "When the storm comes, the chickens hide."
-Scene 2: "They lock themselves in the coop and wait."
-Scene 3: "The eagle does something else. He opens his wings and uses the wind."  [card: USA O VENTO / USE THE WIND]
-Scene 4: "And rises until he's above the storm."
-Scene 5: "The problem that scares you can be the wind that lifts you."
+Scene 1: "Everyone ran. Except one."  [card: MENOS UM / EXCEPT ONE]
+Scene 2: "When the storm comes, the chickens hide."
+Scene 3: "They lock themselves in the coop and wait."
+Scene 4: "The eagle does something else. He opens his wings and uses the wind."  [card: USA O VENTO / USE THE WIND]
+Scene 5: "And rises until he's above the storm."
+Scene 6: "The problem that scares you can be the wind that lifts you."
 
 --- Legenda do post ---
 Quando vem a tempestade, a águia não foge. / When the storm comes, the eagle doesn't run.
@@ -240,7 +264,15 @@ Quando vem a tempestade, a águia não foge. / When the storm comes, the eagle d
 
 === Vídeo 3 · Galinhas gastam, águias investem / Chickens spend, eagles invest ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · Janeiro ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Blizzard in a farmyard: a shivering chicken pecks at a completely empty, frozen feeder; snow covers everything; wind howling.
+
+--- Prompt de animação (narração por cima) ---
+Blizzard in a farmyard: a shivering chicken pecks at a completely empty, frozen feeder; snow covers everything; wind howling.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits at a mahogany desk in a cabin office overlooking snowy mountains, holding a single ear of golden corn, raised eyebrow. Medium shot.
@@ -248,7 +280,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits at a mahogany desk in a cabin office overlooking snowy mountains, holding a single ear of golden corn, raised eyebrow. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 2 Verão ===
+=== Cena 3 Verão ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Summer farmyard: chickens feasting on a huge pile of corn, partying, throwing corn in the air, wearing tiny party hats. Medium-wide shot, comedic.
@@ -256,7 +288,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 Summer farmyard: chickens feasting on a huge pile of corn, partying, throwing corn in the air, wearing tiny party hats. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 Águia ===
+=== Cena 4 Águia ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. A young eagle (no suit) carefully stores corn and supplies in a neat wooden storage box in a high cliff nest while chickens laugh below. Medium shot.
@@ -264,7 +296,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A young eagle (no suit) carefully stores corn and supplies in a neat wooden storage box in a high cliff nest while chickens laugh below. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 Inverno ===
+=== Cena 5 Inverno ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Snowy winter farmyard: hungry shivering chickens looking at an empty feeder; high above, the eagle's nest is warm with stored food. Wide shot.
@@ -272,7 +304,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 Snowy winter farmyard: hungry shivering chickens looking at an empty feeder; high above, the eagle's nest is warm with stored food. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 5 Lição ===
+=== Cena 6 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) by the fireplace in his cabin office, holding the ear of corn, warm light, looking at the viewer. Medium shot.
@@ -283,6 +315,7 @@ the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp gold
 === Extras ===
 
 --- Narração completa (PT) ---
+Em janeiro, metade do galinheiro passou fome.
 Porque é que as galinhas nunca têm milho no inverno?
 No verão, comem tudo o que apanham. Cada grão.
 A águia guarda uma parte. Sempre. Mesmo quando é pouco.
@@ -296,7 +329,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (PT) + English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ÁGUIA/EAGLE, GALINHAS/CHICKENS, VOAR/FLY, TEMPESTADE/STORM, CÉU/SKY, POUPA/SAVE, INVESTE/INVEST, BANDO/FLOCK, RESET.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: epic, cinematic, inspiring orchestral music (strings + low drums), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -306,13 +339,15 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Porque é que as galinhas nunca têm milho no inverno?"
-Scene 1: "Porque é que as galinhas nunca têm milho no inverno?"
-Scene 2: "No verão, comem tudo o que apanham. Cada grão."  [card: GASTAM TUDO / SPEND IT ALL]
-Scene 3: "A águia guarda uma parte. Sempre. Mesmo quando é pouco."  [card: POUPA PRIMEIRO / SAVE FIRST]
-Scene 4: "Chega o inverno. As galinhas passam fome."  [card: INVERNO / WINTER]
-Scene 5: "Não é o que ganhas. É o que guardas antes de gastar. Paga-te a ti primeiro."  [card: PAGA-TE PRIMEIRO / PAY YOURSELF FIRST]
+Scene 1: "Em janeiro, metade do galinheiro passou fome."  [card: JANEIRO / JANUARY]
+Scene 2: "Porque é que as galinhas nunca têm milho no inverno?"
+Scene 3: "No verão, comem tudo o que apanham. Cada grão."  [card: GASTAM TUDO / SPEND IT ALL]
+Scene 4: "A águia guarda uma parte. Sempre. Mesmo quando é pouco."  [card: POUPA PRIMEIRO / SAVE FIRST]
+Scene 5: "Chega o inverno. As galinhas passam fome."  [card: INVERNO / WINTER]
+Scene 6: "Não é o que ganhas. É o que guardas antes de gastar. Paga-te a ti primeiro."  [card: PAGA-TE PRIMEIRO / PAY YOURSELF FIRST]
 
 --- Narration (EN) ---
+By January, half the coop was starving.
 Why do chickens never have corn in winter?
 In summer, they eat everything they find. Every grain.
 The eagle saves a part. Always. Even when it's little.
@@ -326,7 +361,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (English, exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): ÁGUIA/EAGLE, GALINHAS/CHICKENS, VOAR/FLY, TEMPESTADE/STORM, CÉU/SKY, POUPA/SAVE, INVESTE/INVEST, BANDO/FLOCK, RESET.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: epic, cinematic, inspiring orchestral music (strings + low drums), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -336,11 +371,12 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Why do chickens never have corn in winter?"
-Scene 1: "Why do chickens never have corn in winter?"
-Scene 2: "In summer, they eat everything they find. Every grain."  [card: GASTAM TUDO / SPEND IT ALL]
-Scene 3: "The eagle saves a part. Always. Even when it's little."  [card: POUPA PRIMEIRO / SAVE FIRST]
-Scene 4: "Winter comes. The chickens go hungry."  [card: INVERNO / WINTER]
-Scene 5: "It's not what you earn. It's what you keep before you spend. Pay yourself first."  [card: PAGA-TE PRIMEIRO / PAY YOURSELF FIRST]
+Scene 1: "By January, half the coop was starving."  [card: JANEIRO / JANUARY]
+Scene 2: "Why do chickens never have corn in winter?"
+Scene 3: "In summer, they eat everything they find. Every grain."  [card: GASTAM TUDO / SPEND IT ALL]
+Scene 4: "The eagle saves a part. Always. Even when it's little."  [card: POUPA PRIMEIRO / SAVE FIRST]
+Scene 5: "Winter comes. The chickens go hungry."  [card: INVERNO / WINTER]
+Scene 6: "It's not what you earn. It's what you keep before you spend. Pay yourself first."  [card: PAGA-TE PRIMEIRO / PAY YOURSELF FIRST]
 
 --- Legenda do post ---
 Porque é que as galinhas nunca têm milho no inverno? / Why do chickens never have corn in winter?

@@ -10,7 +10,15 @@ cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin
 
 === Vídeo 1 · O truque da pipoca média ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · Enganado ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Extreme close-up of Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) squinting suspiciously at a crumpled cinema receipt under the flickering light of a movie screen, then looking straight at the camera.
+
+--- Prompt de animação (narração por cima) ---
+Extreme close-up of Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) squinting suspiciously at a crumpled cinema receipt under the flickering light of a movie screen, then looking straight at the camera.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) stands in a cinema lobby holding a big popcorn bucket, raised eyebrow, looking at the viewer. Medium shot.
@@ -18,7 +26,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de vídeo com fala ---
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) stands in a cinema lobby holding a big popcorn bucket, raised eyebrow, looking at the viewer. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "Por que a pipoca média custa quase o mesmo que a grande? Não é por acaso." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 
-=== Cena 2 O balcão ===
+=== Cena 3 O balcão ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A cinema snack counter with three popcorn sizes (small, medium, large) displayed under warm lights, a customer in his 20s staring at them, thinking. Medium shot.
@@ -26,7 +34,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A cinema snack counter with three popcorn sizes (small, medium, large) displayed under warm lights, a customer in his 20s staring at them, thinking. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 A escolha ===
+=== Cena 4 A escolha ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. The customer smiles and points at the large popcorn, cashier handing it over. Medium shot.
@@ -34,7 +42,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The customer smiles and points at the large popcorn, cashier handing it over. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 O truque ===
+=== Cena 5 O truque ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) next to a medium popcorn bucket on a small pedestal under a theatrical spotlight, explaining with one finger up. Medium shot.
@@ -42,7 +50,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de vídeo com fala ---
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) next to a medium popcorn bucket on a small pedestal under a theatrical spotlight, explaining with one finger up. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "A média existe só para fazer a grande parecer barata. Chama-se preço âncora." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 
-=== Cena 5 Lição ===
+=== Cena 6 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) eating popcorn and smiling at the viewer. Medium close-up.
@@ -53,6 +61,7 @@ Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat sh
 === Extras ===
 
 --- Narração completa ---
+Você foi enganado no cinema. E nem percebeu.
 Por que a pipoca média custa quase o mesmo que a grande? Não é por acaso.
 Imagina: pequena por dez, média por dezoito, grande por vinte.
 Quase todo mundo pensa: por dois reais a mais, levo a grande.
@@ -66,7 +75,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): PREÇO, GRÁTIS, LUCRO, CLIENTE, TRUQUE, POUCO DINHEIRO, NEGÓCIO, ESCOLA.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: upbeat, modern hip-hop / funky beat with light percussion, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -76,11 +85,12 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Por que a pipoca média custa quase o mesmo que a grande?"
-Scene 1: "Por que a pipoca média custa quase o mesmo que a grande? Não é por acaso."
-Scene 2: "Imagina: pequena por dez, média por dezoito, grande por vinte."  [card: 10 · 18 · 20]
-Scene 3: "Quase todo mundo pensa: por dois reais a mais, levo a grande."
-Scene 4: "A média existe só para fazer a grande parecer barata. Chama-se preço âncora."  [card: PREÇO ÂNCORA]
-Scene 5: "Na sua loja, crie uma opção do meio. Siga para um truque de negócio por dia."  [card: 1 TRUQUE POR DIA]
+Scene 1: "Você foi enganado no cinema. E nem percebeu."  [card: VOCÊ FOI ENGANADO]
+Scene 2: "Por que a pipoca média custa quase o mesmo que a grande? Não é por acaso."
+Scene 3: "Imagina: pequena por dez, média por dezoito, grande por vinte."  [card: 10 · 18 · 20]
+Scene 4: "Quase todo mundo pensa: por dois reais a mais, levo a grande."
+Scene 5: "A média existe só para fazer a grande parecer barata. Chama-se preço âncora."  [card: PREÇO ÂNCORA]
+Scene 6: "Na sua loja, crie uma opção do meio. Siga para um truque de negócio por dia."  [card: 1 TRUQUE POR DIA]
 
 --- Legenda do post ---
 Por que a pipoca média custa quase o mesmo que a grande?
@@ -89,7 +99,15 @@ Por que a pipoca média custa quase o mesmo que a grande?
 
 === Vídeo 2 · O café grátis da padaria ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · Prejuízo ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Close-up in a bakery: a calculator on the counter showing a loss, a bakery owner smiles while handing out free coffees; Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) watches from a table, eyebrow raised.
+
+--- Prompt de animação (narração por cima) ---
+Close-up in a bakery: a calculator on the counter showing a loss, a bakery owner smiles while handing out free coffees; Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) watches from a table, eyebrow raised.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) sits at a small table in a cozy Brazilian bakery, holding a tiny cup of coffee, surprised face. Medium shot.
@@ -97,7 +115,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de vídeo com fala ---
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) sits at a small table in a cozy Brazilian bakery, holding a tiny cup of coffee, surprised face. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "Essa padaria dava café de graça. E lucrava mais do que as outras." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 
-=== Cena 2 A ideia ===
+=== Cena 3 A ideia ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A friendly bakery owner in his 50s with an apron pours free small coffees for customers at the counter, a happy queue. Medium shot.
@@ -105,7 +123,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A friendly bakery owner in his 50s with an apron pours free small coffees for customers at the counter, a happy queue. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 O cliente ===
+=== Cena 4 O cliente ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A customer sipping the free coffee looks at a display of fresh pão de queijo and cakes, then points and buys several. Medium shot.
@@ -113,7 +131,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A customer sipping the free coffee looks at a display of fresh pão de queijo and cakes, then points and buys several. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 O truque ===
+=== Cena 5 O truque ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) next to a small coffee cup on the counter right beside a big basket of fresh pastries, explaining. Medium shot.
@@ -121,7 +139,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de vídeo com fala ---
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) next to a small coffee cup on the counter right beside a big basket of fresh pastries, explaining. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "O café atrai o cliente. O lucro vem do resto. Isso se chama produto isca." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 
-=== Cena 5 Lição ===
+=== Cena 6 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) raises his coffee cup to the viewer with a confident smile. Medium close-up.
@@ -132,6 +150,7 @@ Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat sh
 === Extras ===
 
 --- Narração completa ---
+Essa padaria perdia dinheiro em cada café… de propósito.
 Essa padaria dava café de graça. E lucrava mais do que as outras.
 O dono oferecia um cafezinho para todo mundo que entrava.
 Mas quem toma café… quer um pão de queijo. Um bolo. Um salgado.
@@ -145,7 +164,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): PREÇO, GRÁTIS, LUCRO, CLIENTE, TRUQUE, POUCO DINHEIRO, NEGÓCIO, ESCOLA.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: upbeat, modern hip-hop / funky beat with light percussion, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -155,11 +174,12 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "A padaria que dava café de graça… e lucrava mais."
-Scene 1: "Essa padaria dava café de graça. E lucrava mais do que as outras."
-Scene 2: "O dono oferecia um cafezinho para todo mundo que entrava."  [card: CAFÉ GRÁTIS]
-Scene 3: "Mas quem toma café… quer um pão de queijo. Um bolo. Um salgado."
-Scene 4: "O café atrai o cliente. O lucro vem do resto. Isso se chama produto isca."  [card: PRODUTO ISCA]
-Scene 5: "Qual é o cafezinho do seu negócio? Me conta nos comentários."
+Scene 1: "Essa padaria perdia dinheiro em cada café… de propósito."  [card: DE PROPÓSITO]
+Scene 2: "Essa padaria dava café de graça. E lucrava mais do que as outras."
+Scene 3: "O dono oferecia um cafezinho para todo mundo que entrava."  [card: CAFÉ GRÁTIS]
+Scene 4: "Mas quem toma café… quer um pão de queijo. Um bolo. Um salgado."
+Scene 5: "O café atrai o cliente. O lucro vem do resto. Isso se chama produto isca."  [card: PRODUTO ISCA]
+Scene 6: "Qual é o cafezinho do seu negócio? Me conta nos comentários."
 
 --- Legenda do post ---
 A padaria que dava café de graça… e lucrava mais.
@@ -168,7 +188,15 @@ A padaria que dava café de graça… e lucrava mais.
 
 === Vídeo 3 · 3 negócios com pouco dinheiro ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · O tênis ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) holds up a brand-new expensive sneaker box in one hand and a small handful of banknotes in the other, comparing them, in his home office.
+
+--- Prompt de animação (narração por cima) ---
+Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) holds up a brand-new expensive sneaker box in one hand and a small handful of banknotes in the other, comparing them, in his home office.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) stands in a modern home office holding up three fingers, energetic smile. Medium shot.
@@ -176,7 +204,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de vídeo com fala ---
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) stands in a modern home office holding up three fingers, energetic smile. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "Três negócios que dá para começar com pouco dinheiro." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 
-=== Cena 2 Ideia 1 ===
+=== Cena 3 Ideia 1 ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A young woman in her 20s in a small home kitchen packing homemade sweets into pretty boxes with ribbons, smiling. Medium shot.
@@ -184,7 +212,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A young woman in her 20s in a small home kitchen packing homemade sweets into pretty boxes with ribbons, smiling. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 Ideia 2 ===
+=== Cena 4 Ideia 2 ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A young man in his 20s cleaning a car interior with a portable vacuum in a residential driveway, the owner smiling. Medium shot.
@@ -192,7 +220,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A young man in his 20s cleaning a car interior with a portable vacuum in a residential driveway, the owner smiling. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 Ideia 3 ===
+=== Cena 5 Ideia 3 ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A woman in her 30s at a laptop editing a colourful social media post for a small shop, the shop owner watching over her shoulder. Medium shot.
@@ -200,7 +228,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A woman in her 30s at a laptop editing a colourful social media post for a small shop, the shop owner watching over her shoulder. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 5 Lição ===
+=== Cena 6 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) sits on the edge of his desk, pointing down toward the bio link, smiling. Medium shot.
@@ -211,6 +239,7 @@ Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat sh
 === Extras ===
 
 --- Narração completa ---
+Dá pra começar um negócio com menos do que custa esse tênis.
 Três negócios que dá para começar com pouco dinheiro.
 Um: doces caseiros por encomenda. Começa na sua cozinha.
 Dois: limpeza de carro em domicílio. Você vai até o cliente.
@@ -224,7 +253,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): PREÇO, GRÁTIS, LUCRO, CLIENTE, TRUQUE, POUCO DINHEIRO, NEGÓCIO, ESCOLA.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: upbeat, modern hip-hop / funky beat with light percussion, about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -234,11 +263,12 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "3 negócios para começar com pouco dinheiro"
-Scene 1: "Três negócios que dá para começar com pouco dinheiro."  [card: 3 IDEIAS]
-Scene 2: "Um: doces caseiros por encomenda. Começa na sua cozinha."  [card: 1. DOCES POR ENCOMENDA]
-Scene 3: "Dois: limpeza de carro em domicílio. Você vai até o cliente."  [card: 2. LIMPEZA DE CARRO]
-Scene 4: "Três: cuidar das redes de pequenos comércios do seu bairro."  [card: 3. REDES SOCIAIS]
-Scene 5: "Nenhum é dinheiro fácil, mas todos começam pequeno. Tem mais trinta ideias no link da bio."  [card: +30 IDEIAS NA BIO]
+Scene 1: "Dá pra começar um negócio com menos do que custa esse tênis."  [card: MENOS QUE UM TÊNIS]
+Scene 2: "Três negócios que dá para começar com pouco dinheiro."  [card: 3 IDEIAS]
+Scene 3: "Um: doces caseiros por encomenda. Começa na sua cozinha."  [card: 1. DOCES POR ENCOMENDA]
+Scene 4: "Dois: limpeza de carro em domicílio. Você vai até o cliente."  [card: 2. LIMPEZA DE CARRO]
+Scene 5: "Três: cuidar das redes de pequenos comércios do seu bairro."  [card: 3. REDES SOCIAIS]
+Scene 6: "Nenhum é dinheiro fácil, mas todos começam pequeno. Tem mais trinta ideias no link da bio."  [card: +30 IDEIAS NA BIO]
 
 --- Legenda do post ---
 3 negócios para começar com pouco dinheiro

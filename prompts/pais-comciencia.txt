@@ -10,7 +10,15 @@ cartoon, illustration, anime, 3D render, CGI look, plastic skin, airbrushed skin
 
 === Vídeo 1 · Por que seu filho faz birra ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · Todos a olhar ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. Supermarket aisle: a toddler screaming on the floor while every shopper turns to stare; close-up of the young mother's face, red with embarrassment, frozen.
+
+--- Prompt de animação (narração por cima) ---
+Supermarket aisle: a toddler screaming on the floor while every shopper turns to stare; close-up of the young mother's face, red with embarrassment, frozen.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. A toddler around 3 lying on the floor of a supermarket aisle crying and kicking, a stressed mother in her 30s crouching beside him, shoppers looking. Medium shot.
@@ -18,7 +26,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A toddler around 3 lying on the floor of a supermarket aisle crying and kicking, a stressed mother in her 30s crouching beside him, shoppers looking. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 2 O mocho ===
+=== Cena 3 O mocho ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) perched on a stack of books in a cozy library, raising one wing as if to explain, gentle smile. Medium shot.
@@ -26,7 +34,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) perched on a stack of books in a cozy library, raising one wing as if to explain, gentle smile. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 O cérebro ===
+=== Cena 4 O cérebro ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. Macro shot of a glowing translucent anatomical model of a child's brain on a wooden desk, with tiny miniature construction workers and scaffolding on the front part. Shallow depth of field, playful but realistic.
@@ -34,7 +42,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 Macro shot of a glowing translucent anatomical model of a child's brain on a wooden desk, with tiny miniature construction workers and scaffolding on the front part. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 A emoção ===
+=== Cena 5 A emoção ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The toddler with a big stormy cloud above his head, the mother calmly sitting next to him on the floor. Medium shot.
@@ -42,7 +50,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The toddler with a big stormy cloud above his head, the mother calmly sitting next to him on the floor. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 5 Lição ===
+=== Cena 6 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) closes his book and smiles warmly at the viewer. Medium close-up.
@@ -53,6 +61,7 @@ the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big
 === Extras ===
 
 --- Narração completa ---
+Todo mundo olhando. E você sem saber o que fazer.
 Seu filho não está fazendo birra para te irritar.
 O cérebro dele ainda está em construção.
 A parte que controla as emoções, bem atrás da testa, só fica pronta muitos anos depois.
@@ -66,7 +75,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): BIRRA, BIRRAS, CÉREBRO, CALMA, EMOÇÃO, GRITAR, ZANGADO, SEGURO.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: soft, gentle lullaby-style music (piano + light xylophone), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -76,11 +85,12 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Birra: o cérebro do seu filho ainda está em obras 🧠"
-Scene 1: "Seu filho não está fazendo birra para te irritar."
-Scene 2: "O cérebro dele ainda está em construção."
-Scene 3: "A parte que controla as emoções, bem atrás da testa, só fica pronta muitos anos depois."  [card: CÉREBRO EM OBRAS]
-Scene 4: "Por isso a emoção vence. Ele ainda não consegue frear sozinho."
-Scene 5: "Ele precisa que você seja a calma que ele ainda não tem. Siga para o próximo passo."  [card: VOCÊ É A CALMA]
+Scene 1: "Todo mundo olhando. E você sem saber o que fazer."  [card: TODO MUNDO OLHANDO]
+Scene 2: "Seu filho não está fazendo birra para te irritar."
+Scene 3: "O cérebro dele ainda está em construção."
+Scene 4: "A parte que controla as emoções, bem atrás da testa, só fica pronta muitos anos depois."  [card: CÉREBRO EM OBRAS]
+Scene 5: "Por isso a emoção vence. Ele ainda não consegue frear sozinho."
+Scene 6: "Ele precisa que você seja a calma que ele ainda não tem. Siga para o próximo passo."  [card: VOCÊ É A CALMA]
 
 --- Legenda do post ---
 Birra: o cérebro do seu filho ainda está em obras 🧠
@@ -89,7 +99,15 @@ Birra: o cérebro do seu filho ainda está em obras 🧠
 
 === Vídeo 2 · Durante a birra: 3 passos ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · Os primeiros segundos ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. Close-up of a little girl's face, lip trembling, eyes filling with tears, one second before a tantrum; her father's hand reaching toward her in slow motion.
+
+--- Prompt de animação (narração por cima) ---
+Close-up of a little girl's face, lip trembling, eyes filling with tears, one second before a tantrum; her father's hand reaching toward her in slow motion.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. A little girl around 4 screaming and crying in a living room, toys scattered, the father standing over her, frustrated. Medium shot.
@@ -97,7 +115,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A little girl around 4 screaming and crying in a living room, toys scattered, the father standing over her, frustrated. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 2 Passo 1 ===
+=== Cena 3 Passo 1 ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The father kneels down to the girl's eye level, taking a deep breath with his eyes closed. Medium shot.
@@ -105,7 +123,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The father kneels down to the girl's eye level, taking a deep breath with his eyes closed. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 Passo 2 ===
+=== Cena 4 Passo 2 ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The father speaks softly to the girl, his hand open near her, she looks at him while still crying. Close-up.
@@ -113,7 +131,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The father speaks softly to the girl, his hand open near her, she looks at him while still crying. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 Passo 3 ===
+=== Cena 5 Passo 3 ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The father sits calmly next to the girl on the rug, the girl calming down and leaning on him. Medium shot, warm light.
@@ -121,7 +139,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The father sits calmly next to the girl on the rug, the girl calming down and leaning on him. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 5 Lição ===
+=== Cena 6 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) on his stack of books, wing raised, smiling. Medium shot.
@@ -132,6 +150,7 @@ the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big
 === Extras ===
 
 --- Narração completa ---
+O que você faz nos primeiros segundos muda tudo.
 Birra começando. O que você faz?
 Um: respire e se abaixe na altura dela. Você primeiro.
 Dois: dê nome à emoção. 'Você está muito brava porque a brincadeira acabou.'
@@ -145,7 +164,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): BIRRA, BIRRAS, CÉREBRO, CALMA, EMOÇÃO, GRITAR, ZANGADO, SEGURO.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: soft, gentle lullaby-style music (piano + light xylophone), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -155,11 +174,12 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "O que fazer durante uma birra: 3 passos"
-Scene 1: "Birra começando. O que você faz?"
-Scene 2: "Um: respire e se abaixe na altura dela. Você primeiro."  [card: 1. CALMA]
-Scene 3: "Dois: dê nome à emoção. 'Você está muito brava porque a brincadeira acabou.'"  [card: 2. DÊ NOME À EMOÇÃO]
-Scene 4: "Três: fique por perto e mantenha ela segura. Sem sermão, sem gritar."  [card: 3. FIQUE PERTO]
-Scene 5: "A conversa vem depois, quando a tempestade passar. Salve este vídeo para a próxima birra."  [card: SALVE 📌]
+Scene 1: "O que você faz nos primeiros segundos muda tudo."  [card: OS PRIMEIROS SEGUNDOS]
+Scene 2: "Birra começando. O que você faz?"
+Scene 3: "Um: respire e se abaixe na altura dela. Você primeiro."  [card: 1. CALMA]
+Scene 4: "Dois: dê nome à emoção. 'Você está muito brava porque a brincadeira acabou.'"  [card: 2. DÊ NOME À EMOÇÃO]
+Scene 5: "Três: fique por perto e mantenha ela segura. Sem sermão, sem gritar."  [card: 3. FIQUE PERTO]
+Scene 6: "A conversa vem depois, quando a tempestade passar. Salve este vídeo para a próxima birra."  [card: SALVE 📌]
 
 --- Legenda do post ---
 O que fazer durante uma birra: 3 passos
@@ -168,7 +188,15 @@ O que fazer durante uma birra: 3 passos
 
 === Vídeo 3 · Em vez de 'para de chorar' ===
 
-=== Cena 1 Hook ===
+=== Cena 1 Cena 0 · A frase ===
+
+--- Prompt de imagem ---
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. Close-up of a mother kneeling in front of her crying son, opening her mouth to speak; the frame freezes before she says it.
+
+--- Prompt de animação (narração por cima) ---
+Close-up of a mother kneeling in front of her crying son, opening her mouth to speak; the frame freezes before she says it.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+
+=== Cena 2 Hook ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. A boy around 5 crying at the kitchen table over a broken toy, the mother pointing at him with an impatient face. Medium shot.
@@ -176,7 +204,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 A boy around 5 crying at the kitchen table over a broken toy, the mother pointing at him with an impatient face. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 2 Porquê ===
+=== Cena 3 Porquê ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) shakes his head gently, holding his book. Medium shot.
@@ -184,7 +212,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) shakes his head gently, holding his book. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 3 A frase ===
+=== Cena 4 A frase ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The mother sits next to the boy, puts an arm around him, and talks softly; he looks up at her. Close-up.
@@ -192,7 +220,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The mother sits next to the boy, puts an arm around him, and talks softly; he looks up at her. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 4 O efeito ===
+=== Cena 5 O efeito ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The boy hugs his mother, crying less, the broken toy on the table. Medium shot, warm light.
@@ -200,7 +228,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 --- Prompt de animação (narração por cima) ---
 The boy hugs his mother, crying less, the broken toy on the table. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 
-=== Cena 5 Lição ===
+=== Cena 6 Lição ===
 
 --- Prompt de imagem ---
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) smiles warmly at the viewer, a small heart floating above him. Medium close-up.
@@ -211,6 +239,7 @@ the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big
 === Extras ===
 
 --- Narração completa ---
+Existe uma frase que acalma mais rápido do que 'para de chorar'.
 'Para de chorar!' Quantas vezes você já disse isso?
 O choro não para só porque a gente pede. A emoção precisa sair.
 Tente: 'Você está triste porque o brinquedo quebrou. Eu estou aqui.'
@@ -224,7 +253,7 @@ FORMAT: vertical 9:16, 1080x1920, 30 fps. Crop horizontal clips to vertical, kee
 
 SUBTITLES (Português (BR), exactly what is said): big bold ALL CAPS, 2-3 words at a time, white with a thick black outline, lower-middle of the screen (about 30% from the bottom), pop-in animation. Keywords in RED (#E5202B): BIRRA, BIRRAS, CÉREBRO, CALMA, EMOÇÃO, GRITAR, ZANGADO, SEGURO.
 
-TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
+COLD OPEN (scene 1): start mid-action with no fade-in and no logo; the first frame must already be tense. Add a low boom + short riser under the first second, show the suspense card big in the first second, then cut hard to the next scene. TEXT CARDS: the hook text for the first 3 seconds and the short card texts below, big and bold with a pop-in. IMPORTANT: never put any text over a face; place cards in the middle of the screen over the body or background.
 
 MUSIC AND SOUND: soft, gentle lullaby-style music (piano + light xylophone), about 10-15% volume, ducked under the voice. If you can only generate music with code and it sounds cheap, leave music out and tell me (I'll add a trending sound in the app). Whoosh on transitions, a soft pop when each card appears.
 
@@ -234,11 +263,12 @@ Before rendering, list the clips and what goes on each. After rendering, show me
 
 SCRIPT:
 Hook: "Em vez de 'para de chorar', tente isto"
-Scene 1: "'Para de chorar!' Quantas vezes você já disse isso?"
-Scene 2: "O choro não para só porque a gente pede. A emoção precisa sair."
-Scene 3: "Tente: 'Você está triste porque o brinquedo quebrou. Eu estou aqui.'"  [card: "EU ESTOU AQUI"]
-Scene 4: "Quando a criança se sente compreendida, ela se acalma mais rápido."
-Scene 5: "Não é ceder. É ensinar a lidar com o que sente. Guia grátis de birras na bio."  [card: GUIA GRÁTIS NA BIO]
+Scene 1: "Existe uma frase que acalma mais rápido do que 'para de chorar'."  [card: UMA FRASE]
+Scene 2: "'Para de chorar!' Quantas vezes você já disse isso?"
+Scene 3: "O choro não para só porque a gente pede. A emoção precisa sair."
+Scene 4: "Tente: 'Você está triste porque o brinquedo quebrou. Eu estou aqui.'"  [card: "EU ESTOU AQUI"]
+Scene 5: "Quando a criança se sente compreendida, ela se acalma mais rápido."
+Scene 6: "Não é ceder. É ensinar a lidar com o que sente. Guia grátis de birras na bio."  [card: GUIA GRÁTIS NA BIO]
 
 --- Legenda do post ---
 Em vez de 'para de chorar', tente isto

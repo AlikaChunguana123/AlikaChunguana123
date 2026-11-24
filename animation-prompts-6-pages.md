@@ -14,7 +14,15 @@ Photorealistic character reference sheet for an AI influencer, high-end studio p
 ### Video 1: A regra do envelope / The envelope rule
 **Hook:** A minha avó deu-me uma regra sobre dinheiro. / My grandmother gave me one rule about money.
 
-**Scene 1 · Hook** — PT: A minha avó deu-me um envelope e uma regra. Três gerações depois, ainda a seguimos. / EN: My grandmother gave me one envelope and one rule. Three generations later, we still follow it.  [card: 1 ENVELOPE · 1 REGRA]
+**Scene 1 · Cena 0 · Selo de cera** — PT: Este envelope só foi aberto três vezes em sessenta anos. / EN: This envelope has been opened only three times in sixty years.  [card: 3 VEZES EM 60 ANOS]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Extreme close-up, candlelight in a dark library: Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s hands slowly break the red wax seal of an old cream envelope, the wax cracking, her breath held. Tension, silence.
+```
+```
+Extreme close-up, candlelight in a dark library: Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s hands slowly break the red wax seal of an old cream envelope, the wax cracking, her breath held. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — PT: A minha avó deu-me um envelope e uma regra. Três gerações depois, ainda a seguimos. / EN: My grandmother gave me one envelope and one rule. Three generations later, we still follow it.  [card: 1 ENVELOPE · 1 REGRA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in a burgundy wingback chair in her wood-panelled library, holding up an old cream envelope with a red wax seal, looking at the viewer with a knowing smile. Medium shot, fireplace glow.
 ```
@@ -22,7 +30,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in a burgundy wingback chair in her wood-panelled library, holding up an old cream envelope with a red wax seal, looking at the viewer with a knowing smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "My grandmother gave me one envelope and one rule. Three generations later, we still follow it." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · A avó** — PT: Sempre que entra dinheiro, antes de gastares um cêntimo, uma parte vai para o envelope. / EN: Every time money comes in, before you spend a single cent, one part goes in the envelope.
+**Scene 3 · A avó** — PT: Sempre que entra dinheiro, antes de gastares um cêntimo, uma parte vai para o envelope. / EN: Every time money comes in, before you spend a single cent, one part goes in the envelope.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Warm 1980s flashback: an elegant grandmother in pearls and a green dress at an antique writing desk hands a sealed cream envelope to a 20-year-old Simone with the same curls, both smiling. Medium shot, golden light.
 ```
@@ -30,7 +38,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Warm 1980s flashback: an elegant grandmother in pearls and a green dress at an antique writing desk hands a sealed cream envelope to a 20-year-old Simone with the same curls, both smiling. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · Os 10%** — PT: Dez por cento. Não o que sobra no fim do mês. Primeiro. / EN: Ten percent. Not what's left at the end of the month. First.  [card: 10% PRIMEIRO]
+**Scene 4 · Os 10%** — PT: Dez por cento. Não o que sobra no fim do mês. Primeiro. / EN: Ten percent. Not what's left at the end of the month. First.  [card: 10% PRIMEIRO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Close-up top view of elegant hands with a gold watch dividing banknotes into a small neat pile and a bigger pile on a mahogany desk, the small pile going into the cream envelope.
 ```
@@ -38,7 +46,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Close-up top view of elegant hands with a gold watch dividing banknotes into a small neat pile and a bigger pile on a mahogany desk, the small pile going into the cream envelope.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · A diferença** — PT: A maioria poupa o que sobra. O dinheiro antigo gasta o que sobra. / EN: Most people save what's left. Old money spends what's left.
+**Scene 5 · A diferença** — PT: A maioria poupa o que sobra. O dinheiro antigo gasta o que sobra. / EN: Most people save what's left. Old money spends what's left.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans forward in her chair, one eyebrow raised, teacup in hand. Medium close-up.
 ```
@@ -46,7 +54,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans forward in her chair, one eyebrow raised, teacup in hand. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Most people save what's left. Old money spends what's left." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Ação** — PT: Faz isto com o teu próximo salário. Comenta 'ENVELOPE' se começas este mês. / EN: Do it with your next paycheck. Comment 'ENVELOPE' if you're starting this month.  [card: COMENTA: ENVELOPE]
+**Scene 6 · Ação** — PT: Faz isto com o teu próximo salário. Comenta 'ENVELOPE' se começas este mês. / EN: Do it with your next paycheck. Comment 'ENVELOPE' if you're starting this month.  [card: COMENTA: ENVELOPE]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) points gently at the viewer with a warm smile, the envelope on the side table. Medium shot.
 ```
@@ -57,7 +65,15 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 ### Video 2: A regra das 72 horas / The 72-hour rule
 **Hook:** Nunca compro nada caro no mesmo dia. / I never buy anything expensive on the same day.
 
-**Scene 1 · Hook** — PT: Nunca compro nada acima de quinhentos euros no mesmo dia em que o vejo. / EN: I never buy anything over five hundred on the same day I see it.  [card: +500 = ESPERA]
+**Scene 1 · Cena 0 · Um segundo** — PT: Estava a um segundo de pagar. Depois lembrei-me da minha regra. / EN: I was one second away from paying. Then I remembered my rule.  [card: 1 SEGUNDO…]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Close-up in a luxury boutique: Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s hand holding a black card hovers one centimetre above a glowing payment terminal; she freezes, eyes narrowing. The saleswoman waits.
+```
+```
+Close-up in a luxury boutique: Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s hand holding a black card hovers one centimetre above a glowing payment terminal; she freezes, eyes narrowing. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — PT: Nunca compro nada acima de quinhentos euros no mesmo dia em que o vejo. / EN: I never buy anything over five hundred on the same day I see it.  [card: +500 = ESPERA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in an elegant boutique with marble floors, holding a beautiful burgundy designer handbag, admiring it, then smiling knowingly at the viewer. Medium shot.
 ```
@@ -65,7 +81,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in an elegant boutique with marble floors, holding a beautiful burgundy designer handbag, admiring it, then smiling knowingly at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I never buy anything over five hundred on the same day I see it." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · Sair** — PT: Saio da loja. E dou-lhe setenta e duas horas. / EN: I walk out. And I give it seventy-two hours.  [card: 72 HORAS]
+**Scene 3 · Sair** — PT: Saio da loja. E dou-lhe setenta e duas horas. / EN: I walk out. And I give it seventy-two hours.  [card: 72 HORAS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) hands the handbag back to a smiling saleswoman and walks toward the glass door of the boutique, looking back at the viewer. Medium-wide shot.
 ```
@@ -73,7 +89,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) hands the handbag back to a smiling saleswoman and walks toward the glass door of the boutique, looking back at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I walk out. And I give it seventy-two hours." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 3 · Três dias** — PT: Se depois de três dias ainda o quero, e cabe no plano, compro. A pronto. / EN: If after three days I still want it, and it fits the plan, I buy it. In cash.
+**Scene 4 · Três dias** — PT: Se depois de três dias ainda o quero, e cabe no plano, compro. A pronto. / EN: If after three days I still want it, and it fits the plan, I buy it. In cash.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) reads a book in her library armchair while a wall calendar beside her flips pages, the light changing from morning to night three times. Medium shot.
 ```
@@ -81,7 +97,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) reads a book in her library armchair while a wall calendar beside her flips pages, the light changing from morning to night three times. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · A verdade** — PT: Na maioria das vezes? Já nem me lembro que existia. / EN: Most of the time? I've forgotten it even existed.
+**Scene 5 · A verdade** — PT: Na maioria das vezes? Já nem me lembro que existia. / EN: Most of the time? I've forgotten it even existed.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) laughs warmly, head tilted back slightly, teacup in hand. Medium close-up.
 ```
@@ -89,7 +105,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) laughs warmly, head tilted back slightly, teacup in hand. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Most of the time? I've forgotten it even existed." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Ação** — PT: O impulso sai caro, querida. A paciência é grátis. Experimenta esta semana. / EN: Impulse is expensive, darling. Patience is free. Try it this week.  [card: EXPERIMENTA 7 DIAS]
+**Scene 6 · Ação** — PT: O impulso sai caro, querida. A paciência é grátis. Experimenta esta semana. / EN: Impulse is expensive, darling. Patience is free. Try it this week.  [card: EXPERIMENTA 7 DIAS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sets her teacup down and looks straight at the viewer, calm and wise. Medium close-up.
 ```
@@ -100,7 +116,15 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 ### Video 3: O meu carro tem 12 anos / My car is 12 years old
 **Hook:** Podia comprar qualquer carro. Conduzo este. / I could buy any car. I drive this one.
 
-**Scene 1 · Hook** — PT: Podia comprar o carro que quisesse. Conduzo este há doze anos. / EN: I could buy any car I want. I've driven this one for twelve years.  [card: 12 ANOS]
+**Scene 1 · Cena 0 · O arrumador** — PT: O arrumador riu-se do meu carro. Não sabia quem eu era. / EN: The valet laughed at my car. He had no idea who I was.  [card: ELE RIU-SE]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Night, red carpet outside a gala: a young valet in a uniform laughs and smirks at Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s old dark-green sedan while guests in gowns arrive in new supercars; Simone steps out calmly.
+```
+```
+Night, red carpet outside a gala: a young valet in a uniform laughs and smirks at Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch)'s old dark-green sedan while guests in gowns arrive in new supercars; Simone steps out calmly.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — PT: Podia comprar o carro que quisesse. Conduzo este há doze anos. / EN: I could buy any car I want. I've driven this one for twelve years.  [card: 12 ANOS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans against a spotless 12-year-old dark-green classic sedan parked in front of a grand stone mansion, keys in hand, amused smile at the viewer. Medium-wide shot, golden hour.
 ```
@@ -108,7 +132,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) leans against a spotless 12-year-old dark-green classic sedan parked in front of a grand stone mansion, keys in hand, amused smile at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "I could buy any car I want. I've driven this one for twelve years." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · Dinheiro novo** — PT: O dinheiro novo compra o carro para ser visto. / EN: New money buys the car to be seen.
+**Scene 3 · Dinheiro novo** — PT: O dinheiro novo compra o carro para ser visto. / EN: New money buys the car to be seen.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. A young man in a flashy outfit and sunglasses at a car dealership full of balloons, signing a thick stack of loan papers next to a shiny red sports car. Medium shot.
 ```
@@ -116,7 +140,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A young man in a flashy outfit and sunglasses at a car dealership full of balloons, signing a thick stack of loan papers next to a shiny red sports car. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · O valor cai** — PT: E esse carro perde valor no momento em que sai do stand. / EN: And that car loses value the moment it leaves the lot.  [card: VALOR ↓]
+**Scene 4 · O valor cai** — PT: E esse carro perde valor no momento em que sai do stand. / EN: And that car loses value the moment it leaves the lot.  [card: VALOR ↓]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. The shiny red sports car drives off the dealership lot while the price on its windshield sticker visibly drops on a digital sign behind it. Wide shot, comedic.
 ```
@@ -124,7 +148,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The shiny red sports car drives off the dealership lot while the price on its windshield sticker visibly drops on a digital sign behind it. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · O meu carro** — PT: O meu carro leva-me onde preciso. O meu dinheiro fica onde pode crescer. / EN: My car takes me where I need to go. My money stays where it can grow.
+**Scene 5 · O meu carro** — PT: O meu carro leva-me onde preciso. O meu dinheiro fica onde pode crescer. / EN: My car takes me where I need to go. My money stays where it can grow.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) polishes the hood of her old green sedan with a soft cloth, content and proud. Medium shot.
 ```
@@ -132,7 +156,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) polishes the hood of her old green sedan with a soft cloth, content and proud. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "My car takes me where I need to go. My money stays where it can grow." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Pergunta** — PT: Rico não é o que conduzes. É o que guardas. Quantos anos tem o teu carro? / EN: Rich isn't what you drive. It's what you keep. How old is your car? Tell me.  [card: QUANTOS ANOS TEM O TEU?]
+**Scene 6 · Pergunta** — PT: Rico não é o que conduzes. É o que guardas. Quantos anos tem o teu carro? / EN: Rich isn't what you drive. It's what you keep. How old is your car? Tell me.  [card: QUANTOS ANOS TEM O TEU?]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits in the driver's seat with the door open, raised eyebrow at the viewer. Medium close-up.
 ```
@@ -143,7 +167,15 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 ### Video 4: 3 coisas que o dinheiro antigo nunca diz / 3 things old money never says
 **Hook:** 3 coisas que o dinheiro antigo nunca diz. / 3 things old money never says out loud.
 
-**Scene 1 · Hook** — PT: Três coisas que o dinheiro antigo nunca diz em voz alta. / EN: Three things old money never says out loud.  [card: 3 COISAS]
+**Scene 1 · Cena 0 · Silêncio** — PT: Ela fez a única pergunta a que o dinheiro antigo nunca responde. / EN: She asked the one question old money never answers.  [card: SILÊNCIO…]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Garden tea party: a woman in a big hat leans toward Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) and asks something; every guest at the table freezes mid-sip and turns to stare at Simone. Dead silence, a teacup trembling on a saucer.
+```
+```
+Garden tea party: a woman in a big hat leans toward Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) and asks something; every guest at the table freezes mid-sip and turns to stare at Simone. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — PT: Três coisas que o dinheiro antigo nunca diz em voz alta. / EN: Three things old money never says out loud.  [card: 3 COISAS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at an elegant garden tea party with white roses and a silver tea set, holding up three fingers, mischievous smile. Medium shot.
 ```
@@ -151,7 +183,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at an elegant garden tea party with white roses and a silver tea set, holding up three fingers, mischievous smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Three things old money never says out loud." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · 1. O preço** — PT: Um: o preço. Nunca dizemos quanto custou. / EN: One: the price. We never say what something cost.  [card: 1. O PREÇO]
+**Scene 3 · 1. O preço** — PT: Um: o preço. Nunca dizemos quanto custou. / EN: One: the price. We never say what something cost.  [card: 1. O PREÇO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits with a friend who is proudly showing off a shopping bag; Simone smiles politely and sips her tea. Medium shot.
 ```
@@ -159,7 +191,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sits with a friend who is proudly showing off a shopping bag; Simone smiles politely and sips her tea. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "One: the price. We never say what something cost." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 3 · 2. Não posso** — PT: Dois: 'não tenho dinheiro'. Dizemos: 'não é prioridade'. / EN: Two: 'I can't afford it.' We say: 'It's not a priority.'  [card: 2. NÃO É PRIORIDADE]
+**Scene 4 · 2. Não posso** — PT: Dois: 'não tenho dinheiro'. Dizemos: 'não é prioridade'. / EN: Two: 'I can't afford it.' We say: 'It's not a priority.'  [card: 2. NÃO É PRIORIDADE]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) gently hands back an elegant invitation card to a friend with a calm, kind smile. Medium shot.
 ```
@@ -167,7 +199,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) gently hands back an elegant invitation card to a friend with a calm, kind smile. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Two: 'I can't afford it.' We say: 'It's not a priority.'" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 4 · 3. Quanto temos** — PT: Três: quanto temos. A riqueza sussurra. / EN: Three: how much we have. Wealth whispers.  [card: 3. A RIQUEZA SUSSURRA]
+**Scene 5 · 3. Quanto temos** — PT: Três: quanto temos. A riqueza sussurra. / EN: Three: how much we have. Wealth whispers.  [card: 3. A RIQUEZA SUSSURRA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at her desk closes a leather portfolio and places her hand on top of it, finger to her lips. Medium close-up.
 ```
@@ -175,7 +207,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) at her desk closes a leather portfolio and places her hand on top of it, finger to her lips. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Three: how much we have. Wealth whispers." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Lição** — PT: Dinheiro barulhento vai-se depressa. Dinheiro discreto fica. Qual é o teu? / EN: Loud money leaves fast. Quiet money stays. Which one is yours?
+**Scene 6 · Lição** — PT: Dinheiro barulhento vai-se depressa. Dinheiro discreto fica. Qual é o teu? / EN: Loud money leaves fast. Quiet money stays. Which one is yours?
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) raises her teacup like a toast, warm confident smile. Medium shot.
 ```
@@ -186,7 +218,15 @@ Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-leng
 ### Video 5: A pergunta do meu pai / My father's one question
 **Hook:** Antes de cada compra, o meu pai fazia uma pergunta. / Before every purchase, my father asked one question.
 
-**Scene 1 · Hook** — PT: Antes de cada compra, o meu pai fazia uma pergunta. / EN: Before every purchase, my father asked one question.
+**Scene 1 · Cena 0 · O pai** — PT: O meu pai recusou-se a comprar-me um carro. Aos dezoito odiei-o. Aos quarenta agradeci-lhe. / EN: My father refused to buy me a car. At eighteen I hated him. At forty I thanked him.  [card: AOS 18 ODIEI-O]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. 1980s flashback, dim study: a stern elegant father slams a leather ledger shut on a mahogany desk; an 18-year-old Simone with dark curls stares at him, furious, tears in her eyes.
+```
+```
+1980s flashback, dim study: a stern elegant father slams a leather ledger shut on a mahogany desk; an 18-year-old Simone with dark curls stares at him, furious, tears in her eyes.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — PT: Antes de cada compra, o meu pai fazia uma pergunta. / EN: Before every purchase, my father asked one question.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in her library holding a silver-framed photo of her father (an elegant Black man in a 1980s three-piece suit), smiling with nostalgia, then looking at the viewer. Medium shot.
 ```
@@ -194,7 +234,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) in her library holding a silver-framed photo of her father (an elegant Black man in a 1980s three-piece suit), smiling with nostalgia, then looking at the viewer. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "Before every purchase, my father asked one question." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · O pai** — PT: 'Isto põe dinheiro no meu bolso… ou tira?' / EN: 'Does this put money in my pocket… or take it out?'  [card: PÕE OU TIRA?]
+**Scene 3 · O pai** — PT: 'Isto põe dinheiro no meu bolso… ou tira?' / EN: 'Does this put money in my pocket… or take it out?'  [card: PÕE OU TIRA?]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. 1980s flashback: the elegant father at a mahogany desk with an open ledger, pointing at it while a 20-year-old Simone listens closely. Medium shot, warm light.
 ```
@@ -202,7 +242,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 1980s flashback: the elegant father at a mahogany desk with an open ledger, pointing at it while a 20-year-old Simone listens closely. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · Exemplo** — PT: Um apartamento arrendado põe dinheiro. Uma mota de água que usas duas vezes por ano tira. / EN: A flat you rent out puts money in. A jet ski you use twice a year takes it out.
+**Scene 4 · Exemplo** — PT: Um apartamento arrendado põe dinheiro. Uma mota de água que usas duas vezes por ano tira. / EN: A flat you rent out puts money in. A jet ski you use twice a year takes it out.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Split composition: left, a charming small apartment building with a happy tenant handing over a rent envelope; right, a dusty jet ski on a trailer in a garage. Medium-wide shot.
 ```
@@ -210,7 +250,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Split composition: left, a charming small apartment building with a happy tenant handing over a rent envelope; right, a dusty jet ski on a trailer in a garage. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · Ativo vs passivo** — PT: É essa a diferença entre um ativo e um passivo. / EN: That's the difference between an asset and a liability.  [card: ATIVO vs PASSIVO]
+**Scene 5 · Ativo vs passivo** — PT: É essa a diferença entre um ativo e um passivo. / EN: That's the difference between an asset and a liability.  [card: ATIVO vs PASSIVO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sitting in her wingback chair, explaining with one finger raised. Medium close-up.
 ```
@@ -218,7 +258,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) sitting in her wingback chair, explaining with one finger raised. She looks at the camera and says in a calm, warm, slightly amused, refined mature female voice, speaking English: "That's the difference between an asset and a liability." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Ação** — PT: Faz a pergunta dele antes da próxima compra. Segue para mais regras da nossa família. / EN: Ask his question before your next purchase. Follow for more of our family rules.  [card: SEGUE ✨]
+**Scene 6 · Ação** — PT: Faz a pergunta dele antes da próxima compra. Segue para mais regras da nossa família. / EN: Ask his question before your next purchase. Follow for more of our family rules.  [card: SEGUE ✨]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Warm old-money interiors: walnut wood panelling, brass lamps, fireplace glow, cream and emerald tones. Simone (elegant Black woman in her late 50s, warm deep-brown skin, shoulder-length soft dark curls with silver at the temples, knowing warm smile, three-strand pearl necklace, small gold stud earrings, ivory silk blouse, cream tailored trousers, slim gold watch) puts the photo back on the shelf and smiles at the viewer. Medium shot.
 ```
@@ -240,7 +280,15 @@ Photorealistic character reference sheet for an AI influencer, high-end studio p
 ### Video 1: Do zero, sem mostrar a cara
 **Hook:** Comecei uma página do zero. Sem mostrar a cara.
 
-**Scene 1 · Hook** — Comecei esta página do zero. Sem mostrar a cara. E vou mostrar-te tudo.  [card: DIA 1]
+**Scene 1 · Cena 0 · Ninguém sabe** — Ninguém da minha família sabe que esta página é minha.  [card: NINGUÉM SABE]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Dark bedroom at night, only a phone screen lighting the scene: Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) lies awake, phone buzzing with notifications, and slowly covers half of her face with her hand, a secret smile.
+```
+```
+Dark bedroom at night, only a phone screen lighting the scene: Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) lies awake, phone buzzing with notifications, and slowly covers half of her face with her hand, a secret smile.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Comecei esta página do zero. Sem mostrar a cara. E vou mostrar-te tudo.  [card: DIA 1]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits at a sleek glass desk in a high-rise apartment at sunset, city skyline behind her, laptop open, looking at the viewer with a confident smile. Medium shot.
 ```
@@ -248,7 +296,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits at a sleek glass desk in a high-rise apartment at sunset, city skyline behind her, laptop open, looking at the viewer with a confident smile. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Comecei esta página do zero. Sem mostrar a cara. E vou mostrar-te tudo." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · O medo** — Muitas mulheres não começam porque têm vergonha de aparecer.
+**Scene 3 · O medo** — Muitas mulheres não começam porque têm vergonha de aparecer.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. A young woman in her 30s in a cozy bedroom at night, hiding her face behind her phone, nervous, looking at an empty social media profile on the screen (no readable text). Medium shot, soft blue light.
 ```
@@ -256,7 +304,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A young woman in her 30s in a cozy bedroom at night, hiding her face behind her phone, nervous, looking at an empty social media profile on the screen (no readable text). Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · A solução** — Uma página anónima resolve isso. Tu crias o conteúdo, a página dá a cara.
+**Scene 4 · A solução** — Uma página anónima resolve isso. Tu crias o conteúdo, a página dá a cara.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) holds up a tablet showing a colourful grid of elegant faceless posts (quotes, hands, coffee, city views, no readable text), smiling. Medium close-up.
 ```
@@ -264,7 +312,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) holds up a tablet showing a colourful grid of elegant faceless posts (quotes, hands, coffee, city views, no readable text), smiling. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Uma página anónima resolve isso. Tu crias o conteúdo, a página dá a cara." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 4 · Os números** — Hoje tenho [X] seguidores. Vou mostrar os números reais, mesmo quando forem pequenos.  [card: [X] SEGUIDORES]
+**Scene 5 · Os números** — Hoje tenho [X] seguidores. Vou mostrar os números reais, mesmo quando forem pequenos.  [card: [X] SEGUIDORES]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) points at a large wall screen in her office showing a simple growing bar chart with no readable numbers, determined expression. Medium shot.
 ```
@@ -272,7 +320,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) points at a large wall screen in her office showing a simple growing bar chart with no readable numbers, determined expression. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Hoje tenho [X] seguidores. Vou mostrar os números reais, mesmo quando forem pequenos." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Lição** — Segue para veres esta página a crescer, dia a dia.  [card: SEGUE O DIA 2]
+**Scene 6 · Lição** — Segue para veres esta página a crescer, dia a dia.  [card: SEGUE O DIA 2]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) closes her laptop and stands by the window at sunset, turning to the viewer with a warm smile. Medium shot.
 ```
@@ -283,7 +331,15 @@ Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dar
 ### Video 2: 3 erros da primeira semana
 **Hook:** 3 erros que cometi na primeira semana
 
-**Scene 1 · Hook** — Três erros que cometi na primeira semana da minha página.  [card: 3 ERROS]
+**Scene 1 · Cena 0 · Zero** — Publiquei sete dias seguidos. Resultado: quase zero.  [card: 7 DIAS. QUASE ZERO.]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Close-up: Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) stares at a laptop screen showing a completely flat line chart, the light of the screen on her face, she exhales and closes the laptop hard.
+```
+```
+Close-up: Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) stares at a laptop screen showing a completely flat line chart, the light of the screen on her face, she exhales and closes the laptop hard.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Três erros que cometi na primeira semana da minha página.  [card: 3 ERROS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits on a cream sofa holding up three fingers, raised eyebrow, half smile. Medium shot, warm apartment.
 ```
@@ -291,7 +347,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits on a cream sofa holding up three fingers, raised eyebrow, half smile. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Três erros que cometi na primeira semana da minha página." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · Erro 1** — Erro um: falar de tudo. Ninguém segue uma página sem tema.  [card: ERRO 1: SEM NICHO]
+**Scene 3 · Erro 1** — Erro um: falar de tudo. Ninguém segue uma página sem tema.  [card: ERRO 1: SEM NICHO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) at her desk surrounded by dozens of open browser tabs and sticky notes about different topics (food, travel, cars, fitness, makeup) covering her desk and monitor, overwhelmed expression. Medium shot.
 ```
@@ -299,7 +355,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) at her desk surrounded by dozens of open browser tabs and sticky notes about different topics (food, travel, cars, fitness, makeup) covering her desk and monitor, overwhelmed expression. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Erro um: falar de tudo. Ninguém segue uma página sem tema." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 3 · Erro 2** — Erro dois: publicar uma vez e desaparecer. Consistência vale mais do que perfeição.  [card: ERRO 2: SEM CONSISTÊNCIA]
+**Scene 4 · Erro 2** — Erro dois: publicar uma vez e desaparecer. Consistência vale mais do que perfeição.  [card: ERRO 2: SEM CONSISTÊNCIA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) looks at a calendar on the wall with only one day circled and the rest empty, embarrassed smile. Medium shot.
 ```
@@ -307,7 +363,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) looks at a calendar on the wall with only one day circled and the rest empty, embarrassed smile. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Erro dois: publicar uma vez e desaparecer. Consistência vale mais do que perfeição." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 4 · Erro 3** — Erro três: começar o vídeo devagar. Tens um segundo para prender a pessoa.  [card: ERRO 3: GANCHO FRACO]
+**Scene 5 · Erro 3** — Erro três: começar o vídeo devagar. Tens um segundo para prender a pessoa.  [card: ERRO 3: GANCHO FRACO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) scrolls on her phone with a disappointed face, seeing a post with a long boring first frame (no readable text). Close-up.
 ```
@@ -315,7 +371,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) scrolls on her phone with a disappointed face, seeing a post with a long boring first frame (no readable text). He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Erro três: começar o vídeo devagar. Tens um segundo para prender a pessoa." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Lição** — Errar faz parte. Mostrar os erros é a estratégia. Qual destes já cometeste?
+**Scene 6 · Lição** — Errar faz parte. Mostrar os erros é a estratégia. Qual destes já cometeste?
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) smiles confidently at the viewer, coffee cup in hand, city lights behind. Medium shot.
 ```
@@ -326,7 +382,15 @@ Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dar
 ### Video 3: Como escolher o nicho
 **Hook:** Como escolher o nicho da tua página anónima
 
-**Scene 1 · Hook** — Não sabes sobre o que fazer a tua página anónima? Faz estas três perguntas.
+**Scene 1 · Cena 0 · Três meses** — Escolhi o nicho errado e perdi três meses.  [card: 3 MESES PERDIDOS]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) rips a page out of a notebook full of crossed-out ideas and throws it at a bin full of crumpled pages, frustrated, at night in her apartment.
+```
+```
+Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) rips a page out of a notebook full of crossed-out ideas and throws it at a bin full of crumpled pages, frustrated, at night in her apartment.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Não sabes sobre o que fazer a tua página anónima? Faz estas três perguntas.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) stands in front of a whiteboard in a bright modern office, marker in hand, looking at the viewer. Medium shot.
 ```
@@ -334,7 +398,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) stands in front of a whiteboard in a bright modern office, marker in hand, looking at the viewer. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Não sabes sobre o que fazer a tua página anónima? Faz estas três perguntas." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · Pergunta 1** — Um: sobre o que conseguias falar todos os dias sem te cansares?  [card: 1. O QUE TE APAIXONA]
+**Scene 3 · Pergunta 1** — Um: sobre o que conseguias falar todos os dias sem te cansares?  [card: 1. O QUE TE APAIXONA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits with a notebook, a thought bubble above her showing books, plants and a coffee cup, smiling dreamily. Medium shot.
 ```
@@ -342,7 +406,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) sits with a notebook, a thought bubble above her showing books, plants and a coffee cup, smiling dreamily. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Um: sobre o que conseguias falar todos os dias sem te cansares?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 3 · Pergunta 2** — Dois: que perguntas as pessoas já te fazem?  [card: 2. O QUE TE PERGUNTAM]
+**Scene 4 · Pergunta 2** — Dois: que perguntas as pessoas já te fazem?  [card: 2. O QUE TE PERGUNTAM]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) looks at her phone and sees a stream of incoming direct messages lighting up the screen, intrigued expression. Medium shot.
 ```
@@ -350,7 +414,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) looks at her phone and sees a stream of incoming direct messages lighting up the screen, intrigued expression. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Dois: que perguntas as pessoas já te fazem?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 4 · Pergunta 3** — Três: há quem pague por soluções nesse tema?  [card: 3. HÁ PROCURA?]
+**Scene 5 · Pergunta 3** — Três: há quem pague por soluções nesse tema?  [card: 3. HÁ PROCURA?]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) points at a framed photo of a small busy boutique with a smiling customer, explaining. Medium shot.
 ```
@@ -358,7 +422,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) points at a framed photo of a small busy boutique with a smiling customer, explaining. He/she looks at the camera and says in a warm, confident, elegant female voice, speaking European Portuguese: "Três: há quem pague por soluções nesse tema?" Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Lição** — Onde as três respostas se encontram, está o teu nicho. Guarda este vídeo.  [card: GUARDA 📌]
+**Scene 6 · Lição** — Onde as três respostas se encontram, está o teu nicho. Guarda este vídeo.  [card: GUARDA 📌]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Luxury lifestyle look: high-rise city views at golden hour, royal blue and gold accents. Fénix (elegant Black woman around 50, warm brown skin, shoulder-length soft dark curls, confident warm smile, royal-blue sleeveless wrap dress, delicate diamond necklace and stud earrings, slim gold watch) circles one word on the whiteboard (no readable text), turns and smiles. Medium shot.
 ```
@@ -380,7 +444,15 @@ Photorealistic character reference sheet for an AI influencer, high-end studio p
 ### Video 1: A águia criada pelas galinhas / The eagle raised by chickens
 **Hook:** Uma águia viveu a vida inteira a pensar que era galinha. / An eagle lived his whole life thinking he was a chicken.
 
-**Scene 1 · Hook** — PT: Uma águia viveu a vida inteira a pensar que era uma galinha. / EN: An eagle lived his whole life thinking he was a chicken.
+**Scene 1 · Cena 0 · O ovo** — PT: Este ovo não devia estar aqui. / EN: This egg was never supposed to be here.  [card: NÃO DEVIA ESTAR AQUI / NEVER SUPPOSED TO BE HERE]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Dark barn at dawn, macro shot: a large eagle egg in a straw nest among small chicken eggs starts to crack; three hens lean in and stare at it in silence.
+```
+```
+Dark barn at dawn, macro shot: a large eagle egg in a straw nest among small chicken eggs starts to crack; three hens lean in and stare at it in silence.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — PT: Uma águia viveu a vida inteira a pensar que era uma galinha. / EN: An eagle lived his whole life thinking he was a chicken.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits in a leather armchair on a rocky mountain peak above the clouds at sunrise, hand on his chin, looking at the viewer. Medium shot.
 ```
@@ -388,7 +460,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits in a leather armchair on a rocky mountain peak above the clouds at sunrise, hand on his chin, looking at the viewer. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · O ovo** — PT: Um agricultor pôs o ovo dela no ninho das galinhas. / EN: A farmer placed his egg in a chicken's nest.
+**Scene 3 · O ovo** — PT: Um agricultor pôs o ovo dela no ninho das galinhas. / EN: A farmer placed his egg in a chicken's nest.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. A farmer gently places a large eagle egg among chicken eggs in a straw nest inside a rustic barn, a hen watching curiously. Warm morning light. Medium shot.
 ```
@@ -396,7 +468,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A farmer gently places a large eagle egg among chicken eggs in a straw nest inside a rustic barn, a hen watching curiously. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · Entre galinhas** — PT: Ela cresceu a ciscar o chão, como as outras. / EN: He grew up pecking the ground, like the others.
+**Scene 4 · Entre galinhas** — PT: Ela cresceu a ciscar o chão, como as outras. / EN: He grew up pecking the ground, like the others.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. A young eagle (no suit) pecks at grain in a farmyard among chickens, wings folded, looking a little out of place, fence around them. Medium-wide shot.
 ```
@@ -404,7 +476,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A young eagle (no suit) pecks at grain in a farmyard among chickens, wings folded, looking a little out of place, fence around them. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · O céu** — PT: Um dia viu uma águia a voar lá no alto. 'Aquilo nunca vai ser para mim', pensou. / EN: One day he saw an eagle soaring high. 'That will never be me,' he thought.  [card: NUNCA VAI SER PARA MIM?]
+**Scene 5 · O céu** — PT: Um dia viu uma águia a voar lá no alto. 'Aquilo nunca vai ser para mim', pensou. / EN: One day he saw an eagle soaring high. 'That will never be me,' he thought.  [card: NUNCA VAI SER PARA MIM?]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. The young eagle in the farmyard looks up in awe at a majestic adult eagle soaring high in a bright blue sky, a chicken next to him shrugging. Low angle shot.
 ```
@@ -412,7 +484,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The young eagle in the farmyard looks up in awe at a majestic adult eagle soaring high in a bright blue sky, a chicken next to him shrugging. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · O voo** — PT: Até ao dia em que abriu as asas. / EN: Until the day he opened his wings.
+**Scene 6 · O voo** — PT: Até ao dia em que abriu as asas. / EN: Until the day he opened his wings.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. The young eagle spreads his huge wings for the first time on top of the barn roof, wind blowing, chickens looking up in shock, then takes off into the sunrise. Dynamic wide shot.
 ```
@@ -420,7 +492,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The young eagle spreads his huge wings for the first time on top of the barn roof, wind blowing, chickens looking up in shock, then takes off into the sunrise. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 6 · Lição** — PT: Às vezes não te falta talento. Falta-te sair do bando. Segue para o dia 1 do Mind Reset. / EN: Sometimes you don't lack talent. You lack leaving the flock. Follow for day 1 of the Mind Reset.  [card: DIA 1 / DAY 1]
+**Scene 7 · Lição** — PT: Às vezes não te falta talento. Falta-te sair do bando. Segue para o dia 1 do Mind Reset. / EN: Sometimes you don't lack talent. You lack leaving the flock. Follow for day 1 of the Mind Reset.  [card: DIA 1 / DAY 1]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) stands on the mountain peak with arms crossed, wind moving his feathers, golden sunrise behind him, looking at the viewer. Medium shot.
 ```
@@ -431,7 +503,15 @@ the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp gold
 ### Video 2: Acima da tempestade / Above the storm
 **Hook:** Quando vem a tempestade, a águia não foge. / When the storm comes, the eagle doesn't run.
 
-**Scene 1 · Hook** — PT: Quando vem a tempestade, as galinhas escondem-se. / EN: When the storm comes, the chickens hide.
+**Scene 1 · Cena 0 · Relâmpago** — PT: Toda a gente fugiu. Menos um. / EN: Everyone ran. Except one.  [card: MENOS UM / EXCEPT ONE]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Night storm on a cliff: a lightning bolt strikes close by, chickens scatter into the dark; in the flash of light, a bald eagle on the cliff edge slowly opens its eyes.
+```
+```
+Night storm on a cliff: a lightning bolt strikes close by, chickens scatter into the dark; in the flash of light, a bald eagle on the cliff edge slowly opens its eyes.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — PT: Quando vem a tempestade, as galinhas escondem-se. / EN: When the storm comes, the chickens hide.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) stands at the edge of a cliff in his suit as dark storm clouds roll in, calm expression, looking at the viewer. Medium shot, dramatic light.
 ```
@@ -439,7 +519,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) stands at the edge of a cliff in his suit as dark storm clouds roll in, calm expression, looking at the viewer. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · Galinhas** — PT: Fecham-se no galinheiro e esperam que passe. / EN: They lock themselves in the coop and wait.
+**Scene 3 · Galinhas** — PT: Fecham-se no galinheiro e esperam que passe. / EN: They lock themselves in the coop and wait.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Chickens panicking and running into a small wooden coop as rain starts and lightning flashes, feathers flying. Medium-wide shot, comedic.
 ```
@@ -447,7 +527,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Chickens panicking and running into a small wooden coop as rain starts and lightning flashes, feathers flying. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · Águia** — PT: A águia faz outra coisa. Abre as asas e usa o vento. / EN: The eagle does something else. He opens his wings and uses the wind.  [card: USA O VENTO / USE THE WIND]
+**Scene 4 · Águia** — PT: A águia faz outra coisa. Abre as asas e usa o vento. / EN: The eagle does something else. He opens his wings and uses the wind.  [card: USA O VENTO / USE THE WIND]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. A majestic eagle spreads its wings into the strong storm wind at the cliff edge, feathers blown back, rain around it. Low angle shot.
 ```
@@ -455,7 +535,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A majestic eagle spreads its wings into the strong storm wind at the cliff edge, feathers blown back, rain around it. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · Acima** — PT: E sobe até ficar acima da tempestade. / EN: And rises until he's above the storm.
+**Scene 5 · Acima** — PT: E sobe até ficar acima da tempestade. / EN: And rises until he's above the storm.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. The eagle soars above the storm clouds into calm golden sunlight, the dark storm below. Epic wide shot.
 ```
@@ -463,7 +543,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The eagle soars above the storm clouds into calm golden sunlight, the dark storm below. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — PT: O problema que te assusta pode ser o vento que te faz subir. / EN: The problem that scares you can be the wind that lifts you.
+**Scene 6 · Lição** — PT: O problema que te assusta pode ser o vento que te faz subir. / EN: The problem that scares you can be the wind that lifts you.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits in his leather armchair on the sunny mountain top, storm clouds far below, hand on chin, looking at the viewer. Medium shot.
 ```
@@ -474,7 +554,15 @@ the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp gold
 ### Video 3: Galinhas gastam, águias investem / Chickens spend, eagles invest
 **Hook:** Porque é que as galinhas nunca têm milho no inverno? / Why do chickens never have corn in winter?
 
-**Scene 1 · Hook** — PT: Porque é que as galinhas nunca têm milho no inverno? / EN: Why do chickens never have corn in winter?
+**Scene 1 · Cena 0 · Janeiro** — PT: Em janeiro, metade do galinheiro passou fome. / EN: By January, half the coop was starving.  [card: JANEIRO / JANUARY]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Blizzard in a farmyard: a shivering chicken pecks at a completely empty, frozen feeder; snow covers everything; wind howling.
+```
+```
+Blizzard in a farmyard: a shivering chicken pecks at a completely empty, frozen feeder; snow covers everything; wind howling.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — PT: Porque é que as galinhas nunca têm milho no inverno? / EN: Why do chickens never have corn in winter?
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits at a mahogany desk in a cabin office overlooking snowy mountains, holding a single ear of golden corn, raised eyebrow. Medium shot.
 ```
@@ -482,7 +570,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) sits at a mahogany desk in a cabin office overlooking snowy mountains, holding a single ear of golden corn, raised eyebrow. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · Verão** — PT: No verão, comem tudo o que apanham. Cada grão. / EN: In summer, they eat everything they find. Every grain.  [card: GASTAM TUDO / SPEND IT ALL]
+**Scene 3 · Verão** — PT: No verão, comem tudo o que apanham. Cada grão. / EN: In summer, they eat everything they find. Every grain.  [card: GASTAM TUDO / SPEND IT ALL]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Summer farmyard: chickens feasting on a huge pile of corn, partying, throwing corn in the air, wearing tiny party hats. Medium-wide shot, comedic.
 ```
@@ -490,7 +578,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Summer farmyard: chickens feasting on a huge pile of corn, partying, throwing corn in the air, wearing tiny party hats. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · Águia** — PT: A águia guarda uma parte. Sempre. Mesmo quando é pouco. / EN: The eagle saves a part. Always. Even when it's little.  [card: POUPA PRIMEIRO / SAVE FIRST]
+**Scene 4 · Águia** — PT: A águia guarda uma parte. Sempre. Mesmo quando é pouco. / EN: The eagle saves a part. Always. Even when it's little.  [card: POUPA PRIMEIRO / SAVE FIRST]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. A young eagle (no suit) carefully stores corn and supplies in a neat wooden storage box in a high cliff nest while chickens laugh below. Medium shot.
 ```
@@ -498,7 +586,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A young eagle (no suit) carefully stores corn and supplies in a neat wooden storage box in a high cliff nest while chickens laugh below. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · Inverno** — PT: Chega o inverno. As galinhas passam fome. / EN: Winter comes. The chickens go hungry.  [card: INVERNO / WINTER]
+**Scene 5 · Inverno** — PT: Chega o inverno. As galinhas passam fome. / EN: Winter comes. The chickens go hungry.  [card: INVERNO / WINTER]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. Snowy winter farmyard: hungry shivering chickens looking at an empty feeder; high above, the eagle's nest is warm with stored food. Wide shot.
 ```
@@ -506,7 +594,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Snowy winter farmyard: hungry shivering chickens looking at an empty feeder; high above, the eagle's nest is warm with stored food. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — PT: Não é o que ganhas. É o que guardas antes de gastar. Paga-te a ti primeiro. / EN: It's not what you earn. It's what you keep before you spend. Pay yourself first.  [card: PAGA-TE PRIMEIRO / PAY YOURSELF FIRST]
+**Scene 6 · Lição** — PT: Não é o que ganhas. É o que guardas antes de gastar. Paga-te a ti primeiro. / EN: It's not what you earn. It's what you keep before you spend. Pay yourself first.  [card: PAGA-TE PRIMEIRO / PAY YOURSELF FIRST]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Epic nature documentary realism: majestic mountain landscapes, dramatic golden-hour sky; the eagle looks like a real bald eagle with real feathers, the suit is real tailored fabric. the Eagle (an anthropomorphic bald eagle with a white feathered head, sharp golden beak and wise amber eyes, wearing a tailored navy three-piece suit, white shirt, gold tie and gold pocket square, brown leather gloves on his talon-hands) by the fireplace in his cabin office, holding the ear of corn, warm light, looking at the viewer. Medium shot.
 ```
@@ -528,7 +616,15 @@ Photorealistic character reference sheet for an AI influencer, high-end studio p
 ### Video 1: O truque da pipoca média
 **Hook:** Por que a pipoca média custa quase o mesmo que a grande?
 
-**Scene 1 · Hook** — Por que a pipoca média custa quase o mesmo que a grande? Não é por acaso.
+**Scene 1 · Cena 0 · Enganado** — Você foi enganado no cinema. E nem percebeu.  [card: VOCÊ FOI ENGANADO]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Extreme close-up of Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) squinting suspiciously at a crumpled cinema receipt under the flickering light of a movie screen, then looking straight at the camera.
+```
+```
+Extreme close-up of Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) squinting suspiciously at a crumpled cinema receipt under the flickering light of a movie screen, then looking straight at the camera.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Por que a pipoca média custa quase o mesmo que a grande? Não é por acaso.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) stands in a cinema lobby holding a big popcorn bucket, raised eyebrow, looking at the viewer. Medium shot.
 ```
@@ -536,7 +632,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) stands in a cinema lobby holding a big popcorn bucket, raised eyebrow, looking at the viewer. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "Por que a pipoca média custa quase o mesmo que a grande? Não é por acaso." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · O balcão** — Imagina: pequena por dez, média por dezoito, grande por vinte.  [card: 10 · 18 · 20]
+**Scene 3 · O balcão** — Imagina: pequena por dez, média por dezoito, grande por vinte.  [card: 10 · 18 · 20]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A cinema snack counter with three popcorn sizes (small, medium, large) displayed under warm lights, a customer in his 20s staring at them, thinking. Medium shot.
 ```
@@ -544,7 +640,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A cinema snack counter with three popcorn sizes (small, medium, large) displayed under warm lights, a customer in his 20s staring at them, thinking. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · A escolha** — Quase todo mundo pensa: por dois reais a mais, levo a grande.
+**Scene 4 · A escolha** — Quase todo mundo pensa: por dois reais a mais, levo a grande.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. The customer smiles and points at the large popcorn, cashier handing it over. Medium shot.
 ```
@@ -552,7 +648,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The customer smiles and points at the large popcorn, cashier handing it over. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · O truque** — A média existe só para fazer a grande parecer barata. Chama-se preço âncora.  [card: PREÇO ÂNCORA]
+**Scene 5 · O truque** — A média existe só para fazer a grande parecer barata. Chama-se preço âncora.  [card: PREÇO ÂNCORA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) next to a medium popcorn bucket on a small pedestal under a theatrical spotlight, explaining with one finger up. Medium shot.
 ```
@@ -560,7 +656,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) next to a medium popcorn bucket on a small pedestal under a theatrical spotlight, explaining with one finger up. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "A média existe só para fazer a grande parecer barata. Chama-se preço âncora." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Lição** — Na sua loja, crie uma opção do meio. Siga para um truque de negócio por dia.  [card: 1 TRUQUE POR DIA]
+**Scene 6 · Lição** — Na sua loja, crie uma opção do meio. Siga para um truque de negócio por dia.  [card: 1 TRUQUE POR DIA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) eating popcorn and smiling at the viewer. Medium close-up.
 ```
@@ -571,7 +667,15 @@ Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat sh
 ### Video 2: O café grátis da padaria
 **Hook:** A padaria que dava café de graça… e lucrava mais.
 
-**Scene 1 · Hook** — Essa padaria dava café de graça. E lucrava mais do que as outras.
+**Scene 1 · Cena 0 · Prejuízo** — Essa padaria perdia dinheiro em cada café… de propósito.  [card: DE PROPÓSITO]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Close-up in a bakery: a calculator on the counter showing a loss, a bakery owner smiles while handing out free coffees; Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) watches from a table, eyebrow raised.
+```
+```
+Close-up in a bakery: a calculator on the counter showing a loss, a bakery owner smiles while handing out free coffees; Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) watches from a table, eyebrow raised.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Essa padaria dava café de graça. E lucrava mais do que as outras.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) sits at a small table in a cozy Brazilian bakery, holding a tiny cup of coffee, surprised face. Medium shot.
 ```
@@ -579,7 +683,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) sits at a small table in a cozy Brazilian bakery, holding a tiny cup of coffee, surprised face. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "Essa padaria dava café de graça. E lucrava mais do que as outras." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · A ideia** — O dono oferecia um cafezinho para todo mundo que entrava.  [card: CAFÉ GRÁTIS]
+**Scene 3 · A ideia** — O dono oferecia um cafezinho para todo mundo que entrava.  [card: CAFÉ GRÁTIS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A friendly bakery owner in his 50s with an apron pours free small coffees for customers at the counter, a happy queue. Medium shot.
 ```
@@ -587,7 +691,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A friendly bakery owner in his 50s with an apron pours free small coffees for customers at the counter, a happy queue. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · O cliente** — Mas quem toma café… quer um pão de queijo. Um bolo. Um salgado.
+**Scene 4 · O cliente** — Mas quem toma café… quer um pão de queijo. Um bolo. Um salgado.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A customer sipping the free coffee looks at a display of fresh pão de queijo and cakes, then points and buys several. Medium shot.
 ```
@@ -595,7 +699,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A customer sipping the free coffee looks at a display of fresh pão de queijo and cakes, then points and buys several. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · O truque** — O café atrai o cliente. O lucro vem do resto. Isso se chama produto isca.  [card: PRODUTO ISCA]
+**Scene 5 · O truque** — O café atrai o cliente. O lucro vem do resto. Isso se chama produto isca.  [card: PRODUTO ISCA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) next to a small coffee cup on the counter right beside a big basket of fresh pastries, explaining. Medium shot.
 ```
@@ -603,7 +707,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) next to a small coffee cup on the counter right beside a big basket of fresh pastries, explaining. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "O café atrai o cliente. O lucro vem do resto. Isso se chama produto isca." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · Lição** — Qual é o cafezinho do seu negócio? Me conta nos comentários.
+**Scene 6 · Lição** — Qual é o cafezinho do seu negócio? Me conta nos comentários.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) raises his coffee cup to the viewer with a confident smile. Medium close-up.
 ```
@@ -614,7 +718,15 @@ Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat sh
 ### Video 3: 3 negócios com pouco dinheiro
 **Hook:** 3 negócios para começar com pouco dinheiro
 
-**Scene 1 · Hook** — Três negócios que dá para começar com pouco dinheiro.  [card: 3 IDEIAS]
+**Scene 1 · Cena 0 · O tênis** — Dá pra começar um negócio com menos do que custa esse tênis.  [card: MENOS QUE UM TÊNIS]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) holds up a brand-new expensive sneaker box in one hand and a small handful of banknotes in the other, comparing them, in his home office.
+```
+```
+Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) holds up a brand-new expensive sneaker box in one hand and a small handful of banknotes in the other, comparing them, in his home office.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Três negócios que dá para começar com pouco dinheiro.  [card: 3 IDEIAS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) stands in a modern home office holding up three fingers, energetic smile. Medium shot.
 ```
@@ -622,7 +734,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) stands in a modern home office holding up three fingers, energetic smile. He/she looks at the camera and says in an energetic, friendly young male voice, speaking Brazilian Portuguese: "Três negócios que dá para começar com pouco dinheiro." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · Ideia 1** — Um: doces caseiros por encomenda. Começa na sua cozinha.  [card: 1. DOCES POR ENCOMENDA]
+**Scene 3 · Ideia 1** — Um: doces caseiros por encomenda. Começa na sua cozinha.  [card: 1. DOCES POR ENCOMENDA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A young woman in her 20s in a small home kitchen packing homemade sweets into pretty boxes with ribbons, smiling. Medium shot.
 ```
@@ -630,7 +742,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A young woman in her 20s in a small home kitchen packing homemade sweets into pretty boxes with ribbons, smiling. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · Ideia 2** — Dois: limpeza de carro em domicílio. Você vai até o cliente.  [card: 2. LIMPEZA DE CARRO]
+**Scene 4 · Ideia 2** — Dois: limpeza de carro em domicílio. Você vai até o cliente.  [card: 2. LIMPEZA DE CARRO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A young man in his 20s cleaning a car interior with a portable vacuum in a residential driveway, the owner smiling. Medium shot.
 ```
@@ -638,7 +750,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A young man in his 20s cleaning a car interior with a portable vacuum in a residential driveway, the owner smiling. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · Ideia 3** — Três: cuidar das redes de pequenos comércios do seu bairro.  [card: 3. REDES SOCIAIS]
+**Scene 5 · Ideia 3** — Três: cuidar das redes de pequenos comércios do seu bairro.  [card: 3. REDES SOCIAIS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. A woman in her 30s at a laptop editing a colourful social media post for a small shop, the shop owner watching over her shoulder. Medium shot.
 ```
@@ -646,7 +758,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A woman in her 30s at a laptop editing a colourful social media post for a small shop, the shop owner watching over her shoulder. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — Nenhum é dinheiro fácil, mas todos começam pequeno. Tem mais trinta ideias no link da bio.  [card: +30 IDEIAS NA BIO]
+**Scene 6 · Lição** — Nenhum é dinheiro fácil, mas todos começam pequeno. Tem mais trinta ideias no link da bio.  [card: +30 IDEIAS NA BIO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Modern Brazilian city look: warm daylight, real cafés, cinemas and bakeries in São Paulo. Caio (Brazilian man around 30, light-brown skin, short curly black hair, neat short beard, bright confident smile, black tuxedo with white shirt and black bow tie, gold bracelet) sits on the edge of his desk, pointing down toward the bio link, smiling. Medium shot.
 ```
@@ -668,7 +780,15 @@ Photorealistic character reference sheet for an AI influencer, high-end studio p
 ### Video 1: Jesus no escritório
 **Hook:** E se Jesus aparecesse no seu escritório hoje?
 
-**Scene 1 · Hook** — Ela era a última no escritório. De novo.
+**Scene 1 · Cena 0 · 2h da manhã** — Ela ia pedir demissão às duas da manhã.  [card: 2H DA MANHÃ]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. 2 AM, dark empty office: close-up of a woman's trembling hands typing a resignation letter, the cursor blinking, her finger hovering over the send key.
+```
+```
+2 AM, dark empty office: close-up of a woman's trembling hands typing a resignation letter, the cursor blinking, her finger hovering over the send key.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Ela era a última no escritório. De novo.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. A tired woman in her 30s at an office desk late at night, piles of papers, head in her hands, laptop glowing, everyone else gone. Medium shot, cold blue light.
 ```
@@ -676,7 +796,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A tired woman in her 30s at an office desk late at night, piles of papers, head in her hands, laptop glowing, everyone else gone. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · Ele chega** — Até que alguém puxou uma cadeira ao lado dela.
+**Scene 3 · Ele chega** — Até que alguém puxou uma cadeira ao lado dela.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) quietly pulls up a chair next to the tired woman at her office desk, the warm light around him softening the cold office. Medium shot.
 ```
@@ -684,7 +804,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) quietly pulls up a chair next to the tired woman at her office desk, the warm light around him softening the cold office. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · A conversa** — Você não precisa carregar tudo sozinha.
+**Scene 4 · A conversa** — Você não precisa carregar tudo sozinha.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) sits beside the woman, looking at her with compassion, one hand gently on the desk. Medium close-up.
 ```
@@ -692,7 +812,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) sits beside the woman, looking at her with compassion, one hand gently on the desk. He/she looks at the camera and says in a calm, gentle, warm male voice, speaking Brazilian Portuguese: "Você não precisa carregar tudo sozinha." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 4 · O versículo** — Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei.  [card: MATEUS 11:28]
+**Scene 5 · O versículo** — Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei.  [card: MATEUS 11:28]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. The woman looks up, tears in her eyes but a small relieved smile, warm golden light filling the office. Close-up.
 ```
@@ -700,7 +820,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The woman looks up, tears in her eyes but a small relieved smile, warm golden light filling the office. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Final** — Se hoje você está cansado, lembra: Ele vê você. Pegue o devocional grátis na bio.  [card: DEVOCIONAL GRÁTIS NA BIO]
+**Scene 6 · Final** — Se hoje você está cansado, lembra: Ele vê você. Pegue o devocional grátis na bio.  [card: DEVOCIONAL GRÁTIS NA BIO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Wide shot of the office at night, the woman and Jesus sitting together by the window with the city lights outside, calm and peaceful.
 ```
@@ -711,7 +831,15 @@ Wide shot of the office at night, the woman and Jesus sitting together by the wi
 ### Video 2: Jesus no ônibus lotado
 **Hook:** E se Jesus estivesse no seu ônibus hoje?
 
-**Scene 1 · Hook** — Atrasado. Ansioso. Mais um dia assim.
+**Scene 1 · Cena 0 · Mais uma vez** — Se chegasse atrasado mais uma vez, perdia o emprego.  [card: MAIS UMA VEZ…]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Close-up of a phone screen with a missed call from the boss, a bus stuck in heavy traffic outside the window, a young man's leg bouncing nervously.
+```
+```
+Close-up of a phone screen with a missed call from the boss, a bus stuck in heavy traffic outside the window, a young man's leg bouncing nervously.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Atrasado. Ansioso. Mais um dia assim.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. A crowded city bus at rush hour, a young man in his 20s with a backpack standing squeezed, checking his phone anxiously, sweating. Medium shot.
 ```
@@ -719,7 +847,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A crowded city bus at rush hour, a young man in his 20s with a backpack standing squeezed, checking his phone anxiously, sweating. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · O lugar** — Até que um desconhecido ofereceu o lugar dele.
+**Scene 3 · O lugar** — Até que um desconhecido ofereceu o lugar dele.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) stands up from his seat on the crowded bus and gently offers it to the anxious young man. Medium shot.
 ```
@@ -727,7 +855,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) stands up from his seat on the crowded bus and gently offers it to the anxious young man. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · A conversa** — Respira. O dia de hoje não depende só de você.
+**Scene 4 · A conversa** — Respira. O dia de hoje não depende só de você.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) holds the bus handrail, smiling calmly at the young man now seated. Medium close-up.
 ```
@@ -735,7 +863,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) holds the bus handrail, smiling calmly at the young man now seated. He/she looks at the camera and says in a calm, gentle, warm male voice, speaking Brazilian Portuguese: "Respira. O dia de hoje não depende só de você." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 4 · O versículo** — Não andeis ansiosos de coisa alguma; em tudo, pela oração, apresentai a Deus os vossos pedidos.  [card: FILIPENSES 4:6]
+**Scene 5 · O versículo** — Não andeis ansiosos de coisa alguma; em tudo, pela oração, apresentai a Deus os vossos pedidos.  [card: FILIPENSES 4:6]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. The young man puts his phone away, closes his eyes and breathes, sunlight coming through the bus window onto his face. Close-up.
 ```
@@ -743,7 +871,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The young man puts his phone away, closes his eyes and breathes, sunlight coming through the bus window onto his face. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Final** — Entrega a sua ansiedade hoje. Siga para mais histórias.
+**Scene 6 · Final** — Entrega a sua ansiedade hoje. Siga para mais histórias.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. The bus drives through the morning city, golden light; inside, the young man smiles while Jesus looks out of the window. Wide shot.
 ```
@@ -754,7 +882,15 @@ The bus drives through the morning city, golden light; inside, the young man smi
 ### Video 3: Jesus na cozinha do restaurante
 **Hook:** E se Jesus trabalhasse na cozinha de um restaurante?
 
-**Scene 1 · Hook** — Na cozinha, ninguém aguentava mais os gritos do chefe.
+**Scene 1 · Cena 0 · O prato** — Naquela noite, alguém ia ser demitido.  [card: QUEM VAI SER DEMITIDO?]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Slow motion: a stack of plates shatters on a restaurant kitchen floor, the chef turns around red-faced and furious, every cook freezes.
+```
+```
+Slow motion: a stack of plates shatters on a restaurant kitchen floor, the chef turns around red-faced and furious, every cook freezes.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Na cozinha, ninguém aguentava mais os gritos do chefe.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. A busy restaurant kitchen at dinner rush: an angry chef in his 40s shouting, cooks rushing, steam and pans everywhere. Medium-wide shot.
 ```
@@ -762,7 +898,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A busy restaurant kitchen at dinner rush: an angry chef in his 40s shouting, cooks rushing, steam and pans everywhere. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · O ajudante** — O ajudante novo só fazia uma coisa: servir. Sem reclamar.
+**Scene 3 · O ajudante** — O ajudante novo só fazia uma coisa: servir. Sem reclamar.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) wearing a simple apron over his robe quietly washes a huge pile of dishes at the sink, smiling, while chaos goes on around him. Medium shot.
 ```
@@ -770,7 +906,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) wearing a simple apron over his robe quietly washes a huge pile of dishes at the sink, smiling, while chaos goes on around him. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · O chefe** — No fim da noite, foi ele quem levou um prato de comida para o chefe.
+**Scene 4 · O chefe** — No fim da noite, foi ele quem levou um prato de comida para o chefe.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Late at night in the empty kitchen, the exhausted chef sits on a crate with his head down; Jesus brings him a plate of food. Medium shot.
 ```
@@ -778,7 +914,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Late at night in the empty kitchen, the exhausted chef sits on a crate with his head down; Jesus brings him a plate of food. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · A conversa** — Quem serve não é menor. Eu vim para servir.
+**Scene 5 · A conversa** — Quem serve não é menor. Eu vim para servir.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) sits next to the chef on a crate, kind smile, speaking softly. Medium close-up.
 ```
@@ -786,7 +922,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Jesus (a man in his early 30s with shoulder-length wavy brown hair, a full beard, kind warm brown eyes, gentle smile, wearing a simple cream linen robe with a light woven shawl, leather sandals) sits next to the chef on a crate, kind smile, speaking softly. He/she looks at the camera and says in a calm, gentle, warm male voice, speaking Brazilian Portuguese: "Quem serve não é menor. Eu vim para servir." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 5 · O versículo** — Pois o próprio Filho do Homem não veio para ser servido, mas para servir.  [card: MARCOS 10:45]
+**Scene 6 · O versículo** — Pois o próprio Filho do Homem não veio para ser servido, mas para servir.  [card: MARCOS 10:45]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Gentle cinematic realism like a faith-based feature film: warm golden light, soft haze, real modern locations. The chef, surprised and touched, smiles for the first time, warm light in the kitchen. Close-up.
 ```
@@ -808,7 +944,15 @@ Photorealistic character reference sheet for an AI influencer, high-end studio p
 ### Video 1: I almost lost her at 53
 **Hook:** I almost lost my wife at 53. Here's what happened.
 
-**Scene 1 · Hook** — Thirty-six years married. And I almost lost her at fifty-three.  [card: 36 YEARS]
+**Scene 1 · Cena 0 · O anel** — The letter was on the kitchen table. Her ring was on top of it.  [card: HER RING…]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Close-up, early morning kitchen: a folded letter on the kitchen table with a woman's gold wedding ring placed on top of it; a man's shaking hand reaches into frame.
+```
+```
+Close-up, early morning kitchen: a folded letter on the kitchen table with a woman's gold wedding ring placed on top of it; a man's shaking hand reaches into frame.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Thirty-six years married. And I almost lost her at fifty-three.  [card: 36 YEARS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sits at his kitchen table in the early morning, holding a coffee mug with both hands, looking at the viewer with a serious, emotional face. Medium shot.
 ```
@@ -816,7 +960,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sits at his kitchen table in the early morning, holding a coffee mug with both hands, looking at the viewer with a serious, emotional face. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Thirty-six years married. And I almost lost her at fifty-three." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · The road** — I was on the road three weeks out of four. I called it providing.
+**Scene 3 · The road** — I was on the road three weeks out of four. I called it providing.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray as a younger man (around 50, darker beard) driving a big rig truck at night on an empty highway, dashboard light on his tired face, a photo of his wife tucked by the mirror. Medium shot.
 ```
@@ -824,7 +968,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Ray as a younger man (around 50, darker beard) driving a big rig truck at night on an empty highway, dashboard light on his tired face, a photo of his wife tucked by the mirror. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · Home** — She called it being alone.
+**Scene 4 · Home** — She called it being alone.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. A woman in her 50s sitting alone at a dinner table set for two, the other plate untouched, looking at the clock. Medium shot, warm but lonely light.
 ```
@@ -832,7 +976,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A woman in her 50s sitting alone at a dinner table set for two, the other plate untouched, looking at the clock. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · The letter** — One day I came home to a letter. She wasn't gone yet. But she was ready to go.
+**Scene 5 · The letter** — One day I came home to a letter. She wasn't gone yet. But she was ready to go.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Younger Ray standing in a quiet kitchen holding an open letter (no readable text), shocked, his truck keys on the counter. Medium shot.
 ```
@@ -840,7 +984,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Younger Ray standing in a quiet kitchen holding an open letter (no readable text), shocked, his truck keys on the counter. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lesson** — Providing isn't the same as being there. Follow, I'll tell you how we fixed it.  [card: PART 2]
+**Scene 6 · Lesson** — Providing isn't the same as being there. Follow, I'll tell you how we fixed it.  [card: PART 2]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) back at the kitchen table today, taking his glasses off, looking at the viewer. Medium close-up.
 ```
@@ -851,7 +995,15 @@ Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up
 ### Video 2: 3 things I'd tell my younger self
 **Hook:** 3 things I'd tell my younger self about marriage
 
-**Scene 1 · Hook** — Three things I'd tell my younger self about marriage.
+**Scene 1 · Cena 0 · Aos 25** — If I'd known this at twenty-five, I wouldn't have almost lost her at fifty-three.  [card: AT 25…]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Old faded photo of a young couple on their wedding day, slowly pushed in; then Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring)'s tired face reflected in the glass of the frame.
+```
+```
+Old faded photo of a young couple on their wedding day, slowly pushed in; then Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring)'s tired face reflected in the glass of the frame.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Three things I'd tell my younger self about marriage.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sits on a porch swing at sunset holding up three fingers, slight smile. Medium shot.
 ```
@@ -859,7 +1011,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sits on a porch swing at sunset holding up three fingers, slight smile. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Three things I'd tell my younger self about marriage." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · One** — One: listen to understand, not to answer back.  [card: 1. LISTEN]
+**Scene 3 · One** — One: listen to understand, not to answer back.  [card: 1. LISTEN]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) leans forward on the porch, gesturing with his hand, serious caring face. Medium shot.
 ```
@@ -867,7 +1019,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) leans forward on the porch, gesturing with his hand, serious caring face. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "One: listen to understand, not to answer back." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 3 · Two** — Two: put the phone down when she talks. She notices.  [card: 2. PHONE DOWN]
+**Scene 4 · Two** — Two: put the phone down when she talks. She notices.  [card: 2. PHONE DOWN]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. A couple in their 50s at a kitchen counter, the man putting his phone face down in a drawer and turning to his wife, who smiles in surprise. Medium shot.
 ```
@@ -875,7 +1027,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A couple in their 50s at a kitchen counter, the man putting his phone face down in a drawer and turning to his wife, who smiles in surprise. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · Three** — Three: say sorry first. Being right is lonely.  [card: 3. SAY SORRY FIRST]
+**Scene 5 · Three** — Three: say sorry first. Being right is lonely.  [card: 3. SAY SORRY FIRST]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. The same man holding flowers awkwardly at the front door, apologetic face, his wife with arms crossed starting to smile. Medium shot.
 ```
@@ -883,7 +1035,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The same man holding flowers awkwardly at the front door, apologetic face, his wife with arms crossed starting to smile. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lesson** — Which one does your relationship need most? Tell me below.
+**Scene 6 · Lesson** — Which one does your relationship need most? Tell me below.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) on the porch swing, a woman's hand resting on his shoulder from off-screen, he smiles at the viewer. Medium shot.
 ```
@@ -894,7 +1046,15 @@ Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up
 ### Video 3: The 10-minute rule
 **Hook:** The 10-minute rule that saved my marriage
 
-**Scene 1 · Hook** — Ten minutes a day saved my marriage. Here's the rule.  [card: 10 MINUTES]
+**Scene 1 · Cena 0 · Tic-tac** — Ten minutes. That's all it took to save thirty-six years.  [card: 10 MINUTES]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Extreme close-up of an old kitchen timer ticking down, the sound loud in a silent house; a couple's two phones lying face down beside it.
+```
+```
+Extreme close-up of an old kitchen timer ticking down, the sound loud in a silent house; a couple's two phones lying face down beside it.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Ten minutes a day saved my marriage. Here's the rule.  [card: 10 MINUTES]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) at the kitchen table holding a small old kitchen timer, looking at the viewer. Medium shot.
 ```
@@ -902,7 +1062,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) at the kitchen table holding a small old kitchen timer, looking at the viewer. He/she looks at the camera and says in a deep, warm, slightly raspy older male voice, speaking English: "Ten minutes a day saved my marriage. Here's the rule." Photorealistic, natural human motion and micro-expressions, realistic lip-sync, subtle handheld cinematic camera. Keep exactly the same face, hair and outfit as the reference image. No music, no subtitles.
 ```
 
-**Scene 2 · The rule** — Every night, ten minutes. No phones. No TV. Just us.
+**Scene 3 · The rule** — Every night, ten minutes. No phones. No TV. Just us.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. A couple in their 50s sitting on a sofa facing each other, a kitchen timer on the coffee table, phones in a bowl on the side. Medium shot, warm evening light.
 ```
@@ -910,7 +1070,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A couple in their 50s sitting on a sofa facing each other, a kitchen timer on the coffee table, phones in a bowl on the side. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · The question** — One question: what was the best and the hardest part of your day?  [card: BEST + HARDEST]
+**Scene 4 · The question** — One question: what was the best and the hardest part of your day?  [card: BEST + HARDEST]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. The woman talking with her hands while the man listens closely, nodding. Medium close-up.
 ```
@@ -918,7 +1078,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The woman talking with her hands while the man listens closely, nodding. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · The change** — The first week felt awkward. By the third, we were talking like we used to.
+**Scene 5 · The change** — The first week felt awkward. By the third, we were talking like we used to.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Montage-style shot: the same couple laughing together in the kitchen, cooking side by side. Medium shot.
 ```
@@ -926,7 +1086,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Montage-style shot: the same couple laughing together in the kitchen, cooking side by side. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lesson** — Try it tonight. Ten minutes. Then come back and tell me how it went.  [card: TRY IT TONIGHT]
+**Scene 6 · Lesson** — Try it tonight. Ten minutes. Then come back and tell me how it went.  [card: TRY IT TONIGHT]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Americana realism: warm kitchen light, porch at sunset, highway at dusk, denim blue and rust tones. Ray (Black man around 60, short grey hair, grey beard, reading glasses pushed up on his head, kind tired eyes, dark navy denim work jacket over a grey t-shirt, wedding ring) sets the timer down and smiles at the viewer. Medium close-up.
 ```
@@ -948,7 +1108,15 @@ Photorealistic character reference sheet for an AI influencer, high-end studio p
 ### Video 1: Por que seu filho faz birra
 **Hook:** Birra: o cérebro do seu filho ainda está em obras 🧠
 
-**Scene 1 · Hook** — Seu filho não está fazendo birra para te irritar.
+**Scene 1 · Cena 0 · Todos a olhar** — Todo mundo olhando. E você sem saber o que fazer.  [card: TODO MUNDO OLHANDO]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. Supermarket aisle: a toddler screaming on the floor while every shopper turns to stare; close-up of the young mother's face, red with embarrassment, frozen.
+```
+```
+Supermarket aisle: a toddler screaming on the floor while every shopper turns to stare; close-up of the young mother's face, red with embarrassment, frozen.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Seu filho não está fazendo birra para te irritar.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. A toddler around 3 lying on the floor of a supermarket aisle crying and kicking, a stressed mother in her 30s crouching beside him, shoppers looking. Medium shot.
 ```
@@ -956,7 +1124,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A toddler around 3 lying on the floor of a supermarket aisle crying and kicking, a stressed mother in her 30s crouching beside him, shoppers looking. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · O mocho** — O cérebro dele ainda está em construção.
+**Scene 3 · O mocho** — O cérebro dele ainda está em construção.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) perched on a stack of books in a cozy library, raising one wing as if to explain, gentle smile. Medium shot.
 ```
@@ -964,7 +1132,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) perched on a stack of books in a cozy library, raising one wing as if to explain, gentle smile. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · O cérebro** — A parte que controla as emoções, bem atrás da testa, só fica pronta muitos anos depois.  [card: CÉREBRO EM OBRAS]
+**Scene 4 · O cérebro** — A parte que controla as emoções, bem atrás da testa, só fica pronta muitos anos depois.  [card: CÉREBRO EM OBRAS]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. Macro shot of a glowing translucent anatomical model of a child's brain on a wooden desk, with tiny miniature construction workers and scaffolding on the front part. Shallow depth of field, playful but realistic.
 ```
@@ -972,7 +1140,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 Macro shot of a glowing translucent anatomical model of a child's brain on a wooden desk, with tiny miniature construction workers and scaffolding on the front part. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · A emoção** — Por isso a emoção vence. Ele ainda não consegue frear sozinho.
+**Scene 5 · A emoção** — Por isso a emoção vence. Ele ainda não consegue frear sozinho.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The toddler with a big stormy cloud above his head, the mother calmly sitting next to him on the floor. Medium shot.
 ```
@@ -980,7 +1148,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The toddler with a big stormy cloud above his head, the mother calmly sitting next to him on the floor. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — Ele precisa que você seja a calma que ele ainda não tem. Siga para o próximo passo.  [card: VOCÊ É A CALMA]
+**Scene 6 · Lição** — Ele precisa que você seja a calma que ele ainda não tem. Siga para o próximo passo.  [card: VOCÊ É A CALMA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) closes his book and smiles warmly at the viewer. Medium close-up.
 ```
@@ -991,7 +1159,15 @@ the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big
 ### Video 2: Durante a birra: 3 passos
 **Hook:** O que fazer durante uma birra: 3 passos
 
-**Scene 1 · Hook** — Birra começando. O que você faz?
+**Scene 1 · Cena 0 · Os primeiros segundos** — O que você faz nos primeiros segundos muda tudo.  [card: OS PRIMEIROS SEGUNDOS]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. Close-up of a little girl's face, lip trembling, eyes filling with tears, one second before a tantrum; her father's hand reaching toward her in slow motion.
+```
+```
+Close-up of a little girl's face, lip trembling, eyes filling with tears, one second before a tantrum; her father's hand reaching toward her in slow motion.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — Birra começando. O que você faz?
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. A little girl around 4 screaming and crying in a living room, toys scattered, the father standing over her, frustrated. Medium shot.
 ```
@@ -999,7 +1175,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A little girl around 4 screaming and crying in a living room, toys scattered, the father standing over her, frustrated. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · Passo 1** — Um: respire e se abaixe na altura dela. Você primeiro.  [card: 1. CALMA]
+**Scene 3 · Passo 1** — Um: respire e se abaixe na altura dela. Você primeiro.  [card: 1. CALMA]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The father kneels down to the girl's eye level, taking a deep breath with his eyes closed. Medium shot.
 ```
@@ -1007,7 +1183,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The father kneels down to the girl's eye level, taking a deep breath with his eyes closed. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · Passo 2** — Dois: dê nome à emoção. 'Você está muito brava porque a brincadeira acabou.'  [card: 2. DÊ NOME À EMOÇÃO]
+**Scene 4 · Passo 2** — Dois: dê nome à emoção. 'Você está muito brava porque a brincadeira acabou.'  [card: 2. DÊ NOME À EMOÇÃO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The father speaks softly to the girl, his hand open near her, she looks at him while still crying. Close-up.
 ```
@@ -1015,7 +1191,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The father speaks softly to the girl, his hand open near her, she looks at him while still crying. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · Passo 3** — Três: fique por perto e mantenha ela segura. Sem sermão, sem gritar.  [card: 3. FIQUE PERTO]
+**Scene 5 · Passo 3** — Três: fique por perto e mantenha ela segura. Sem sermão, sem gritar.  [card: 3. FIQUE PERTO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The father sits calmly next to the girl on the rug, the girl calming down and leaning on him. Medium shot, warm light.
 ```
@@ -1023,7 +1199,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The father sits calmly next to the girl on the rug, the girl calming down and leaning on him. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — A conversa vem depois, quando a tempestade passar. Salve este vídeo para a próxima birra.  [card: SALVE 📌]
+**Scene 6 · Lição** — A conversa vem depois, quando a tempestade passar. Salve este vídeo para a próxima birra.  [card: SALVE 📌]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) on his stack of books, wing raised, smiling. Medium shot.
 ```
@@ -1034,7 +1210,15 @@ the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big
 ### Video 3: Em vez de 'para de chorar'
 **Hook:** Em vez de 'para de chorar', tente isto
 
-**Scene 1 · Hook** — 'Para de chorar!' Quantas vezes você já disse isso?
+**Scene 1 · Cena 0 · A frase** — Existe uma frase que acalma mais rápido do que 'para de chorar'.  [card: UMA FRASE]
+```
+Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. Close-up of a mother kneeling in front of her crying son, opening her mouth to speak; the frame freezes before she says it.
+```
+```
+Close-up of a mother kneeling in front of her crying son, opening her mouth to speak; the frame freezes before she says it.. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
+```
+
+**Scene 2 · Hook** — 'Para de chorar!' Quantas vezes você já disse isso?
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. A boy around 5 crying at the kitchen table over a broken toy, the mother pointing at him with an impatient face. Medium shot.
 ```
@@ -1042,7 +1226,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 A boy around 5 crying at the kitchen table over a broken toy, the mother pointing at him with an impatient face. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 2 · Porquê** — O choro não para só porque a gente pede. A emoção precisa sair.
+**Scene 3 · Porquê** — O choro não para só porque a gente pede. A emoção precisa sair.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) shakes his head gently, holding his book. Medium shot.
 ```
@@ -1050,7 +1234,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) shakes his head gently, holding his book. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 3 · A frase** — Tente: 'Você está triste porque o brinquedo quebrou. Eu estou aqui.'  [card: "EU ESTOU AQUI"]
+**Scene 4 · A frase** — Tente: 'Você está triste porque o brinquedo quebrou. Eu estou aqui.'  [card: "EU ESTOU AQUI"]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The mother sits next to the boy, puts an arm around him, and talks softly; he looks up at her. Close-up.
 ```
@@ -1058,7 +1242,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The mother sits next to the boy, puts an arm around him, and talks softly; he looks up at her. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 4 · O efeito** — Quando a criança se sente compreendida, ela se acalma mais rápido.
+**Scene 5 · O efeito** — Quando a criança se sente compreendida, ela se acalma mais rápido.
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. The boy hugs his mother, crying less, the broken toy on the table. Medium shot, warm light.
 ```
@@ -1066,7 +1250,7 @@ Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallo
 The boy hugs his mother, crying less, the broken toy on the table. Photorealistic, natural motion, subtle handheld cinematic camera move, real-world physics. Keep the same faces and outfits as the reference images, no morphing, no text.
 ```
 
-**Scene 5 · Lição** — Não é ceder. É ensinar a lidar com o que sente. Guia grátis de birras na bio.  [card: GUIA GRÁTIS NA BIO]
+**Scene 6 · Lição** — Não é ceder. É ensinar a lidar com o que sente. Guia grátis de birras na bio.  [card: GUIA GRÁTIS NA BIO]
 ```
 Photorealistic cinematic film still, shot on ARRI Alexa with a 35mm lens, shallow depth of field, natural skin texture with visible pores and fine lines, realistic individual hair strands, believable fabric texture, natural soft light with gentle contrast, subtle film grain, colour graded like a high-end commercial, real location, candid natural moment, vertical 9:16, no text, no watermark. Soft, warm family-home realism: natural window light, cozy real homes; the owl looks like a real tawny owl with real feathers, wearing tiny real glasses and a small knitted teal cardigan. the Owl (a wise, friendly real tawny owl with soft brown and cream feathers, big round orange eyes behind round glasses, wearing a teal cardigan, holding an open book) smiles warmly at the viewer, a small heart floating above him. Medium close-up.
 ```
