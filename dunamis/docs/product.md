@@ -1,7 +1,7 @@
-# SproutWise Product Details
+# Dunamis Product Details
 
 ## One-liner
-SproutWise is an AI business advisor app (website + phone app) that gives small businesses practical, sector-specific ideas and advice for less than the price of a lunch per month.
+Dunamis is an AI business advisor app (website + phone app) that gives small businesses practical, sector-specific ideas and advice for less than the price of a lunch per month.
 
 ## The problem
 - Small businesses make up ~90% of businesses worldwide, and many fail within 5 years. Common reasons: cash flow, poor pricing, weak marketing.
@@ -57,7 +57,7 @@ Using the default model (Claude Opus 5.5, $4 in / $20 out per million tokens) at
 - One consultation ≈ 2,000 input + ~900 output tokens ≈ **$0.02–0.03**
 - Sprout ($5, 50 questions): AI cost ≈ $1.30, payment fees ≈ $0.45, **≈ 65% gross margin**
 - Bloom ($12, ~200 questions typical): AI cost ≈ $5, **≈ 50% margin**
-- Levers: prompt caching (already on for the system prompt), shorter answers, or running the free tier on a cheaper model via `SPROUTWISE_MODEL` (e.g. Claude Haiku 5.5 at $0.10/$0.50, roughly 40× cheaper). Test answer quality before switching.
+- Levers: prompt caching (already on for the system prompt), shorter answers, or running the free tier on a cheaper model via `DUNAMIS_MODEL` (e.g. Claude Haiku 5.5 at $0.10/$0.50, roughly 40× cheaper). Test answer quality before switching.
 
 ## Success metrics
 - Activation: % of sign-ups asking 3+ questions in week 1 (target 40%)

@@ -1,4 +1,4 @@
-# SproutWise Scaling Plan
+# Dunamis Scaling Plan
 
 How to grow from this MVP to thousands of paying businesses.
 
@@ -42,9 +42,9 @@ Phone app / Website / WhatsApp
 - Security & privacy: GDPR/POPIA/NDPR-style data policy, encrypted data, data-deletion button
 
 **Growth engines**
-- B2B2C partner licences: banks/MFIs/NGOs pay per member per year (e.g. $1–3) to offer SproutWise
+- B2B2C partner licences: banks/MFIs/NGOs pay per member per year (e.g. $1–3) to offer Dunamis
 - Localisation: 5+ languages, local regulations and holidays per country
-- Expert marketplace: vetted human advisors, SproutWise takes 20%
+- Expert marketplace: vetted human advisors, Dunamis takes 20%
 - Toolkit store expanded with sector-specific templates
 
 **Team:** CEO, CTO, 2–3 engineers, growth lead, partnerships lead, support, country ambassadors.

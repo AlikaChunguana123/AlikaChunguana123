@@ -1,4 +1,4 @@
-// SproutWise advisor client: profile, topics, streaming chat, offline fallback.
+// Dunamis advisor client: profile, topics, streaming chat, offline fallback.
 const $ = (id) => document.getElementById(id);
 const S = window.SECTORS;
 const TOPICS = { ideas: '💡 Ideas', marketing: '📣 Marketing', money: '💰 Money & pricing', growth: '🚀 Growth', risks: '⚠️ Risks' };
@@ -18,10 +18,10 @@ function safeSet(k, v) { try { localStorage.setItem(k, v); } catch { /* private 
 
 // --- setup UI
 $('sector').innerHTML = Object.entries(S).map(([k, s]) => `<option value="${k}">${s.icon} ${s.name}</option>`).join('');
-const saved = JSON.parse(safeGet('sw_profile') || '{}');
+const saved = JSON.parse(safeGet('dunamis_profile') || '{}');
 FIELDS.forEach(f => { if (saved[f]) $(f).value = saved[f]; $(f).addEventListener('change', saveProfile); });
 function profile() { return Object.fromEntries(FIELDS.map(f => [f, $(f).value.trim()])); }
-function saveProfile() { safeSet('sw_profile', JSON.stringify(profile())); renderQuick(); }
+function saveProfile() { safeSet('dunamis_profile', JSON.stringify(profile())); renderQuick(); }
 
 function renderTopics() {
   $('topics').innerHTML = Object.entries(TOPICS).map(([k, v]) =>
@@ -44,7 +44,7 @@ function bubble(role, text) {
 
 function welcome() {
   const s = S[$('sector').value];
-  bubble('ai', `Hi! I'm your SproutWise advisor ${s.icon}\nFill in your business details on the left, pick a topic, and ask me anything. I'll give you practical steps that fit your sector and budget.`);
+  bubble('ai', `Hi! I'm your Dunamis advisor ${s.icon}\nFill in your business details on the left, pick a topic, and ask me anything. I'll give you practical steps that fit your sector and budget.`);
 }
 
 // Offline / no-server fallback: sector library

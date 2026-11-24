@@ -1,8 +1,8 @@
-# SproutWise Marketing Strategy
+# Dunamis Marketing Strategy
 
 ## Positioning
 **For** small business owners who can't afford a consultant,
-**SproutWise is** an AI business advisor in your pocket
+**Dunamis is** an AI business advisor in your pocket
 **that** gives practical, sector-specific advice in minutes,
 **unlike** generic chatbots or expensive consultants,
 **because** it knows your sector, city and budget and always ends with one action for this week.
@@ -21,7 +21,7 @@
 | **WhatsApp** | Free weekly tip broadcast; shareable tips with app link; community groups | Free |
 | **Facebook groups** | Answer questions in local business groups (helpful, not spammy) | Free |
 | **SEO / blog** | "How to price [product] in [country]", "[sector] business ideas 2027" | Free/time |
-| **Partnerships** | Microfinance banks, chambers of commerce, NGOs, incubators, giving SproutWise free/discounted to their members | Revenue share |
+| **Partnerships** | Microfinance banks, chambers of commerce, NGOs, incubators, giving Dunamis free/discounted to their members | Revenue share |
 | **Ambassadors** | Local business owners earn 30% of referrals' first-year payments | Commission |
 | **Workshops** | Free "Grow your business with AI" sessions at markets, churches, colleges | Low |
 | **Paid ads** | Only after organic proves the message: Meta ads targeted to small business owners, $5–10/day tests | Low |
@@ -29,7 +29,7 @@
 
 ## Launch plan (first 90 days)
 **Weeks 1–2: Prepare**
-- Set up social accounts @sproutwise (check availability), Google Business profile, WhatsApp Business
+- Set up social accounts @dunamis (check availability), Google Business profile, WhatsApp Business
 - Recruit 20 beta businesses across 5 sectors (friends, local market)
 - Record 15 short videos in advance
 
@@ -48,15 +48,15 @@
 
 ## Content pillars
 1. **Quick tips**: one sector, one tip, 30 seconds
-2. **Real stories**: owners using SproutWise and their results
+2. **Real stories**: owners using Dunamis and their results
 3. **Myth busters**: "You don't need a big budget to market"
 4. **Money basics**: pricing, profit, cash flow made simple
-5. **Behind the scenes**: building SproutWise (founder journey)
+5. **Behind the scenes**: building Dunamis (founder journey)
 
 ## Example posts
 - "Hairdressers: 3 ways to fill Tuesday chairs 💇 (#2 costs nothing)"
 - "Your price is too low if… 💰 Thread 👇"
-- "I asked SproutWise how to get my first 100 customers. Here's the plan it gave me."
+- "I asked Dunamis how to get my first 100 customers. Here's the plan it gave me."
 
 ## Funnel & metrics
 Awareness (views) → Visit website → Free sign-up → Ask 3 questions → Paid plan → Referral

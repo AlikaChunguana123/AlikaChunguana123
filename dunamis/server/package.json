@@ -1,9 +1,9 @@
 {
-  "name": "sproutwise-server",
+  "name": "dunamis-server",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "SproutWise AI business advisor: web server and AI advice API",
+  "description": "Dunamis AI business advisor: web server and AI advice API",
   "scripts": {
     "start": "node server.js"
   },

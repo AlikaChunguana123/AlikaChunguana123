@@ -1,6 +1,6 @@
 {
-  "name": "SproutWise: AI Business Advisor",
-  "short_name": "SproutWise",
+  "name": "Dunamis: AI Business Advisor",
+  "short_name": "Dunamis",
   "description": "Affordable AI business advice for small businesses, by sector.",
   "start_url": "app.html",
   "display": "standalone",

@@ -1,4 +1,4 @@
-// SproutWise sector knowledge base.
+// Dunamis sector knowledge base.
 // Used by the app for offline advice and sent to the server so the AI tailors its answer.
 // Add a sector by copying one block; keep tips concrete and low-cost first.
 window.SECTORS = {

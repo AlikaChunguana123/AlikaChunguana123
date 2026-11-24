@@ -1,4 +1,4 @@
-// SproutWise server: serves the website/app and streams AI advice from Claude.
+// Dunamis server: serves the website/app and streams AI advice from Claude.
 // Run: ANTHROPIC_API_KEY=... node server.js   (PORT defaults to 3000)
 import http from 'node:http';
 import fs from 'node:fs/promises';
@@ -9,8 +9,8 @@ import Anthropic from '@anthropic-ai/sdk';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'web');
 const PORT = Number(process.env.PORT || 3000);
-const MODEL = process.env.SPROUTWISE_MODEL || 'claude-opus-5-5';
-const EFFORT = process.env.SPROUTWISE_EFFORT || 'low'; // chat-style advice does well at low effort; raise for deeper plans
+const MODEL = process.env.DUNAMIS_MODEL || 'claude-opus-5-5';
+const EFFORT = process.env.DUNAMIS_EFFORT || 'low'; // chat-style advice does well at low effort; raise for deeper plans
 const RATE_PER_HOUR = Number(process.env.RATE_PER_HOUR || 30);
 
 // Load the same sector knowledge base the browser uses (server-side copy, so clients can't inject it).
@@ -21,7 +21,7 @@ const SECTORS = sandbox.window.SECTORS;
 const hasKey = Boolean(process.env.ANTHROPIC_API_KEY || process.env.ANTHROPIC_AUTH_TOKEN);
 const client = hasKey ? new Anthropic() : null;
 
-const SYSTEM = `You are SproutWise, a warm, practical business advisor for small and micro businesses (often 1–20 people, tight budgets, frequently in emerging markets).
+const SYSTEM = `You are Dunamis, a warm, practical business advisor for small and micro businesses (often 1–20 people, tight budgets, frequently in emerging markets).
 How you answer:
 - Tailor everything to the owner's sector, location, stage, team size and challenge given below.
 - Lead with the most useful answer. Use short numbered steps with concrete examples, numbers and local-realistic costs.
@@ -75,7 +75,7 @@ async function advice(req, res) {
 - Biggest challenge: ${clip(p.challenge, 400) || 'not given'}
 - Topic they selected: ${clip(body.topic, 20)}
 
-SproutWise playbook for this sector (use as a starting point, adapt to them):
+Dunamis playbook for this sector (use as a starting point, adapt to them):
 ${JSON.stringify({ ideas: sector.ideas, marketing: sector.marketing, money: sector.money, risks: sector.risks })}`;
 
   res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' });
@@ -125,4 +125,4 @@ http.createServer((req, res) => {
   if (req.method === 'GET' && req.url === '/api/health') return res.writeHead(200, { 'Content-Type': 'application/json' }).end(JSON.stringify({ ok: true, ai: hasKey }));
   if (req.method === 'GET') return serveStatic(req, res);
   res.writeHead(405).end();
-}).listen(PORT, () => console.log(`SproutWise running on http://localhost:${PORT} (AI ${hasKey ? 'on: ' + MODEL : 'off, offline tips only'})`));
+}).listen(PORT, () => console.log(`Dunamis running on http://localhost:${PORT} (AI ${hasKey ? 'on: ' + MODEL : 'off, offline tips only'})`));

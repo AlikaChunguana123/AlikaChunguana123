@@ -1,5 +1,5 @@
-// Caches the app shell so SproutWise opens offline (offline sector tips still work).
-const CACHE = 'sproutwise-v1';
+// Caches the app shell so Dunamis opens offline (offline sector tips still work).
+const CACHE = 'dunamis-v1';
 const SHELL = ['index.html', 'app.html', 'store.html', 'styles.css', 'app.js', 'sectors.js', 'icon.svg', 'manifest.webmanifest'];
 self.addEventListener('install', (e) => e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL))));
 self.addEventListener('activate', (e) => e.waitUntil(

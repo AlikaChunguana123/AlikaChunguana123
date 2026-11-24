@@ -1,13 +1,17 @@
-# SproutWise Brand Guide
+# Dunamis Brand Guide
+
+## The name
+**Dunamis** (δύναμις, *DOO-nah-mees*) is the Greek word for **power, strength and ability**. It's the root of words like *dynamic* and *dynamite*. The idea: every small business already has the power to grow, and Dunamis helps unlock it.
+
+**Brand line:** "Power to grow." · **Positioning line:** "Big-company advice, small-business price."
 
 ## Brand idea
-**"Big-company advice, small-business price."**
-SproutWise is the friendly, practical business advisor that every small business owner deserves but could never afford. We speak plainly, give concrete next steps, and celebrate small wins.
+Dunamis is the friendly, practical business advisor that every small business owner deserves but could never afford. We speak plainly, give concrete next steps, and celebrate small wins.
 
 - **Mission:** Give every small business access to expert-level advice that fits its sector, budget and reality.
 - **Vision:** A world where no good business idea fails for lack of advice.
 - **Personality:** Warm · Practical · Optimistic · Trustworthy · Local-minded
-- **Tagline options:** "Grow smarter, every day." / "Your business advisor in your pocket." / "Small business. Big ideas."
+- **Tagline options:** "Power to grow." / "Unlock the power in your business." / "Your business advisor in your pocket."
 
 ## Logo
 | File | Use |
@@ -15,7 +19,7 @@ SproutWise is the friendly, practical business advisor that every small business
 | `logo.svg` | Primary logo (mark + wordmark + descriptor) for website, documents, signage |
 | `logo-mark.svg` | App icon, social avatar, favicon, stickers |
 
-**Meaning:** The speech bubble is the consultation. The sprout growing inside is your business growing. The amber sun is the bright idea.
+**Meaning:** The speech bubble is the consultation. The sprout growing inside is your business growing with power (dunamis). The amber sun is the bright idea.
 
 **Rules:**
 - Leave clear space around the logo at least the height of the sprout's leaves.
